@@ -1,0 +1,7041 @@
+[
+  {
+    "Series": "Mini Stock Rookie Series by Thrustmaster",
+    "Cars": ["Mini Stock"],
+    "Class": "Rookie",
+    "Discipline": "Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Charlotte Motor Speedway  - Oval"
+      },
+      {
+        "week": 2,
+        "track": "Langley Speedway"
+      },
+      {
+        "week": 3,
+        "track": "USA International Speedway - Asphalt"
+      },
+      {
+        "week": 4,
+        "track": "Southern National Motorsports Park"
+      },
+      {
+        "week": 5,
+        "track": "South Boston Speedway"
+      },
+      {
+        "week": 6,
+        "track": "Concord Speedway"
+      },
+      {
+        "week": 7,
+        "track": "Oxford Plains Speedway"
+      },
+      {
+        "week": 8,
+        "track": "Lanier National Speedway - Asphalt"
+      },
+      {
+        "week": 9,
+        "track": "Thompson Speedway Motorsports Park - Oval"
+      },
+      {
+        "week": 10,
+        "track": "Charlotte Motor Speedway  - Oval"
+      },
+      {
+        "week": 11,
+        "track": "Langley Speedway"
+      },
+      {
+        "week": 12,
+        "track": "USA International Speedway - Asphalt"
+      }
+    ]
+  },
+  {
+    "Series": "Rookie Legends Cup by Simshop",
+    "Cars": ["Legends Ford '34 Coupe"],
+    "Class": "Rookie",
+    "Discipline": "Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Charlotte Motor Speedway - Legends Oval"
+      },
+      {
+        "week": 2,
+        "track": "USA International Speedway - Asphalt"
+      },
+      {
+        "week": 3,
+        "track": "Oxford Plains Speedway"
+      },
+      {
+        "week": 4,
+        "track": "Concord Speedway"
+      },
+      {
+        "week": 5,
+        "track": "South Boston Speedway"
+      },
+      {
+        "week": 6,
+        "track": "Lanier National Speedway - Asphalt"
+      },
+      {
+        "week": 7,
+        "track": "Charlotte Motor Speedway - Legends Oval"
+      },
+      {
+        "week": 8,
+        "track": "Thompson Speedway Motorsports Park - Oval"
+      },
+      {
+        "week": 9,
+        "track": "Langley Speedway"
+      },
+      {
+        "week": 10,
+        "track": "Lanier National Speedway - Asphalt"
+      },
+      {
+        "week": 11,
+        "track": "Oxford Plains Speedway"
+      },
+      {
+        "week": 12,
+        "track": "USA International Speedway - Asphalt"
+      }
+    ]
+  },
+  {
+    "Series": "Rookie Street Stock Series by Fanatec",
+    "Cars": [
+      "Street Stock - Panther C1",
+      "Street Stock - Casino M2",
+      "Street Stock - Eagle T3"
+    ],
+    "Class": "Rookie",
+    "Discipline": "Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Charlotte Motor Speedway  - Oval"
+      },
+      {
+        "week": 2,
+        "track": "Langley Speedway"
+      },
+      {
+        "week": 3,
+        "track": "USA International Speedway - Asphalt"
+      },
+      {
+        "week": 4,
+        "track": "Southern National Motorsports Park"
+      },
+      {
+        "week": 5,
+        "track": "South Boston Speedway"
+      },
+      {
+        "week": 6,
+        "track": "Concord Speedway"
+      },
+      {
+        "week": 7,
+        "track": "Oxford Plains Speedway"
+      },
+      {
+        "week": 8,
+        "track": "Lanier National Speedway - Asphalt"
+      },
+      {
+        "week": 9,
+        "track": "Thompson Speedway Motorsports Park - Oval"
+      },
+      {
+        "week": 10,
+        "track": "Charlotte Motor Speedway  - Oval"
+      },
+      {
+        "week": 11,
+        "track": "Langley Speedway"
+      },
+      {
+        "week": 12,
+        "track": "USA International Speedway - Asphalt"
+      }
+    ]
+  },
+  {
+    "Series": "ARCA Menards Series",
+    "Cars": ["ARCA Chevrolet SS", "ARCA Ford Mustang", "ARCA Toyota Camry"],
+    "Class": "Class D",
+    "Discipline": "Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Nashville Superspeedway"
+      },
+      {
+        "week": 2,
+        "track": "Concord Speedway"
+      },
+      {
+        "week": 3,
+        "track": "Texas Motor Speedway - Oval"
+      },
+      {
+        "week": 4,
+        "track": "Myrtle Beach Speedway"
+      },
+      {
+        "week": 5,
+        "track": "World Wide Technology Raceway (Gateway) -"
+      },
+      {
+        "week": 6,
+        "track": "Pocono Raceway"
+      },
+      {
+        "week": 7,
+        "track": "Sonoma Raceway - Cup Short"
+      },
+      {
+        "week": 8,
+        "track": "Sonoma Raceway - Oval"
+      },
+      {
+        "week": 9,
+        "track": "Daytona International Speedway - Oval"
+      },
+      {
+        "week": 10,
+        "track": "Langley Speedway"
+      },
+      {
+        "week": 11,
+        "track": "Phoenix Raceway - Oval w/open dogleg"
+      },
+      {
+        "week": 12,
+        "track": "Charlotte Motor Speedway  - Oval"
+      }
+    ]
+  },
+  {
+    "Series": "CARS Tour Late Model Stocks - Fixed",
+    "Cars": ["Late Model Stock"],
+    "Class": "Class D",
+    "Discipline": "Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Lanier National Speedway - Asphalt"
+      },
+      {
+        "week": 2,
+        "track": "Five Flags Speedway"
+      },
+      {
+        "week": 3,
+        "track": "Kevin Harvick's Kern Raceway - Asphalt Track"
+      },
+      {
+        "week": 4,
+        "track": "Bristol Motor Speedway - Dual Pit Roads"
+      },
+      {
+        "week": 5,
+        "track": "Concord Speedway"
+      },
+      {
+        "week": 6,
+        "track": "Nashville Fairgrounds Speedway - Oval"
+      },
+      {
+        "week": 7,
+        "track": "Lucas Oil Indianapolis Raceway Park - Oval"
+      },
+      {
+        "week": 8,
+        "track": "Myrtle Beach Speedway"
+      },
+      {
+        "week": 9,
+        "track": "Oxford Plains Speedway"
+      },
+      {
+        "week": 10,
+        "track": "Slinger Speedway - Oval"
+      },
+      {
+        "week": 11,
+        "track": "USA International Speedway - Asphalt"
+      },
+      {
+        "week": 12,
+        "track": "The Bullring"
+      }
+    ]
+  },
+  {
+    "Series": "Draft Master Challenge by Simagic",
+    "Cars": ["See race week for cars in use that week."],
+    "Class": "Class D",
+    "Discipline": "Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Talladega Superspeedway"
+      },
+      {
+        "week": 2,
+        "track": "Talladega Superspeedway"
+      },
+      {
+        "week": 3,
+        "track": "Talladega Superspeedway"
+      },
+      {
+        "week": 4,
+        "track": "Talladega Superspeedway"
+      },
+      {
+        "week": 5,
+        "track": "Talladega Superspeedway"
+      },
+      {
+        "week": 6,
+        "track": "Talladega Superspeedway"
+      },
+      {
+        "week": 7,
+        "track": "Daytona International Speedway - Oval"
+      },
+      {
+        "week": 8,
+        "track": "Daytona International Speedway - Oval"
+      },
+      {
+        "week": 9,
+        "track": "Daytona International Speedway - Oval"
+      },
+      {
+        "week": 10,
+        "track": "Daytona International Speedway - Oval"
+      },
+      {
+        "week": 11,
+        "track": "Daytona International Speedway - Oval"
+      },
+      {
+        "week": 12,
+        "track": "Daytona International Speedway - Oval"
+      }
+    ]
+  },
+  {
+    "Series": "Jr Open Wheel Oval Challenge",
+    "Cars": ["Indy Pro 2000 PM-18"],
+    "Class": "Class D",
+    "Discipline": "Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Charlotte Motor Speedway  - Oval"
+      },
+      {
+        "week": 2,
+        "track": "North Wilkesboro Speedway - Oval"
+      },
+      {
+        "week": 3,
+        "track": "[Legacy] Phoenix Raceway - 2008 - Oval"
+      },
+      {
+        "week": 4,
+        "track": "Richmond Raceway"
+      },
+      {
+        "week": 5,
+        "track": "South Boston Speedway"
+      },
+      {
+        "week": 6,
+        "track": "Lucas Oil Indianapolis Raceway Park - Oval"
+      },
+      {
+        "week": 7,
+        "track": "Concord Speedway"
+      },
+      {
+        "week": 8,
+        "track": "USA International Speedway - Asphalt"
+      },
+      {
+        "week": 9,
+        "track": "Martinsville Speedway"
+      },
+      {
+        "week": 10,
+        "track": "Southern National Motorsports Park"
+      },
+      {
+        "week": 11,
+        "track": "Autodromo Hermanos Rodriguez - Oval"
+      },
+      {
+        "week": 12,
+        "track": "Iowa Speedway - Oval - 2011 - Oval - 2011"
+      }
+    ]
+  },
+  {
+    "Series": "SK Modified Series",
+    "Cars": ["Modified - SK"],
+    "Class": "Class D",
+    "Discipline": "Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Hickory Motor Speedway"
+      },
+      {
+        "week": 2,
+        "track": "Thompson Speedway Motorsports Park - Oval"
+      },
+      {
+        "week": 3,
+        "track": "The Bullring"
+      },
+      {
+        "week": 4,
+        "track": "Langley Speedway"
+      },
+      {
+        "week": 5,
+        "track": "Five Flags Speedway"
+      },
+      {
+        "week": 6,
+        "track": "Concord Speedway"
+      },
+      {
+        "week": 7,
+        "track": "North Wilkesboro Speedway - Oval"
+      },
+      {
+        "week": 8,
+        "track": "South Boston Speedway"
+      },
+      {
+        "week": 9,
+        "track": "Stafford Motor Speedway - Full Course"
+      },
+      {
+        "week": 10,
+        "track": "Southern National Motorsports Park"
+      },
+      {
+        "week": 11,
+        "track": "Oswego Speedway - Oval"
+      },
+      {
+        "week": 12,
+        "track": "Lanier National Speedway - Asphalt"
+      }
+    ]
+  },
+  {
+    "Series": "SK Modified Weekly Series",
+    "Cars": ["Modified - SK"],
+    "Class": "Class D",
+    "Discipline": "Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Hickory Motor Speedway"
+      },
+      {
+        "week": 2,
+        "track": "Thompson Speedway Motorsports Park - Oval"
+      },
+      {
+        "week": 3,
+        "track": "The Bullring"
+      },
+      {
+        "week": 4,
+        "track": "Langley Speedway"
+      },
+      {
+        "week": 5,
+        "track": "Five Flags Speedway"
+      },
+      {
+        "week": 6,
+        "track": "Concord Speedway"
+      },
+      {
+        "week": 7,
+        "track": "North Wilkesboro Speedway - Oval"
+      },
+      {
+        "week": 8,
+        "track": "South Boston Speedway"
+      },
+      {
+        "week": 9,
+        "track": "Stafford Motor Speedway - Full Course"
+      },
+      {
+        "week": 10,
+        "track": "Southern National Motorsports Park"
+      },
+      {
+        "week": 11,
+        "track": "Oswego Speedway - Oval"
+      },
+      {
+        "week": 12,
+        "track": "Lanier National Speedway - Asphalt"
+      }
+    ]
+  },
+  {
+    "Series": "SRX Series - Fixed",
+    "Cars": ["SRX"],
+    "Class": "Class D",
+    "Discipline": "Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "USA International Speedway - Asphalt"
+      },
+      {
+        "week": 2,
+        "track": "USA International Speedway - Dirt"
+      },
+      {
+        "week": 3,
+        "track": "Autodromo Hermanos Rodriguez - Oval"
+      },
+      {
+        "week": 4,
+        "track": "Southern National Motorsports Park"
+      },
+      {
+        "week": 5,
+        "track": "Circuito de Navarra - Speed Circuit - Medium"
+      },
+      {
+        "week": 6,
+        "track": "Limaland Motorsports Park"
+      },
+      {
+        "week": 7,
+        "track": "The Bullring"
+      },
+      {
+        "week": 8,
+        "track": "Thompson Speedway Motorsports Park - Oval"
+      },
+      {
+        "week": 9,
+        "track": "Charlotte Motor Speedway  - Roval No Chicanes"
+      },
+      {
+        "week": 10,
+        "track": "Nashville Superspeedway"
+      },
+      {
+        "week": 11,
+        "track": "Lanier National Speedway - Dirt"
+      },
+      {
+        "week": 12,
+        "track": "Langley Speedway"
+      }
+    ]
+  },
+  {
+    "Series": "CARS Tour Late Model Stocks",
+    "Cars": ["Late Model Stock"],
+    "Class": "Class C",
+    "Discipline": "Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Lanier National Speedway - Asphalt"
+      },
+      {
+        "week": 2,
+        "track": "Five Flags Speedway"
+      },
+      {
+        "week": 3,
+        "track": "Kevin Harvick's Kern Raceway - Asphalt Track"
+      },
+      {
+        "week": 4,
+        "track": "Bristol Motor Speedway - Dual Pit Roads"
+      },
+      {
+        "week": 5,
+        "track": "Concord Speedway"
+      },
+      {
+        "week": 6,
+        "track": "Nashville Fairgrounds Speedway - Oval"
+      },
+      {
+        "week": 7,
+        "track": "Lucas Oil Indianapolis Raceway Park - Oval"
+      },
+      {
+        "week": 8,
+        "track": "Myrtle Beach Speedway"
+      },
+      {
+        "week": 9,
+        "track": "Oxford Plains Speedway"
+      },
+      {
+        "week": 10,
+        "track": "Slinger Speedway - Oval"
+      },
+      {
+        "week": 11,
+        "track": "USA International Speedway - Asphalt"
+      },
+      {
+        "week": 12,
+        "track": "The Bullring"
+      }
+    ]
+  },
+  {
+    "Series": "Indy NXT Oval Series - Fixed",
+    "Cars": ["Dallara IL-15"],
+    "Class": "Class C",
+    "Discipline": "Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Mobility Resort Motegi - Oval"
+      },
+      {
+        "week": 2,
+        "track": "USA International Speedway - Asphalt"
+      },
+      {
+        "week": 3,
+        "track": "Phoenix Raceway - Oval"
+      },
+      {
+        "week": 4,
+        "track": "Myrtle Beach Speedway"
+      },
+      {
+        "week": 5,
+        "track": "Iowa Speedway - Oval - 2011 - Oval - 2011"
+      },
+      {
+        "week": 6,
+        "track": "The Milwaukee Mile"
+      },
+      {
+        "week": 7,
+        "track": "Lucas Oil Indianapolis Raceway Park - Oval"
+      },
+      {
+        "week": 8,
+        "track": "New Hampshire Motor Speedway - Oval"
+      },
+      {
+        "week": 9,
+        "track": "North Wilkesboro Speedway - Oval"
+      },
+      {
+        "week": 10,
+        "track": "World Wide Technology Raceway (Gateway) -"
+      },
+      {
+        "week": 11,
+        "track": "Richmond Raceway"
+      },
+      {
+        "week": 12,
+        "track": "Pocono Raceway"
+      }
+    ]
+  },
+  {
+    "Series": "Legends Cup by Go Motorsports Shop",
+    "Cars": ["Legends Ford '34 Coupe"],
+    "Class": "Class C",
+    "Discipline": "Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "South Boston Speedway"
+      },
+      {
+        "week": 2,
+        "track": "Charlotte Motor Speedway - Legends Oval"
+      },
+      {
+        "week": 3,
+        "track": "Southern National Motorsports Park"
+      },
+      {
+        "week": 4,
+        "track": "WeatherTech Raceway at Laguna Seca - Full"
+      },
+      {
+        "week": 5,
+        "track": "Irwindale Speedway - Inner"
+      },
+      {
+        "week": 6,
+        "track": "Bristol Motor Speedway - Dual Pit Roads"
+      },
+      {
+        "week": 7,
+        "track": "Oxford Plains Speedway"
+      },
+      {
+        "week": 8,
+        "track": "LA Coliseum Raceway"
+      },
+      {
+        "week": 9,
+        "track": "Hickory Motor Speedway"
+      },
+      {
+        "week": 10,
+        "track": "[Legacy] Phoenix Raceway - 2008 - Oval"
+      },
+      {
+        "week": 11,
+        "track": "Lanier National Speedway - Asphalt"
+      },
+      {
+        "week": 12,
+        "track": "Slinger Speedway - Oval"
+      }
+    ]
+  },
+  {
+    "Series": "NASCAR Class C Series - Fixed",
+    "Cars": [
+      "NASCAR Truck Chevrolet Silverado",
+      "NASCAR Truck Ford F150",
+      "NASCAR Truck Toyota Tundra TRD Pro"
+    ],
+    "Class": "Class C",
+    "Discipline": "Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Nashville Superspeedway"
+      },
+      {
+        "week": 2,
+        "track": "Talladega Superspeedway"
+      },
+      {
+        "week": 3,
+        "track": "[Legacy] Texas Motor Speedway - 2009 - Oval"
+      },
+      {
+        "week": 4,
+        "track": "Pocono Raceway"
+      },
+      {
+        "week": 5,
+        "track": "[Legacy] Michigan International Speedway -"
+      },
+      {
+        "week": 6,
+        "track": "Indianapolis Motor Speedway - NASCAR Oval"
+      },
+      {
+        "week": 7,
+        "track": "Rockingham Speedway - Oval - 2012"
+      },
+      {
+        "week": 8,
+        "track": "Homestead Miami Speedway - Oval"
+      },
+      {
+        "week": 9,
+        "track": "Daytona International Speedway - Oval"
+      },
+      {
+        "week": 10,
+        "track": "EchoPark Speedway (Atlanta) - Oval"
+      },
+      {
+        "week": 11,
+        "track": "Long Beach Street Circuit"
+      },
+      {
+        "week": 12,
+        "track": "Phoenix Raceway - Oval w/open dogleg"
+      }
+    ]
+  },
+  {
+    "Series": "NASCAR Gen 4 Cup Series",
+    "Cars": ["Gen 4 Chevrolet Monte Carlo - 2003", "Gen 4 Ford Taurus - 2003"],
+    "Class": "Class C",
+    "Discipline": "Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Homestead Miami Speedway - Oval"
+      },
+      {
+        "week": 2,
+        "track": "Phoenix Raceway - Oval w/open dogleg"
+      },
+      {
+        "week": 3,
+        "track": "[Legacy] Texas Motor Speedway - 2009 - Oval"
+      },
+      {
+        "week": 4,
+        "track": "Daytona International Speedway - NASCAR"
+      },
+      {
+        "week": 5,
+        "track": "Iowa Speedway - Oval"
+      },
+      {
+        "week": 6,
+        "track": "Chicagoland Speedway"
+      },
+      {
+        "week": 7,
+        "track": "Autodromo Hermanos Rodriguez - Oval"
+      },
+      {
+        "week": 8,
+        "track": "Daytona International Speedway - Oval - 2008"
+      },
+      {
+        "week": 9,
+        "track": "Rockingham Speedway - Oval - 2012"
+      },
+      {
+        "week": 10,
+        "track": "Las Vegas Motor Speedway - Oval"
+      },
+      {
+        "week": 11,
+        "track": "EchoPark Speedway (Atlanta) - Oval - 2008"
+      },
+      {
+        "week": 12,
+        "track": "Darlington Raceway"
+      }
+    ]
+  },
+  {
+    "Series": "NASCAR iRacing Class C Series Series",
+    "Cars": [
+      "NASCAR Truck Chevrolet Silverado",
+      "NASCAR Truck Ford F150",
+      "NASCAR Truck Toyota Tundra TRD Pro"
+    ],
+    "Class": "Class C",
+    "Discipline": "Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Nashville Superspeedway"
+      },
+      {
+        "week": 2,
+        "track": "Talladega Superspeedway"
+      },
+      {
+        "week": 3,
+        "track": "[Legacy] Texas Motor Speedway - 2009 - Oval"
+      },
+      {
+        "week": 4,
+        "track": "Pocono Raceway"
+      },
+      {
+        "week": 5,
+        "track": "[Legacy] Michigan International Speedway -"
+      },
+      {
+        "week": 6,
+        "track": "Indianapolis Motor Speedway - NASCAR Oval"
+      },
+      {
+        "week": 7,
+        "track": "Rockingham Speedway - Oval - 2012"
+      },
+      {
+        "week": 8,
+        "track": "Homestead Miami Speedway - Oval"
+      }
+    ]
+  },
+  {
+    "Series": "NASCAR Tour Modified Series",
+    "Cars": ["Modified - NASCAR Whelen Tour"],
+    "Class": "Class C",
+    "Discipline": "Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Southern National Motorsports Park"
+      },
+      {
+        "week": 2,
+        "track": "Five Flags Speedway"
+      },
+      {
+        "week": 3,
+        "track": "Oswego Speedway - Oval"
+      },
+      {
+        "week": 4,
+        "track": "Lime Rock Park - Classic"
+      },
+      {
+        "week": 5,
+        "track": "Lucas Oil Indianapolis Raceway Park - Oval"
+      },
+      {
+        "week": 6,
+        "track": "Lanier National Speedway - Asphalt"
+      },
+      {
+        "week": 7,
+        "track": "The Bullring"
+      },
+      {
+        "week": 8,
+        "track": "New Smyrna Speedway"
+      },
+      {
+        "week": 9,
+        "track": "USA International Speedway - Asphalt"
+      },
+      {
+        "week": 10,
+        "track": "Phoenix Raceway - Oval w/open dogleg"
+      },
+      {
+        "week": 11,
+        "track": "Myrtle Beach Speedway"
+      },
+      {
+        "week": 12,
+        "track": "North Wilkesboro Speedway - Oval"
+      }
+    ]
+  },
+  {
+    "Series": "NASCAR Tour Modified Series - Fixed",
+    "Cars": ["Modified - NASCAR Whelen Tour"],
+    "Class": "Class C",
+    "Discipline": "Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Southern National Motorsports Park"
+      },
+      {
+        "week": 2,
+        "track": "Five Flags Speedway"
+      },
+      {
+        "week": 3,
+        "track": "Oswego Speedway - Oval"
+      },
+      {
+        "week": 4,
+        "track": "Lime Rock Park - Classic"
+      },
+      {
+        "week": 5,
+        "track": "Lucas Oil Indianapolis Raceway Park - Oval"
+      },
+      {
+        "week": 6,
+        "track": "Lanier National Speedway - Asphalt"
+      },
+      {
+        "week": 7,
+        "track": "The Bullring"
+      },
+      {
+        "week": 8,
+        "track": "New Smyrna Speedway"
+      },
+      {
+        "week": 9,
+        "track": "USA International Speedway - Asphalt"
+      },
+      {
+        "week": 10,
+        "track": "Phoenix Raceway - Oval w/open dogleg"
+      },
+      {
+        "week": 11,
+        "track": "Myrtle Beach Speedway"
+      },
+      {
+        "week": 12,
+        "track": "North Wilkesboro Speedway - Oval"
+      }
+    ]
+  },
+  {
+    "Series": "Street Stock Series by Next Level Racing",
+    "Cars": [
+      "Street Stock - Panther C1",
+      "Street Stock - Casino M2",
+      "Street Stock - Eagle T3"
+    ],
+    "Class": "Class C",
+    "Discipline": "Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "South Boston Speedway"
+      },
+      {
+        "week": 2,
+        "track": "North Wilkesboro Speedway - Oval"
+      },
+      {
+        "week": 3,
+        "track": "Martinsville Speedway"
+      },
+      {
+        "week": 4,
+        "track": "Hickory Motor Speedway"
+      },
+      {
+        "week": 5,
+        "track": "[Legacy] Phoenix Raceway - 2008 - Oval"
+      },
+      {
+        "week": 6,
+        "track": "Myrtle Beach Speedway"
+      },
+      {
+        "week": 7,
+        "track": "Langley Speedway"
+      },
+      {
+        "week": 8,
+        "track": "Richmond Raceway"
+      },
+      {
+        "week": 9,
+        "track": "New Smyrna Speedway"
+      },
+      {
+        "week": 10,
+        "track": "Southern National Motorsports Park"
+      },
+      {
+        "week": 11,
+        "track": "Lucas Oil Indianapolis Raceway Park - Oval"
+      },
+      {
+        "week": 12,
+        "track": "Charlotte Motor Speedway - Legends Oval"
+      }
+    ]
+  },
+  {
+    "Series": "Super Late Model Series",
+    "Cars": ["Super Late Model"],
+    "Class": "Class C",
+    "Discipline": "Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Richmond Raceway"
+      },
+      {
+        "week": 2,
+        "track": "Oxford Plains Speedway"
+      },
+      {
+        "week": 3,
+        "track": "Slinger Speedway - Oval"
+      },
+      {
+        "week": 4,
+        "track": "Rockingham Speedway - Oval - 2012"
+      },
+      {
+        "week": 5,
+        "track": "Lanier National Speedway - Asphalt"
+      },
+      {
+        "week": 6,
+        "track": "Thompson Speedway Motorsports Park - Oval"
+      },
+      {
+        "week": 7,
+        "track": "Kevin Harvick's Kern Raceway - Asphalt Track"
+      },
+      {
+        "week": 8,
+        "track": "Langley Speedway"
+      },
+      {
+        "week": 9,
+        "track": "New Smyrna Speedway"
+      },
+      {
+        "week": 10,
+        "track": "Irwindale Speedway - Outer"
+      },
+      {
+        "week": 11,
+        "track": "USA International Speedway - Asphalt"
+      },
+      {
+        "week": 12,
+        "track": "Hickory Motor Speedway"
+      }
+    ]
+  },
+  {
+    "Series": "INDYCAR Series - Oval - Fixed",
+    "Cars": ["Dallara IR18"],
+    "Class": "Class B",
+    "Discipline": "Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "World Wide Technology Raceway (Gateway) -"
+      },
+      {
+        "week": 2,
+        "track": "Homestead Miami Speedway - Open Wheel"
+      },
+      {
+        "week": 3,
+        "track": "Indianapolis Motor Speedway - Open Wheel"
+      },
+      {
+        "week": 4,
+        "track": "EchoPark Speedway (Atlanta) - Oval - 2008"
+      },
+      {
+        "week": 5,
+        "track": "Iowa Speedway - Oval"
+      },
+      {
+        "week": 6,
+        "track": "Chicagoland Speedway"
+      },
+      {
+        "week": 7,
+        "track": "Talladega Superspeedway"
+      },
+      {
+        "week": 8,
+        "track": "Auto Club Speedway - Oval"
+      },
+      {
+        "week": 9,
+        "track": "Charlotte Motor Speedway  - Oval"
+      },
+      {
+        "week": 10,
+        "track": "Phoenix Raceway - Oval"
+      },
+      {
+        "week": 11,
+        "track": "Michigan International Speedway"
+      },
+      {
+        "week": 12,
+        "track": "[Legacy] Texas Motor Speedway - 2009 - Oval"
+      }
+    ]
+  },
+  {
+    "Series": "NASCAR 1987 Legends Cup",
+    "Cars": [
+      "NASCAR Legends Chevrolet Monte Carlo - 1987",
+      "NASCAR Legends Ford Thunderbird - 1987",
+      "NASCAR Legends Buick LeSabre - 1987",
+      "NASCAR Legends Pontiac Grand Prix - 1987"
+    ],
+    "Class": "Class B",
+    "Discipline": "Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Daytona International Speedway - Oval - 2008"
+      },
+      {
+        "week": 2,
+        "track": "Dover Motor Speedway"
+      },
+      {
+        "week": 3,
+        "track": "Richmond Raceway"
+      },
+      {
+        "week": 4,
+        "track": "Nashville Superspeedway"
+      },
+      {
+        "week": 5,
+        "track": "North Wilkesboro Speedway - Oval - 1987"
+      },
+      {
+        "week": 6,
+        "track": "Talladega Superspeedway"
+      },
+      {
+        "week": 7,
+        "track": "Watkins Glen International - Classic"
+      },
+      {
+        "week": 8,
+        "track": "Iowa Speedway - Oval"
+      },
+      {
+        "week": 9,
+        "track": "Rockingham Speedway - Oval - 2012"
+      },
+      {
+        "week": 10,
+        "track": "Chicagoland Speedway"
+      },
+      {
+        "week": 11,
+        "track": "Martinsville Speedway"
+      },
+      {
+        "week": 12,
+        "track": "Las Vegas Motor Speedway - Oval"
+      }
+    ]
+  },
+  {
+    "Series": "NASCAR iRacing Class B Series Series",
+    "Cars": [
+      "NASCAR XFINITY Chevrolet Camaro",
+      "NASCAR XFINITY Ford Mustang",
+      "NASCAR XFINITY Toyota Supra"
+    ],
+    "Class": "Class B",
+    "Discipline": "Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "[Legacy] Texas Motor Speedway - 2009 - Oval"
+      },
+      {
+        "week": 2,
+        "track": "Richmond Raceway"
+      },
+      {
+        "week": 3,
+        "track": "Charlotte Motor Speedway  - Oval"
+      },
+      {
+        "week": 4,
+        "track": "[Legacy] Michigan International Speedway -"
+      },
+      {
+        "week": 5,
+        "track": "New Hampshire Motor Speedway - Oval"
+      },
+      {
+        "week": 6,
+        "track": "Auto Club Speedway - Oval"
+      },
+      {
+        "week": 7,
+        "track": "[Legacy] Kentucky Speedway - 2011 - Oval"
+      },
+      {
+        "week": 8,
+        "track": "EchoPark Speedway (Atlanta) - Oval - 2008"
+      }
+    ]
+  },
+  {
+    "Series": "NASCAR Xfinity Series - Fixed",
+    "Cars": [
+      "NASCAR XFINITY Chevrolet Camaro",
+      "NASCAR XFINITY Ford Mustang",
+      "NASCAR XFINITY Toyota Supra"
+    ],
+    "Class": "Class B",
+    "Discipline": "Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "[Legacy] Texas Motor Speedway - 2009 - Oval"
+      },
+      {
+        "week": 2,
+        "track": "Richmond Raceway"
+      },
+      {
+        "week": 3,
+        "track": "Charlotte Motor Speedway  - Oval"
+      },
+      {
+        "week": 4,
+        "track": "[Legacy] Michigan International Speedway -"
+      },
+      {
+        "week": 5,
+        "track": "New Hampshire Motor Speedway - Oval"
+      },
+      {
+        "week": 6,
+        "track": "Auto Club Speedway - Oval"
+      },
+      {
+        "week": 7,
+        "track": "[Legacy] Kentucky Speedway - 2011 - Oval"
+      },
+      {
+        "week": 8,
+        "track": "EchoPark Speedway (Atlanta) - Oval - 2008"
+      },
+      {
+        "week": 9,
+        "track": "Daytona International Speedway - Oval"
+      },
+      {
+        "week": 10,
+        "track": "EchoPark Speedway (Atlanta) - Oval"
+      },
+      {
+        "week": 11,
+        "track": "Circuit of the Americas - NASCAR West"
+      },
+      {
+        "week": 12,
+        "track": "Phoenix Raceway - Oval w/open dogleg"
+      }
+    ]
+  },
+  {
+    "Series": "Silver Crown Cup",
+    "Cars": ["Silver Crown"],
+    "Class": "Class B",
+    "Discipline": "Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Iowa Speedway - Oval"
+      },
+      {
+        "week": 2,
+        "track": "Kansas Speedway - Oval"
+      },
+      {
+        "week": 3,
+        "track": "Nashville Fairgrounds Speedway - Oval"
+      },
+      {
+        "week": 4,
+        "track": "Myrtle Beach Speedway"
+      },
+      {
+        "week": 5,
+        "track": "Darlington Raceway"
+      },
+      {
+        "week": 6,
+        "track": "Texas Motor Speedway - Oval"
+      },
+      {
+        "week": 7,
+        "track": "North Wilkesboro Speedway - Oval"
+      },
+      {
+        "week": 8,
+        "track": "World Wide Technology Raceway (Gateway) -"
+      },
+      {
+        "week": 9,
+        "track": "New Smyrna Speedway"
+      },
+      {
+        "week": 10,
+        "track": "USA International Speedway - Asphalt"
+      },
+      {
+        "week": 11,
+        "track": "Kentucky Speedway - Oval"
+      },
+      {
+        "week": 12,
+        "track": "Richmond Raceway"
+      }
+    ]
+  },
+  {
+    "Series": "Sprint Car Cup",
+    "Cars": ["Sprint Car"],
+    "Class": "Class B",
+    "Discipline": "Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Iowa Speedway - Oval - 2011 - Oval - 2011"
+      },
+      {
+        "week": 2,
+        "track": "Five Flags Speedway"
+      },
+      {
+        "week": 3,
+        "track": "Slinger Speedway - Oval"
+      },
+      {
+        "week": 4,
+        "track": "Kevin Harvick's Kern Raceway - Asphalt Track"
+      },
+      {
+        "week": 5,
+        "track": "Southern National Motorsports Park"
+      },
+      {
+        "week": 6,
+        "track": "Oswego Speedway - Oval"
+      },
+      {
+        "week": 7,
+        "track": "South Boston Speedway"
+      },
+      {
+        "week": 8,
+        "track": "Myrtle Beach Speedway"
+      },
+      {
+        "week": 9,
+        "track": "New Smyrna Speedway"
+      },
+      {
+        "week": 10,
+        "track": "Lanier National Speedway - Asphalt"
+      },
+      {
+        "week": 11,
+        "track": "Autodromo Hermanos Rodriguez - Oval"
+      },
+      {
+        "week": 12,
+        "track": "Lucas Oil Indianapolis Raceway Park - Oval"
+      }
+    ]
+  },
+  {
+    "Series": "NASCAR Class A Series",
+    "Cars": [
+      "NASCAR Cup Series Next Gen Chevrolet Camaro ZL1",
+      "NASCAR Cup Series Next Gen Ford Mustang",
+      "NASCAR Cup Series Next Gen Toyota Camry"
+    ],
+    "Class": "Class A",
+    "Discipline": "Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "EchoPark Speedway (Atlanta) - Oval - 2008"
+      },
+      {
+        "week": 2,
+        "track": "Rockingham Speedway - Oval - 2012"
+      },
+      {
+        "week": 3,
+        "track": "Autodromo Hermanos Rodriguez - National"
+      },
+      {
+        "week": 4,
+        "track": "Homestead Miami Speedway - Oval"
+      },
+      {
+        "week": 5,
+        "track": "Bristol Motor Speedway - Dirt"
+      },
+      {
+        "week": 6,
+        "track": "Pocono Raceway"
+      },
+      {
+        "week": 7,
+        "track": "Kentucky Speedway - Oval"
+      },
+      {
+        "week": 8,
+        "track": "Richmond Raceway"
+      },
+      {
+        "week": 9,
+        "track": "Daytona International Speedway - Oval"
+      },
+      {
+        "week": 10,
+        "track": "EchoPark Speedway (Atlanta) - Oval"
+      },
+      {
+        "week": 11,
+        "track": "Circuit of the Americas - NASCAR West"
+      },
+      {
+        "week": 12,
+        "track": "Phoenix Raceway - Oval w/open dogleg"
+      }
+    ]
+  },
+  {
+    "Series": "NASCAR Class A Series - Fixed",
+    "Cars": [
+      "NASCAR Cup Series Next Gen Chevrolet Camaro ZL1",
+      "NASCAR Cup Series Next Gen Ford Mustang",
+      "NASCAR Cup Series Next Gen Toyota Camry"
+    ],
+    "Class": "Class A",
+    "Discipline": "Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "EchoPark Speedway (Atlanta) - Oval - 2008"
+      },
+      {
+        "week": 2,
+        "track": "Rockingham Speedway - Oval - 2012"
+      },
+      {
+        "week": 3,
+        "track": "Autodromo Hermanos Rodriguez - National"
+      },
+      {
+        "week": 4,
+        "track": "Homestead Miami Speedway - Oval"
+      },
+      {
+        "week": 5,
+        "track": "Bristol Motor Speedway - Dirt"
+      },
+      {
+        "week": 6,
+        "track": "Pocono Raceway"
+      },
+      {
+        "week": 7,
+        "track": "Kentucky Speedway - Oval"
+      },
+      {
+        "week": 8,
+        "track": "Richmond Raceway"
+      },
+      {
+        "week": 9,
+        "track": "Daytona International Speedway - Oval"
+      },
+      {
+        "week": 10,
+        "track": "EchoPark Speedway (Atlanta) - Oval"
+      },
+      {
+        "week": 11,
+        "track": "Circuit of the Americas - NASCAR West"
+      },
+      {
+        "week": 12,
+        "track": "Phoenix Raceway - Oval w/open dogleg"
+      }
+    ]
+  },
+  {
+    "Series": "BMW M2 Cup by Nitro Concepts",
+    "Cars": ["BMW M2 CS Racing"],
+    "Class": "Rookie",
+    "Discipline": "Sports Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Virginia International Raceway - North Course"
+      },
+      {
+        "week": 2,
+        "track": "Motorsport Arena Oschersleben - Grand Prix"
+      },
+      {
+        "week": 3,
+        "track": "Circuito de Navarra - Speed Circuit"
+      },
+      {
+        "week": 4,
+        "track": "Lime Rock Park - Grand Prix"
+      },
+      {
+        "week": 5,
+        "track": "Summit Point Raceway - Jefferson Circuit"
+      },
+      {
+        "week": 6,
+        "track": "Tsukuba Circuit - 2000 Full"
+      },
+      {
+        "week": 7,
+        "track": "Circuit de Ledenon"
+      },
+      {
+        "week": 8,
+        "track": "Oulton Park Circuit - Fosters"
+      },
+      {
+        "week": 9,
+        "track": "Charlotte Motor Speedway  - Roval 2025"
+      },
+      {
+        "week": 10,
+        "track": "Winton Motor Raceway - Club Circuit"
+      },
+      {
+        "week": 11,
+        "track": "Okayama International Circuit - Full Course"
+      },
+      {
+        "week": 12,
+        "track": "Summit Point Raceway - Summit Point Raceway"
+      }
+    ]
+  },
+  {
+    "Series": "Global Mazda MX-5 Cup by Fanatec",
+    "Cars": ["Global Mazda MX-5 Cup"],
+    "Class": "Rookie",
+    "Discipline": "Sports Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Virginia International Raceway - North Course"
+      },
+      {
+        "week": 2,
+        "track": "Motorsport Arena Oschersleben - Grand Prix"
+      },
+      {
+        "week": 3,
+        "track": "Circuito de Navarra - Speed Circuit"
+      },
+      {
+        "week": 4,
+        "track": "Lime Rock Park - Grand Prix"
+      },
+      {
+        "week": 5,
+        "track": "Summit Point Raceway - Jefferson Circuit"
+      },
+      {
+        "week": 6,
+        "track": "Tsukuba Circuit - 2000 Full"
+      },
+      {
+        "week": 7,
+        "track": "Circuit de Ledenon"
+      },
+      {
+        "week": 8,
+        "track": "Oulton Park Circuit - Fosters"
+      },
+      {
+        "week": 9,
+        "track": "Charlotte Motor Speedway  - Roval 2025"
+      },
+      {
+        "week": 10,
+        "track": "Winton Motor Raceway - National Circuit"
+      },
+      {
+        "week": 11,
+        "track": "Okayama International Circuit - Full Course"
+      },
+      {
+        "week": 12,
+        "track": "Summit Point Raceway - Summit Point Raceway"
+      }
+    ]
+  },
+  {
+    "Series": "BMW M Power Challenge",
+    "Cars": ["BMW M2 CS Racing"],
+    "Class": "Class D",
+    "Discipline": "Sports Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Circuito de Jerez - Angel Nieto - Grand Prix"
+      },
+      {
+        "week": 2,
+        "track": "Adelaide Street Circuit"
+      },
+      {
+        "week": 3,
+        "track": "Miami International Autodrome - Grand Prix"
+      },
+      {
+        "week": 4,
+        "track": "Autodromo Hermanos Rodriguez - Grand Prix"
+      },
+      {
+        "week": 5,
+        "track": "Daytona International Speedway - Road Course"
+      },
+      {
+        "week": 6,
+        "track": "Autodromo Internazionale Enzo e Dino Ferrari -"
+      },
+      {
+        "week": 7,
+        "track": "Circuit de Spa-Francorchamps - Grand Prix Pits"
+      },
+      {
+        "week": 8,
+        "track": "Summit Point Raceway - Summit Point Raceway"
+      },
+      {
+        "week": 9,
+        "track": "Autodromo Jose Carlos Pace - Grand Prix"
+      },
+      {
+        "week": 10,
+        "track": "Mount Panorama Circuit"
+      },
+      {
+        "week": 11,
+        "track": "Oulton Park Circuit - Fosters"
+      },
+      {
+        "week": 12,
+        "track": "Portland International Raceway - Full Circuit"
+      }
+    ]
+  },
+  {
+    "Series": "Clio Cup",
+    "Cars": ["Renault Clio"],
+    "Class": "Class D",
+    "Discipline": "Sports Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Lime Rock Park - Classic"
+      },
+      {
+        "week": 2,
+        "track": "Summit Point Raceway - Summit Point Raceway"
+      },
+      {
+        "week": 3,
+        "track": "Circuit de Ledenon"
+      },
+      {
+        "week": 4,
+        "track": "Oulton Park Circuit - Fosters"
+      },
+      {
+        "week": 5,
+        "track": "WeatherTech Raceway at Laguna Seca - Full"
+      },
+      {
+        "week": 6,
+        "track": "Tsukuba Circuit - 2000 Full"
+      },
+      {
+        "week": 7,
+        "track": "Virginia International Raceway - North Course"
+      },
+      {
+        "week": 8,
+        "track": "Rudskogen Motorsenter"
+      },
+      {
+        "week": 9,
+        "track": "Winton Motor Raceway - National Circuit"
+      },
+      {
+        "week": 10,
+        "track": "Motorsport Arena Oschersleben - Grand Prix"
+      },
+      {
+        "week": 11,
+        "track": "Okayama International Circuit - Full Course"
+      },
+      {
+        "week": 12,
+        "track": "Circuito de Navarra - Speed Circuit"
+      }
+    ]
+  },
+  {
+    "Series": "Global Sports Car Challenge by Fanatec",
+    "Cars": ["Kia Optima", "Cadillac CTS-V Racecar"],
+    "Class": "Class D",
+    "Discipline": "Sports Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Rudskogen Motorsenter"
+      },
+      {
+        "week": 2,
+        "track": "Detroit Grand Prix at Belle Isle - Belle Isle"
+      },
+      {
+        "week": 3,
+        "track": "Road Atlanta - Full Course"
+      },
+      {
+        "week": 4,
+        "track": "Nurburgring Nordschleife - Industriefahrten"
+      },
+      {
+        "week": 5,
+        "track": "Circuit de Ledenon"
+      },
+      {
+        "week": 6,
+        "track": "Portland International Raceway - Full Circuit"
+      },
+      {
+        "week": 7,
+        "track": "Road America - Full Course"
+      },
+      {
+        "week": 8,
+        "track": "Brands Hatch Circuit - Grand Prix"
+      },
+      {
+        "week": 9,
+        "track": "Red Bull Ring - Grand Prix"
+      },
+      {
+        "week": 10,
+        "track": "Watkins Glen International - Boot"
+      },
+      {
+        "week": 11,
+        "track": "Circuito de Navarra - Speed Circuit"
+      },
+      {
+        "week": 12,
+        "track": "Daytona International Speedway - Road Course"
+      }
+    ]
+  },
+  {
+    "Series": "GT4 Falken Tyre Challenge",
+    "Cars": [
+      "Porsche 718 Cayman GT4 Clubsport MR",
+      "McLaren 570S GT4",
+      "Aston Martin Vantage GT4",
+      "Mercedes-AMG GT4",
+      "BMW M4 G82 GT4 Evo",
+      "Ford Mustang GT4"
+    ],
+    "Class": "Class D",
+    "Discipline": "Sports Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Circuit de Spa-Francorchamps - Bike"
+      },
+      {
+        "week": 2,
+        "track": "Nurburgring Grand-Prix-Strecke - BES/WEC"
+      },
+      {
+        "week": 3,
+        "track": "Oulton Park Circuit - International"
+      },
+      {
+        "week": 4,
+        "track": "Daytona International Speedway - Road Course"
+      },
+      {
+        "week": 5,
+        "track": "Circuit Gilles Villeneuve"
+      },
+      {
+        "week": 6,
+        "track": "Long Beach Street Circuit"
+      },
+      {
+        "week": 7,
+        "track": "Miami International Autodrome - Grand Prix"
+      },
+      {
+        "week": 8,
+        "track": "Autodromo Nazionale Monza - Combined"
+      },
+      {
+        "week": 9,
+        "track": "Portland International Raceway - Full Circuit"
+      },
+      {
+        "week": 10,
+        "track": "Algarve International Circuit - Grand Prix"
+      },
+      {
+        "week": 11,
+        "track": "Mount Panorama Circuit"
+      },
+      {
+        "week": 12,
+        "track": "Circuit de Barcelona Catalunya - Historic"
+      }
+    ]
+  },
+  {
+    "Series": "Legends Road Cup by Go Motorsports Shop",
+    "Cars": ["Legends Ford '34 Coupe"],
+    "Class": "Class D",
+    "Discipline": "Sports Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Summit Point Raceway - Jefferson Reverse"
+      },
+      {
+        "week": 2,
+        "track": "Watkins Glen International - Classic"
+      },
+      {
+        "week": 3,
+        "track": "[Legacy] Phoenix Raceway - 2008 - Road"
+      },
+      {
+        "week": 4,
+        "track": "Cadwell Park Circuit - Full"
+      },
+      {
+        "week": 5,
+        "track": "Oulton Park Circuit - Island"
+      },
+      {
+        "week": 6,
+        "track": "Autodromo Hermanos Rodriguez - EV Circuit"
+      },
+      {
+        "week": 7,
+        "track": "Auto Club Speedway - Interior"
+      },
+      {
+        "week": 8,
+        "track": "Okayama International Circuit - Full Course"
+      },
+      {
+        "week": 9,
+        "track": "Circuit de Barcelona Catalunya - Historic"
+      },
+      {
+        "week": 10,
+        "track": "Virginia International Raceway - Patriot Course"
+      },
+      {
+        "week": 11,
+        "track": "Autodromo Hermanos Rodriguez - Oval Stadium"
+      },
+      {
+        "week": 12,
+        "track": "Motorsport Arena Oschersleben - C Course"
+      }
+    ]
+  },
+  {
+    "Series": "Mission R Challenge",
+    "Cars": ["Porsche Mission R"],
+    "Class": "Class D",
+    "Discipline": "Sports Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Charlotte Motor Speedway  - Roval 2025"
+      },
+      {
+        "week": 2,
+        "track": "Road America - Full Course"
+      },
+      {
+        "week": 3,
+        "track": "Miami International Autodrome - Grand Prix"
+      },
+      {
+        "week": 4,
+        "track": "Virginia International Raceway - Full Course"
+      },
+      {
+        "week": 5,
+        "track": "Autodromo Hermanos Rodriguez - National"
+      },
+      {
+        "week": 6,
+        "track": "Rudskogen Motorsenter"
+      },
+      {
+        "week": 7,
+        "track": "Nurburgring Nordschleife - Industriefahrten"
+      },
+      {
+        "week": 8,
+        "track": "Circuit de Spa-Francorchamps - Grand Prix Pits"
+      },
+      {
+        "week": 9,
+        "track": "Circuit des 24 Heures du Mans - 24 Heures du"
+      },
+      {
+        "week": 10,
+        "track": "Snetterton Circuit - 200"
+      },
+      {
+        "week": 11,
+        "track": "Thruxton Circuit"
+      },
+      {
+        "week": 12,
+        "track": "[Legacy] Silverstone Circuit - 2008 - Grand Prix"
+      }
+    ]
+  },
+  {
+    "Series": "Mustang Skip Barber Challenge",
+    "Cars": ["Ford Mustang GT4"],
+    "Class": "Class D",
+    "Discipline": "Sports Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Virginia International Raceway - Full Course"
+      },
+      {
+        "week": 2,
+        "track": "Miami International Autodrome - Extended MIA"
+      },
+      {
+        "week": 3,
+        "track": "Snetterton Circuit - 200"
+      },
+      {
+        "week": 4,
+        "track": "Daytona International Speedway - Road Course"
+      },
+      {
+        "week": 5,
+        "track": "Circuit Zandvoort - Grand Prix"
+      },
+      {
+        "week": 6,
+        "track": "[Legacy] Phoenix Raceway - 2008 - Road"
+      },
+      {
+        "week": 7,
+        "track": "Sonoma Raceway - Sportscar Alt"
+      },
+      {
+        "week": 8,
+        "track": "Mount Panorama Circuit"
+      },
+      {
+        "week": 9,
+        "track": "Summit Point Raceway - Summit Point Raceway"
+      },
+      {
+        "week": 10,
+        "track": "Brands Hatch Circuit - Grand Prix"
+      },
+      {
+        "week": 11,
+        "track": "Circuit de Spa-Francorchamps - Endurance"
+      },
+      {
+        "week": 12,
+        "track": "Motorsport Arena Oschersleben - Grand Prix"
+      }
+    ]
+  },
+  {
+    "Series": "Production Car Challenge by Sim-Lab",
+    "Cars": [
+      "Global Mazda MX-5 Cup",
+      "Renault Clio",
+      "Toyota GR86",
+      "BMW M2 CS Racing"
+    ],
+    "Class": "Class D",
+    "Discipline": "Sports Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Virginia International Raceway - Full Course"
+      },
+      {
+        "week": 2,
+        "track": "Miami International Autodrome - Extended MIA"
+      },
+      {
+        "week": 3,
+        "track": "Snetterton Circuit - 200"
+      },
+      {
+        "week": 4,
+        "track": "Daytona International Speedway - Road Course"
+      },
+      {
+        "week": 5,
+        "track": "Circuit Zandvoort - Grand Prix"
+      },
+      {
+        "week": 6,
+        "track": "[Legacy] Phoenix Raceway - 2008 - Road"
+      },
+      {
+        "week": 7,
+        "track": "Sonoma Raceway - Sportscar Alt"
+      },
+      {
+        "week": 8,
+        "track": "Mount Panorama Circuit"
+      },
+      {
+        "week": 9,
+        "track": "Summit Point Raceway - Summit Point Raceway"
+      },
+      {
+        "week": 10,
+        "track": "Brands Hatch Circuit - Grand Prix"
+      },
+      {
+        "week": 11,
+        "track": "Circuit de Spa-Francorchamps - Endurance"
+      },
+      {
+        "week": 12,
+        "track": "Motorsport Arena Oschersleben - Grand Prix"
+      }
+    ]
+  },
+  {
+    "Series": "Production Endurance Challenge",
+    "Cars": [
+      "BMW M2 CS Racing",
+      "Global Mazda MX-5 Cup",
+      "Toyota GR86",
+      "Renault Clio"
+    ],
+    "Class": "Class D",
+    "Discipline": "Sports Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Virginia International Raceway - Full Course"
+      },
+      {
+        "week": 2,
+        "track": "Miami International Autodrome - Extended MIA"
+      },
+      {
+        "week": 3,
+        "track": "Snetterton Circuit - 200"
+      },
+      {
+        "week": 4,
+        "track": "Daytona International Speedway - Road Course"
+      },
+      {
+        "week": 5,
+        "track": "Circuit Zandvoort - Grand Prix"
+      },
+      {
+        "week": 6,
+        "track": "[Legacy] Phoenix Raceway - 2008 - Road"
+      },
+      {
+        "week": 7,
+        "track": "Sonoma Raceway - Sportscar Alt"
+      },
+      {
+        "week": 8,
+        "track": "Mount Panorama Circuit"
+      },
+      {
+        "week": 9,
+        "track": "Summit Point Raceway - Summit Point Raceway"
+      },
+      {
+        "week": 10,
+        "track": "Brands Hatch Circuit - Grand Prix"
+      },
+      {
+        "week": 11,
+        "track": "Circuit de Spa-Francorchamps - Endurance"
+      },
+      {
+        "week": 12,
+        "track": "Motorsport Arena Oschersleben - Grand Prix"
+      }
+    ]
+  },
+  {
+    "Series": "Rain Master",
+    "Cars": [
+      "BMW M4 GT3 EVO",
+      "Lamborghini Huracan GT3 EVO",
+      "Mercedes-AMG GT3 2020",
+      "Porsche 911 GT3 R (992)",
+      "Ferrari 296 GT3",
+      "Audi R8 LMS EVO II GT3",
+      "Chevrolet Corvette Z06 GT3.R",
+      "Ford Mustang GT3",
+      "McLaren 720S GT3 EVO",
+      "Acura NSX GT3 EVO 22"
+    ],
+    "Class": "Class D",
+    "Discipline": "Sports Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Circuito de Jerez - Angel Nieto - Grand Prix"
+      },
+      {
+        "week": 2,
+        "track": "Adelaide Street Circuit"
+      },
+      {
+        "week": 3,
+        "track": "Miami International Autodrome - Grand Prix"
+      },
+      {
+        "week": 4,
+        "track": "Autodromo Hermanos Rodriguez - Grand Prix"
+      },
+      {
+        "week": 5,
+        "track": "Daytona International Speedway - Road Course"
+      },
+      {
+        "week": 6,
+        "track": "Autodromo Internazionale Enzo e Dino Ferrari -"
+      },
+      {
+        "week": 7,
+        "track": "Circuit de Spa-Francorchamps - Grand Prix Pits"
+      },
+      {
+        "week": 8,
+        "track": "Summit Point Raceway - Summit Point Raceway"
+      },
+      {
+        "week": 9,
+        "track": "Autodromo Jose Carlos Pace - Grand Prix"
+      },
+      {
+        "week": 10,
+        "track": "Mount Panorama Circuit"
+      },
+      {
+        "week": 11,
+        "track": "Oulton Park Circuit - Fosters"
+      },
+      {
+        "week": 12,
+        "track": "Portland International Raceway - Full Circuit"
+      }
+    ]
+  },
+  {
+    "Series": "Spec Racer Ford Challenge",
+    "Cars": ["SCCA Spec Racer Ford"],
+    "Class": "Class D",
+    "Discipline": "Sports Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Rudskogen Motorsenter"
+      },
+      {
+        "week": 2,
+        "track": "Watkins Glen International - Cup"
+      },
+      {
+        "week": 3,
+        "track": "Barber Motorsports Park - Full Course"
+      },
+      {
+        "week": 4,
+        "track": "[Legacy] Phoenix Raceway - 2008 - Road"
+      },
+      {
+        "week": 5,
+        "track": "Circuit Gilles Villeneuve"
+      },
+      {
+        "week": 6,
+        "track": "MotorLand Aragon - Grand Prix"
+      },
+      {
+        "week": 7,
+        "track": "Motorsport Arena Oschersleben - B Course"
+      },
+      {
+        "week": 8,
+        "track": "Circuit de Barcelona Catalunya - Historic"
+      },
+      {
+        "week": 9,
+        "track": "Chicago Street Course - 2023 Cup"
+      },
+      {
+        "week": 10,
+        "track": "Nurburgring Nordschleife - Industriefahrten"
+      },
+      {
+        "week": 11,
+        "track": "Autodromo Internazionale Enzo e Dino Ferrari -"
+      },
+      {
+        "week": 12,
+        "track": "Circuit de Ledenon"
+      }
+    ]
+  },
+  {
+    "Series": "TCR Virtual Challenge",
+    "Cars": [
+      "Audi RS 3 LMS TCR",
+      "Hyundai Elantra N TCR",
+      "Honda Civic Type R TCR",
+      "Hyundai Veloster N TCR"
+    ],
+    "Class": "Class D",
+    "Discipline": "Sports Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Okayama International Circuit - Full Course"
+      },
+      {
+        "week": 2,
+        "track": "Nurburgring Grand-Prix-Strecke - BES/WEC"
+      },
+      {
+        "week": 3,
+        "track": "Road America - Full Course"
+      },
+      {
+        "week": 4,
+        "track": "Daytona International Speedway - Road Course"
+      },
+      {
+        "week": 5,
+        "track": "Lime Rock Park - Classic"
+      },
+      {
+        "week": 6,
+        "track": "Long Beach Street Circuit"
+      },
+      {
+        "week": 7,
+        "track": "Summit Point Raceway - Summit Point Raceway"
+      },
+      {
+        "week": 8,
+        "track": "Autodromo Nazionale Monza - Combined"
+      },
+      {
+        "week": 9,
+        "track": "Virginia International Raceway - Full Course"
+      },
+      {
+        "week": 10,
+        "track": "Algarve International Circuit - Grand Prix"
+      },
+      {
+        "week": 11,
+        "track": "Brands Hatch Circuit - Grand Prix"
+      },
+      {
+        "week": 12,
+        "track": "Circuit de Barcelona Catalunya - Historic"
+      }
+    ]
+  },
+  {
+    "Series": "TCR Virtual Challenge - Fixed",
+    "Cars": [
+      "Audi RS 3 LMS TCR",
+      "Hyundai Elantra N TCR",
+      "Honda Civic Type R TCR",
+      "Hyundai Veloster N TCR"
+    ],
+    "Class": "Class D",
+    "Discipline": "Sports Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Okayama International Circuit - Full Course"
+      },
+      {
+        "week": 2,
+        "track": "Nurburgring Grand-Prix-Strecke - BES/WEC"
+      },
+      {
+        "week": 3,
+        "track": "Road America - Full Course"
+      },
+      {
+        "week": 4,
+        "track": "Daytona International Speedway - Road Course"
+      },
+      {
+        "week": 5,
+        "track": "Lime Rock Park - Classic"
+      },
+      {
+        "week": 6,
+        "track": "Long Beach Street Circuit"
+      },
+      {
+        "week": 7,
+        "track": "Summit Point Raceway - Summit Point Raceway"
+      },
+      {
+        "week": 8,
+        "track": "Autodromo Nazionale Monza - Combined"
+      },
+      {
+        "week": 9,
+        "track": "Virginia International Raceway - Full Course"
+      },
+      {
+        "week": 10,
+        "track": "Algarve International Circuit - Grand Prix"
+      },
+      {
+        "week": 11,
+        "track": "Brands Hatch Circuit - Grand Prix"
+      },
+      {
+        "week": 12,
+        "track": "Circuit de Barcelona Catalunya - Historic"
+      }
+    ]
+  },
+  {
+    "Series": "Toyota GR86 Cup by SIMAGIC",
+    "Cars": ["Toyota GR86"],
+    "Class": "Class D",
+    "Discipline": "Sports Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Virginia International Raceway - Full Course"
+      },
+      {
+        "week": 2,
+        "track": "Adelaide Street Circuit"
+      },
+      {
+        "week": 3,
+        "track": "Miami International Autodrome - MIA Loop"
+      },
+      {
+        "week": 4,
+        "track": "Motorsport Arena Oschersleben - B Course"
+      },
+      {
+        "week": 5,
+        "track": "Road Atlanta - Short"
+      },
+      {
+        "week": 6,
+        "track": "Nurburgring Nordschleife - Industriefahrten"
+      },
+      {
+        "week": 7,
+        "track": "Summit Point Raceway - Summit Point Raceway"
+      },
+      {
+        "week": 8,
+        "track": "Red Bull Ring - National"
+      },
+      {
+        "week": 9,
+        "track": "Brands Hatch Circuit - Grand Prix"
+      },
+      {
+        "week": 10,
+        "track": "Okayama International Circuit - Short"
+      },
+      {
+        "week": 11,
+        "track": "Autodromo Hermanos Rodriguez - National"
+      },
+      {
+        "week": 12,
+        "track": "Watkins Glen International - Cup"
+      }
+    ]
+  },
+  {
+    "Series": "Advanced Mazda MX-5 Cup by Heusinkveld",
+    "Cars": ["Global Mazda MX-5 Cup"],
+    "Class": "Class C",
+    "Discipline": "Sports Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Virginia International Raceway - Grand Course"
+      },
+      {
+        "week": 2,
+        "track": "Okayama International Circuit - Full Course"
+      },
+      {
+        "week": 3,
+        "track": "Nurburgring Nordschleife - Industriefahrten"
+      },
+      {
+        "week": 4,
+        "track": "WeatherTech Raceway at Laguna Seca - Full"
+      },
+      {
+        "week": 5,
+        "track": "Mount Panorama Circuit"
+      },
+      {
+        "week": 6,
+        "track": "Daytona International Speedway - Road Course"
+      },
+      {
+        "week": 7,
+        "track": "Miami International Autodrome - Grand Prix"
+      },
+      {
+        "week": 8,
+        "track": "Circuit de Spa-Francorchamps - Grand Prix Pits"
+      },
+      {
+        "week": 9,
+        "track": "Autodromo Jose Carlos Pace - Grand Prix"
+      },
+      {
+        "week": 10,
+        "track": "Red Bull Ring - Grand Prix"
+      },
+      {
+        "week": 11,
+        "track": "Adelaide Street Circuit"
+      },
+      {
+        "week": 12,
+        "track": "Summit Point Raceway - Summit Point Raceway"
+      }
+    ]
+  },
+  {
+    "Series": "GT Endurance Series by Simucube",
+    "Cars": [
+      "BMW M4 GT3 EVO",
+      "Lamborghini Huracan GT3 EVO",
+      "Mercedes-AMG GT3 2020",
+      "Porsche 911 GT3 R (992)",
+      "Ferrari 296 GT3",
+      "Audi R8 LMS EVO II GT3",
+      "Chevrolet Corvette Z06 GT3.R",
+      "Ford Mustang GT3",
+      "McLaren 720S GT3 EVO",
+      "Acura NSX GT3 EVO 22",
+      "Aston Martin Vantage GT3 EVO"
+    ],
+    "Class": "Class C",
+    "Discipline": "Sports Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Miami International Autodrome - Grand Prix"
+      },
+      {
+        "week": 2,
+        "track": "Autodromo Internazionale Enzo e Dino Ferrari -"
+      },
+      {
+        "week": 3,
+        "track": "Adelaide Street Circuit"
+      },
+      {
+        "week": 4,
+        "track": "Sachsenring"
+      },
+      {
+        "week": 5,
+        "track": "Daytona International Speedway - Road Course"
+      },
+      {
+        "week": 6,
+        "track": "Algarve International Circuit - Grand Prix"
+      },
+      {
+        "week": 7,
+        "track": "Shell V-Power Motorsport Park at The Bend -"
+      },
+      {
+        "week": 8,
+        "track": "Autodromo Nazionale Monza - Combined"
+      },
+      {
+        "week": 9,
+        "track": "Virginia International Raceway - Full Course"
+      },
+      {
+        "week": 10,
+        "track": "Mount Panorama Circuit"
+      },
+      {
+        "week": 11,
+        "track": "Nurburgring Grand-Prix-Strecke - Grand Prix"
+      },
+      {
+        "week": 12,
+        "track": "Misano World Circuit Marco Simoncelli - Grand"
+      }
+    ]
+  },
+  {
+    "Series": "IMSA Michelin Pilot Challenge",
+    "Cars": [
+      "Audi RS 3 LMS TCR",
+      "Hyundai Elantra N TCR",
+      "Honda Civic Type R TCR",
+      "Hyundai Veloster N TCR",
+      "Porsche 718 Cayman GT4 Clubsport MR",
+      "McLaren 570S GT4",
+      "Aston Martin Vantage GT4",
+      "Mercedes-AMG GT4",
+      "BMW M4 G82 GT4 Evo",
+      "Ford Mustang GT4"
+    ],
+    "Class": "Class C",
+    "Discipline": "Sports Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Nurburgring Grand-Prix-Strecke - BES/WEC"
+      },
+      {
+        "week": 2,
+        "track": "Daytona International Speedway - Road Course"
+      },
+      {
+        "week": 3,
+        "track": "Long Beach Street Circuit"
+      },
+      {
+        "week": 4,
+        "track": "Autodromo Nazionale Monza - Combined"
+      },
+      {
+        "week": 5,
+        "track": "Algarve International Circuit - Grand Prix"
+      },
+      {
+        "week": 6,
+        "track": "Circuit de Barcelona Catalunya - Historic"
+      }
+    ]
+  },
+  {
+    "Series": "IMSA Sportscar Endurance Challenge",
+    "Cars": [
+      "Ligier JS P320",
+      "Porsche 718 Cayman GT4 Clubsport MR",
+      "McLaren 570S GT4",
+      "Aston Martin Vantage GT4",
+      "Mercedes-AMG GT4",
+      "BMW M4 G82 GT4 Evo",
+      "Ford Mustang GT4"
+    ],
+    "Class": "Class C",
+    "Discipline": "Sports Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Circuit de Spa-Francorchamps - Bike"
+      },
+      {
+        "week": 2,
+        "track": "Oulton Park Circuit - International"
+      },
+      {
+        "week": 3,
+        "track": "Circuit Gilles Villeneuve"
+      },
+      {
+        "week": 4,
+        "track": "Miami International Autodrome - Grand Prix"
+      },
+      {
+        "week": 5,
+        "track": "Portland International Raceway - Full Circuit"
+      },
+      {
+        "week": 6,
+        "track": "Mount Panorama Circuit"
+      }
+    ]
+  },
+  {
+    "Series": "IMSA Vintage Series",
+    "Cars": ["Audi 90 GTO", "Nissan GTP ZX-T"],
+    "Class": "Class C",
+    "Discipline": "Sports Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Nurburgring Combined - Gesamtstrecke 24h"
+      },
+      {
+        "week": 2,
+        "track": "Autodromo Jose Carlos Pace - Grand Prix"
+      },
+      {
+        "week": 3,
+        "track": "Autodromo Hermanos Rodriguez - National"
+      },
+      {
+        "week": 4,
+        "track": "Autodromo Nazionale Monza - GP without first"
+      },
+      {
+        "week": 5,
+        "track": "Oran Park Raceway - Grand Prix"
+      },
+      {
+        "week": 6,
+        "track": "Circuit des 24 Heures du Mans - 24 Heures du"
+      },
+      {
+        "week": 7,
+        "track": "[Legacy] Pocono Raceway - 2009 - International"
+      },
+      {
+        "week": 8,
+        "track": "Red Bull Ring - Grand Prix"
+      },
+      {
+        "week": 9,
+        "track": "Hungaroring"
+      },
+      {
+        "week": 10,
+        "track": "Fuji International Speedway - No Chicane"
+      },
+      {
+        "week": 11,
+        "track": "Autodromo Internazionale Enzo e Dino Ferrari -"
+      },
+      {
+        "week": 12,
+        "track": "Sonoma Raceway - Cup Long"
+      }
+    ]
+  },
+  {
+    "Series": "iRacing Porsche Cup - Fixed by CONSPIT",
+    "Cars": ["Porsche 911 Cup (992.2)"],
+    "Class": "Class C",
+    "Discipline": "Sports Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Miami International Autodrome - Grand Prix"
+      },
+      {
+        "week": 2,
+        "track": "Circuit de Spa-Francorchamps - Grand Prix Pits"
+      },
+      {
+        "week": 3,
+        "track": "Nurburgring Combined - Gesamtstrecke 24h"
+      },
+      {
+        "week": 4,
+        "track": "Autodromo Jose Carlos Pace - Grand Prix"
+      },
+      {
+        "week": 5,
+        "track": "Circuit des 24 Heures du Mans - 24 Heures du"
+      },
+      {
+        "week": 6,
+        "track": "Road Atlanta - Full Course"
+      },
+      {
+        "week": 7,
+        "track": "Autodromo Nazionale Monza - Grand Prix"
+      },
+      {
+        "week": 8,
+        "track": "Autodromo Internazionale Enzo e Dino Ferrari -"
+      },
+      {
+        "week": 9,
+        "track": "Daytona International Speedway - Road Course"
+      },
+      {
+        "week": 10,
+        "track": "Sebring International Raceway - International"
+      },
+      {
+        "week": 11,
+        "track": "Hockenheimring Baden-Wurttemberg - Grand"
+      },
+      {
+        "week": 12,
+        "track": "Adelaide Street Circuit"
+      }
+    ]
+  },
+  {
+    "Series": "iRacing Porsche Cup by CONSPIT",
+    "Cars": ["Porsche 911 Cup (992.2)"],
+    "Class": "Class C",
+    "Discipline": "Sports Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Miami International Autodrome - Grand Prix"
+      },
+      {
+        "week": 2,
+        "track": "Circuit de Spa-Francorchamps - Grand Prix Pits"
+      },
+      {
+        "week": 3,
+        "track": "Nurburgring Combined - Gesamtstrecke 24h"
+      },
+      {
+        "week": 4,
+        "track": "Autodromo Jose Carlos Pace - Grand Prix"
+      },
+      {
+        "week": 5,
+        "track": "Circuit des 24 Heures du Mans - 24 Heures du"
+      },
+      {
+        "week": 6,
+        "track": "Road Atlanta - Full Course"
+      },
+      {
+        "week": 7,
+        "track": "Autodromo Nazionale Monza - Grand Prix"
+      },
+      {
+        "week": 8,
+        "track": "Autodromo Internazionale Enzo e Dino Ferrari -"
+      },
+      {
+        "week": 9,
+        "track": "Daytona International Speedway - Road Course"
+      },
+      {
+        "week": 10,
+        "track": "Sebring International Raceway - International"
+      },
+      {
+        "week": 11,
+        "track": "Hockenheimring Baden-Wurttemberg - Grand"
+      },
+      {
+        "week": 12,
+        "track": "Adelaide Street Circuit"
+      }
+    ]
+  },
+  {
+    "Series": "LMP3 Trophy",
+    "Cars": ["Ligier JS P320"],
+    "Class": "Class C",
+    "Discipline": "Sports Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Circuit de Spa-Francorchamps - Bike"
+      },
+      {
+        "week": 2,
+        "track": "Nurburgring Grand-Prix-Strecke - BES/WEC"
+      },
+      {
+        "week": 3,
+        "track": "Oulton Park Circuit - International"
+      },
+      {
+        "week": 4,
+        "track": "Daytona International Speedway - Road Course"
+      },
+      {
+        "week": 5,
+        "track": "Circuit Gilles Villeneuve"
+      },
+      {
+        "week": 6,
+        "track": "Long Beach Street Circuit"
+      },
+      {
+        "week": 7,
+        "track": "Miami International Autodrome - Grand Prix"
+      },
+      {
+        "week": 8,
+        "track": "Autodromo Nazionale Monza - Combined"
+      },
+      {
+        "week": 9,
+        "track": "Portland International Raceway - Full Circuit"
+      },
+      {
+        "week": 10,
+        "track": "Algarve International Circuit - Grand Prix"
+      },
+      {
+        "week": 11,
+        "track": "Mount Panorama Circuit"
+      },
+      {
+        "week": 12,
+        "track": "Circuit de Barcelona Catalunya - Historic"
+      }
+    ]
+  },
+  {
+    "Series": "Radical Esports Cup",
+    "Cars": ["Radical SR10"],
+    "Class": "Class C",
+    "Discipline": "Sports Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Sebring International Raceway - International"
+      },
+      {
+        "week": 2,
+        "track": "Oulton Park Circuit - Intl w/no Chicanes"
+      },
+      {
+        "week": 3,
+        "track": "Circuit de Barcelona Catalunya - Historic"
+      },
+      {
+        "week": 4,
+        "track": "Autodromo Hermanos Rodriguez - Grand Prix"
+      },
+      {
+        "week": 5,
+        "track": "Daytona International Speedway - Road Course"
+      },
+      {
+        "week": 6,
+        "track": "Long Beach Street Circuit"
+      },
+      {
+        "week": 7,
+        "track": "Rudskogen Motorsenter"
+      },
+      {
+        "week": 8,
+        "track": "Brands Hatch Circuit - Grand Prix"
+      },
+      {
+        "week": 9,
+        "track": "Charlotte Motor Speedway  - Roval 2019"
+      },
+      {
+        "week": 10,
+        "track": "Circuit of the Americas - Grand Prix"
+      },
+      {
+        "week": 11,
+        "track": "Mount Panorama Circuit"
+      },
+      {
+        "week": 12,
+        "track": "Autodromo Nazionale Monza - Combined"
+      }
+    ]
+  },
+  {
+    "Series": "Ring Meister",
+    "Cars": ["See race week for cars in use that week."],
+    "Class": "Class C",
+    "Discipline": "Sports Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Nurburgring Nordschleife - Industriefahrten"
+      },
+      {
+        "week": 2,
+        "track": "Nurburgring Nordschleife - Industriefahrten"
+      },
+      {
+        "week": 3,
+        "track": "Nurburgring Nordschleife - Industriefahrten"
+      },
+      {
+        "week": 4,
+        "track": "Nurburgring Nordschleife - Industriefahrten"
+      },
+      {
+        "week": 5,
+        "track": "Nurburgring Nordschleife - Industriefahrten"
+      },
+      {
+        "week": 6,
+        "track": "Nurburgring Nordschleife - Industriefahrten"
+      },
+      {
+        "week": 7,
+        "track": "Nurburgring Nordschleife - Industriefahrten"
+      },
+      {
+        "week": 8,
+        "track": "Nurburgring Nordschleife - Industriefahrten"
+      },
+      {
+        "week": 9,
+        "track": "Nurburgring Nordschleife - Industriefahrten"
+      },
+      {
+        "week": 10,
+        "track": "Nurburgring Nordschleife - Industriefahrten"
+      },
+      {
+        "week": 11,
+        "track": "Nurburgring Nordschleife - Industriefahrten"
+      },
+      {
+        "week": 12,
+        "track": "Nurburgring Nordschleife - Industriefahrten"
+      }
+    ]
+  },
+  {
+    "Series": "Sports Car Challenge by Falken Tyre",
+    "Cars": [
+      "Porsche 718 Cayman GT4 Clubsport MR",
+      "McLaren 570S GT4",
+      "Aston Martin Vantage GT4",
+      "Mercedes-AMG GT4",
+      "BMW M4 G82 GT4 Evo",
+      "Ford Mustang GT4",
+      "Ligier JS P320"
+    ],
+    "Class": "Class C",
+    "Discipline": "Sports Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Circuit de Spa-Francorchamps - Bike"
+      },
+      {
+        "week": 2,
+        "track": "Nurburgring Grand-Prix-Strecke - BES/WEC"
+      },
+      {
+        "week": 3,
+        "track": "Oulton Park Circuit - International"
+      },
+      {
+        "week": 4,
+        "track": "Daytona International Speedway - Road Course"
+      },
+      {
+        "week": 5,
+        "track": "Circuit Gilles Villeneuve"
+      },
+      {
+        "week": 6,
+        "track": "Long Beach Street Circuit"
+      },
+      {
+        "week": 7,
+        "track": "Miami International Autodrome - Grand Prix"
+      },
+      {
+        "week": 8,
+        "track": "Autodromo Nazionale Monza - Combined"
+      },
+      {
+        "week": 9,
+        "track": "Portland International Raceway - Full Circuit"
+      },
+      {
+        "week": 10,
+        "track": "Algarve International Circuit - Grand Prix"
+      },
+      {
+        "week": 11,
+        "track": "Mount Panorama Circuit"
+      },
+      {
+        "week": 12,
+        "track": "Circuit de Barcelona Catalunya - Historic"
+      }
+    ]
+  },
+  {
+    "Series": "Stock Car Brasil",
+    "Cars": [
+      "Stock Car Brasil Chevrolet Cruze",
+      "Stock Car Brasil Toyota Corolla"
+    ],
+    "Class": "Class C",
+    "Discipline": "Sports Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Summit Point Raceway - Summit Point Raceway"
+      },
+      {
+        "week": 2,
+        "track": "Okayama International Circuit - Short"
+      },
+      {
+        "week": 3,
+        "track": "Tsukuba Circuit - 2000 Full"
+      },
+      {
+        "week": 4,
+        "track": "Circuit de Ledenon"
+      },
+      {
+        "week": 5,
+        "track": "Charlotte Motor Speedway  - Roval 2025"
+      },
+      {
+        "week": 6,
+        "track": "Oulton Park Circuit - Fosters"
+      },
+      {
+        "week": 7,
+        "track": "WeatherTech Raceway at Laguna Seca - Full"
+      },
+      {
+        "week": 8,
+        "track": "Motorsport Arena Oschersleben - Grand Prix"
+      },
+      {
+        "week": 9,
+        "track": "Circuito de Navarra - Speed Circuit"
+      },
+      {
+        "week": 10,
+        "track": "Lime Rock Park - Grand Prix"
+      },
+      {
+        "week": 11,
+        "track": "Virginia International Raceway - Full Course"
+      },
+      {
+        "week": 12,
+        "track": "Rudskogen Motorsenter"
+      }
+    ]
+  },
+  {
+    "Series": "Supercars Series",
+    "Cars": [
+      "Supercars Ford Mustang Gen 3",
+      "Supercars Chevrolet Camaro Gen 3"
+    ],
+    "Class": "Class C",
+    "Discipline": "Sports Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Adelaide Street Circuit"
+      },
+      {
+        "week": 2,
+        "track": "Shell V-Power Motorsport Park at The Bend -"
+      },
+      {
+        "week": 3,
+        "track": "Oulton Park Circuit - Intl w/no Chicanes"
+      },
+      {
+        "week": 4,
+        "track": "Watkins Glen International - Cup"
+      },
+      {
+        "week": 5,
+        "track": "Circuit de Barcelona Catalunya - Grand Prix"
+      },
+      {
+        "week": 6,
+        "track": "Canadian Tire Motorsports Park"
+      },
+      {
+        "week": 7,
+        "track": "[Legacy] Silverstone Circuit - 2008 - Historical"
+      },
+      {
+        "week": 8,
+        "track": "Sebring International Raceway - International"
+      },
+      {
+        "week": 9,
+        "track": "Suzuka International Racing Course - Grand Prix"
+      },
+      {
+        "week": 10,
+        "track": "Miami International Autodrome - Grand Prix"
+      },
+      {
+        "week": 11,
+        "track": "Circuit Gilles Villeneuve"
+      },
+      {
+        "week": 12,
+        "track": "Hungaroring"
+      }
+    ]
+  },
+  {
+    "Series": "Supercars Series - Australian Servers",
+    "Cars": [
+      "Supercars Ford Mustang Gen 3",
+      "Supercars Chevrolet Camaro Gen 3"
+    ],
+    "Class": "Class C",
+    "Discipline": "Sports Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Adelaide Street Circuit"
+      },
+      {
+        "week": 2,
+        "track": "Shell V-Power Motorsport Park at The Bend -"
+      },
+      {
+        "week": 3,
+        "track": "Oulton Park Circuit - Intl w/no Chicanes"
+      },
+      {
+        "week": 4,
+        "track": "Watkins Glen International - Cup"
+      },
+      {
+        "week": 5,
+        "track": "Circuit de Barcelona Catalunya - Grand Prix"
+      },
+      {
+        "week": 6,
+        "track": "Canadian Tire Motorsports Park"
+      },
+      {
+        "week": 7,
+        "track": "[Legacy] Silverstone Circuit - 2008 - Historical"
+      },
+      {
+        "week": 8,
+        "track": "Sebring International Raceway - International"
+      },
+      {
+        "week": 9,
+        "track": "Suzuka International Racing Course - Grand Prix"
+      },
+      {
+        "week": 10,
+        "track": "Miami International Autodrome - Grand Prix"
+      },
+      {
+        "week": 11,
+        "track": "Circuit Gilles Villeneuve"
+      },
+      {
+        "week": 12,
+        "track": "Hungaroring"
+      }
+    ]
+  },
+  {
+    "Series": "Global Endurance Tour",
+    "Cars": [
+      "BMW M Hybrid V8",
+      "Cadillac V-Series.R GTP",
+      "Acura ARX-06 GTP",
+      "Porsche 963 GTP",
+      "Ferrari 499P",
+      "Dallara P217",
+      "BMW M4 GT3 EVO",
+      "Lamborghini Huracan GT3 EVO",
+      "Mercedes-AMG GT3 2020",
+      "Porsche 911 GT3 R (992)",
+      "Ferrari 296 GT3",
+      "Chevrolet Corvette Z06 GT3.R",
+      "Ford Mustang GT3",
+      "McLaren 720S GT3 EVO",
+      "Acura NSX GT3 EVO 22",
+      "Aston Martin Vantage GT3 EVO"
+    ],
+    "Class": "Class B",
+    "Discipline": "Sports Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Sebring International Raceway - International"
+      },
+      {
+        "week": 2,
+        "track": "Daytona International Speedway - Road Course"
+      },
+      {
+        "week": 3,
+        "track": "MotorLand Aragon - Motorcycle Grand Prix"
+      },
+      {
+        "week": 4,
+        "track": "Circuito de Jerez - Angel Nieto - Moto"
+      },
+      {
+        "week": 5,
+        "track": "Autodromo Jose Carlos Pace - Grand Prix"
+      },
+      {
+        "week": 6,
+        "track": "Miami International Autodrome - Grand Prix"
+      }
+    ]
+  },
+  {
+    "Series": "GT Sprint Series by Simucube",
+    "Cars": [
+      "BMW M4 GT3 EVO",
+      "Lamborghini Huracan GT3 EVO",
+      "Mercedes-AMG GT3 2020",
+      "Porsche 911 GT3 R (992)",
+      "Ferrari 296 GT3",
+      "Audi R8 LMS EVO II GT3",
+      "Chevrolet Corvette Z06 GT3.R",
+      "Ford Mustang GT3",
+      "McLaren 720S GT3 EVO",
+      "Acura NSX GT3 EVO 22",
+      "Aston Martin Vantage GT3 EVO"
+    ],
+    "Class": "Class B",
+    "Discipline": "Sports Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Miami International Autodrome - Grand Prix"
+      },
+      {
+        "week": 2,
+        "track": "Autodromo Internazionale Enzo e Dino Ferrari -"
+      },
+      {
+        "week": 3,
+        "track": "Adelaide Street Circuit"
+      },
+      {
+        "week": 4,
+        "track": "Sachsenring"
+      },
+      {
+        "week": 5,
+        "track": "Daytona International Speedway - Road Course"
+      },
+      {
+        "week": 6,
+        "track": "Algarve International Circuit - Grand Prix"
+      },
+      {
+        "week": 7,
+        "track": "Shell V-Power Motorsport Park at The Bend -"
+      },
+      {
+        "week": 8,
+        "track": "Autodromo Nazionale Monza - Combined"
+      },
+      {
+        "week": 9,
+        "track": "Virginia International Raceway - Full Course"
+      },
+      {
+        "week": 10,
+        "track": "Mount Panorama Circuit"
+      },
+      {
+        "week": 11,
+        "track": "Nurburgring Grand-Prix-Strecke - Grand Prix"
+      },
+      {
+        "week": 12,
+        "track": "Misano World Circuit Marco Simoncelli - Grand"
+      }
+    ]
+  },
+  {
+    "Series": "GT3 Challenge Fixed by Fanatec",
+    "Cars": [
+      "BMW M4 GT3 EVO",
+      "Lamborghini Huracan GT3 EVO",
+      "Mercedes-AMG GT3 2020",
+      "Porsche 911 GT3 R (992)",
+      "Ferrari 296 GT3",
+      "Audi R8 LMS EVO II GT3",
+      "Chevrolet Corvette Z06 GT3.R",
+      "Ford Mustang GT3",
+      "McLaren 720S GT3 EVO",
+      "Acura NSX GT3 EVO 22",
+      "Aston Martin Vantage GT3 EVO"
+    ],
+    "Class": "Class B",
+    "Discipline": "Sports Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Miami International Autodrome - Grand Prix"
+      },
+      {
+        "week": 2,
+        "track": "Autodromo Internazionale Enzo e Dino Ferrari -"
+      },
+      {
+        "week": 3,
+        "track": "Adelaide Street Circuit"
+      },
+      {
+        "week": 4,
+        "track": "Sachsenring"
+      },
+      {
+        "week": 5,
+        "track": "Daytona International Speedway - Road Course"
+      },
+      {
+        "week": 6,
+        "track": "Algarve International Circuit - Grand Prix"
+      },
+      {
+        "week": 7,
+        "track": "Shell V-Power Motorsport Park at The Bend -"
+      },
+      {
+        "week": 8,
+        "track": "Autodromo Nazionale Monza - Combined"
+      },
+      {
+        "week": 9,
+        "track": "Virginia International Raceway - Full Course"
+      },
+      {
+        "week": 10,
+        "track": "Mount Panorama Circuit"
+      },
+      {
+        "week": 11,
+        "track": "Nurburgring Grand-Prix-Strecke - Grand Prix"
+      },
+      {
+        "week": 12,
+        "track": "Misano World Circuit Marco Simoncelli - Grand"
+      }
+    ]
+  },
+  {
+    "Series": "GTE Sprint Series",
+    "Cars": [
+      "Ford GTE",
+      "Ferrari 488 GTE",
+      "Porsche 911 RSR",
+      "BMW M8 GTE",
+      "Chevrolet Corvette C8.R GTE"
+    ],
+    "Class": "Class B",
+    "Discipline": "Sports Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Autodromo Nazionale Monza - Grand Prix"
+      },
+      {
+        "week": 2,
+        "track": "Watkins Glen International - Boot"
+      },
+      {
+        "week": 3,
+        "track": "Daytona International Speedway - Road Course"
+      },
+      {
+        "week": 4,
+        "track": "Virginia International Raceway - Full Course"
+      },
+      {
+        "week": 5,
+        "track": "Road America - Full Course"
+      },
+      {
+        "week": 6,
+        "track": "Road Atlanta - Full Course"
+      },
+      {
+        "week": 7,
+        "track": "Autodromo Hermanos Rodriguez - Grand Prix"
+      },
+      {
+        "week": 8,
+        "track": "Silverstone Circuit - Grand Prix"
+      },
+      {
+        "week": 9,
+        "track": "Circuit des 24 Heures du Mans - 24 Heures du"
+      },
+      {
+        "week": 10,
+        "track": "Autodromo Jose Carlos Pace - Grand Prix"
+      },
+      {
+        "week": 11,
+        "track": "Autodromo Internazionale del Mugello - Grand"
+      },
+      {
+        "week": 12,
+        "track": "Suzuka International Racing Course - Grand Prix"
+      }
+    ]
+  },
+  {
+    "Series": "IMSA Endurance Series",
+    "Cars": [
+      "BMW M4 GT3 EVO",
+      "Lamborghini Huracan GT3 EVO",
+      "Mercedes-AMG GT3 2020",
+      "Porsche 911 GT3 R (992)",
+      "Ferrari 296 GT3",
+      "Chevrolet Corvette Z06 GT3.R",
+      "Ford Mustang GT3",
+      "McLaren 720S GT3 EVO",
+      "Acura NSX GT3 EVO 22",
+      "Aston Martin Vantage GT3 EVO",
+      "BMW M Hybrid V8",
+      "Cadillac V-Series.R GTP",
+      "Acura ARX-06 GTP",
+      "Porsche 963 GTP",
+      "Ferrari 499P",
+      "Dallara P217"
+    ],
+    "Class": "Class B",
+    "Discipline": "Sports Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Autodromo Hermanos Rodriguez - Grand Prix"
+      },
+      {
+        "week": 2,
+        "track": "Circuit des 24 Heures du Mans - 24 Heures du"
+      },
+      {
+        "week": 3,
+        "track": "Red Bull Ring - Grand Prix"
+      },
+      {
+        "week": 4,
+        "track": "Watkins Glen International - Boot"
+      },
+      {
+        "week": 5,
+        "track": "Road America - Full Course"
+      },
+      {
+        "week": 6,
+        "track": "Autodromo Nazionale Monza - Grand Prix"
+      }
+    ]
+  },
+  {
+    "Series": "iRacing GT3 Regional Tour - Americas",
+    "Cars": [
+      "BMW M4 GT3 EVO",
+      "Lamborghini Huracan GT3 EVO",
+      "Mercedes-AMG GT3 2020",
+      "Porsche 911 GT3 R (992)",
+      "Ferrari 296 GT3",
+      "Audi R8 LMS EVO II GT3",
+      "Chevrolet Corvette Z06 GT3.R",
+      "Ford Mustang GT3",
+      "McLaren 720S GT3 EVO",
+      "Acura NSX GT3 EVO 22",
+      "Aston Martin Vantage GT3 EVO"
+    ],
+    "Class": "Class B",
+    "Discipline": "Sports Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Virginia International Raceway - Full Course"
+      },
+      {
+        "week": 2,
+        "track": "Road Atlanta - Full Course"
+      },
+      {
+        "week": 3,
+        "track": "Canadian Tire Motorsports Park"
+      },
+      {
+        "week": 4,
+        "track": "Miami International Autodrome - Grand Prix"
+      },
+      {
+        "week": 5,
+        "track": "Daytona International Speedway - Road Course"
+      },
+      {
+        "week": 6,
+        "track": "Summit Point Raceway - Summit Point Raceway"
+      },
+      {
+        "week": 7,
+        "track": "Barber Motorsports Park - Full Course"
+      },
+      {
+        "week": 8,
+        "track": "Watkins Glen International - Boot"
+      },
+      {
+        "week": 9,
+        "track": "Lime Rock Park - Grand Prix"
+      },
+      {
+        "week": 10,
+        "track": "Autodromo Hermanos Rodriguez - Grand Prix"
+      },
+      {
+        "week": 11,
+        "track": "Road America - Full Course"
+      },
+      {
+        "week": 12,
+        "track": "WeatherTech Raceway at Laguna Seca - Full"
+      }
+    ]
+  },
+  {
+    "Series": "iRacing GT3 Regional Tour - Asia Pacific",
+    "Cars": [
+      "BMW M4 GT3 EVO",
+      "Lamborghini Huracan GT3 EVO",
+      "Mercedes-AMG GT3 2020",
+      "Porsche 911 GT3 R (992)",
+      "Ferrari 296 GT3",
+      "Audi R8 LMS EVO II GT3",
+      "Chevrolet Corvette Z06 GT3.R",
+      "Ford Mustang GT3",
+      "McLaren 720S GT3 EVO",
+      "Acura NSX GT3 EVO 22",
+      "Aston Martin Vantage GT3 EVO"
+    ],
+    "Class": "Class B",
+    "Discipline": "Sports Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Tsukuba Circuit - 2000 Full"
+      },
+      {
+        "week": 2,
+        "track": "Suzuka International Racing Course - Grand Prix"
+      },
+      {
+        "week": 3,
+        "track": "Shell V-Power Motorsport Park at The Bend -"
+      },
+      {
+        "week": 4,
+        "track": "Adelaide Street Circuit"
+      },
+      {
+        "week": 5,
+        "track": "Fuji International Speedway - Grand Prix"
+      },
+      {
+        "week": 6,
+        "track": "Winton Motor Raceway - Club Circuit"
+      },
+      {
+        "week": 7,
+        "track": "Sandown International Motor Raceway"
+      },
+      {
+        "week": 8,
+        "track": "Phillip Island Circuit"
+      },
+      {
+        "week": 9,
+        "track": "Oran Park Raceway - Grand Prix"
+      },
+      {
+        "week": 10,
+        "track": "Mount Panorama Circuit"
+      },
+      {
+        "week": 11,
+        "track": "Mobility Resort Motegi - Grand Prix"
+      },
+      {
+        "week": 12,
+        "track": "Okayama International Circuit - Full Course"
+      }
+    ]
+  },
+  {
+    "Series": "iRacing GT3 Regional Tour - Europe",
+    "Cars": [
+      "BMW M4 GT3 EVO",
+      "Lamborghini Huracan GT3 EVO",
+      "Mercedes-AMG GT3 2020",
+      "Porsche 911 GT3 R (992)",
+      "Ferrari 296 GT3",
+      "Audi R8 LMS EVO II GT3",
+      "Chevrolet Corvette Z06 GT3.R",
+      "Ford Mustang GT3",
+      "McLaren 720S GT3 EVO",
+      "Acura NSX GT3 EVO 22",
+      "Aston Martin Vantage GT3 EVO"
+    ],
+    "Class": "Class B",
+    "Discipline": "Sports Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Rudskogen Motorsenter"
+      },
+      {
+        "week": 2,
+        "track": "Silverstone Circuit - Grand Prix"
+      },
+      {
+        "week": 3,
+        "track": "Circuito de Jerez - Angel Nieto - Grand Prix"
+      },
+      {
+        "week": 4,
+        "track": "Algarve International Circuit - Grand Prix"
+      },
+      {
+        "week": 5,
+        "track": "Circuit de Spa-Francorchamps - Grand Prix Pits"
+      },
+      {
+        "week": 6,
+        "track": "Oulton Park Circuit - International"
+      },
+      {
+        "week": 7,
+        "track": "MotorLand Aragon - Grand Prix"
+      },
+      {
+        "week": 8,
+        "track": "Red Bull Ring - Grand Prix"
+      },
+      {
+        "week": 9,
+        "track": "Motorsport Arena Oschersleben - Grand Prix"
+      },
+      {
+        "week": 10,
+        "track": "Autodromo Nazionale Monza - Grand Prix"
+      },
+      {
+        "week": 11,
+        "track": "Donington Park Racing Circuit - Grand Prix"
+      },
+      {
+        "week": 12,
+        "track": "Snetterton Circuit - 200"
+      }
+    ]
+  },
+  {
+    "Series": "LMP2 Challenge",
+    "Cars": ["Dallara P217"],
+    "Class": "Class B",
+    "Discipline": "Sports Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Autodromo Hermanos Rodriguez - Grand Prix"
+      },
+      {
+        "week": 2,
+        "track": "Sebring International Raceway - International"
+      },
+      {
+        "week": 3,
+        "track": "Circuit des 24 Heures du Mans - 24 Heures du"
+      },
+      {
+        "week": 4,
+        "track": "Red Bull Ring - Grand Prix"
+      },
+      {
+        "week": 5,
+        "track": "Daytona International Speedway - Road Course"
+      },
+      {
+        "week": 6,
+        "track": "MotorLand Aragon - Motorcycle Grand Prix"
+      },
+      {
+        "week": 7,
+        "track": "Watkins Glen International - Boot"
+      },
+      {
+        "week": 8,
+        "track": "Circuito de Jerez - Angel Nieto - Moto"
+      },
+      {
+        "week": 9,
+        "track": "Road America - Full Course"
+      },
+      {
+        "week": 10,
+        "track": "Autodromo Jose Carlos Pace - Grand Prix"
+      },
+      {
+        "week": 11,
+        "track": "Autodromo Nazionale Monza - Grand Prix"
+      },
+      {
+        "week": 12,
+        "track": "Miami International Autodrome - Grand Prix"
+      }
+    ]
+  },
+  {
+    "Series": "Prototype Challenge",
+    "Cars": [
+      "BMW M Hybrid V8",
+      "Cadillac V-Series.R GTP",
+      "Acura ARX-06 GTP",
+      "Porsche 963 GTP",
+      "Ferrari 499P"
+    ],
+    "Class": "Class B",
+    "Discipline": "Sports Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Autodromo Hermanos Rodriguez - Grand Prix"
+      },
+      {
+        "week": 2,
+        "track": "Sebring International Raceway - International"
+      },
+      {
+        "week": 3,
+        "track": "Circuit des 24 Heures du Mans - 24 Heures du"
+      },
+      {
+        "week": 4,
+        "track": "Red Bull Ring - Grand Prix"
+      },
+      {
+        "week": 5,
+        "track": "Daytona International Speedway - Road Course"
+      },
+      {
+        "week": 6,
+        "track": "MotorLand Aragon - Motorcycle Grand Prix"
+      },
+      {
+        "week": 7,
+        "track": "Watkins Glen International - Boot"
+      },
+      {
+        "week": 8,
+        "track": "Circuito de Jerez - Angel Nieto - Moto"
+      },
+      {
+        "week": 9,
+        "track": "Road America - Full Course"
+      },
+      {
+        "week": 10,
+        "track": "Autodromo Jose Carlos Pace - Grand Prix"
+      },
+      {
+        "week": 11,
+        "track": "Autodromo Nazionale Monza - Grand Prix"
+      },
+      {
+        "week": 12,
+        "track": "Miami International Autodrome - Grand Prix"
+      }
+    ]
+  },
+  {
+    "Series": "IMSA iRacing Series",
+    "Cars": [
+      "BMW M Hybrid V8",
+      "Cadillac V-Series.R GTP",
+      "Acura ARX-06 GTP",
+      "Porsche 963 GTP",
+      "Ferrari 499P",
+      "BMW M4 GT3 EVO",
+      "Lamborghini Huracan GT3 EVO",
+      "Mercedes-AMG GT3 2020",
+      "Porsche 911 GT3 R (992)",
+      "Ferrari 296 GT3",
+      "Chevrolet Corvette Z06 GT3.R",
+      "Ford Mustang GT3",
+      "McLaren 720S GT3 EVO",
+      "Acura NSX GT3 EVO 22",
+      "Aston Martin Vantage GT3 EVO",
+      "Dallara P217"
+    ],
+    "Class": "Class A",
+    "Discipline": "Sports Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Autodromo Hermanos Rodriguez - Grand Prix"
+      },
+      {
+        "week": 2,
+        "track": "Sebring International Raceway - International"
+      },
+      {
+        "week": 3,
+        "track": "Circuit des 24 Heures du Mans - 24 Heures du"
+      },
+      {
+        "week": 4,
+        "track": "Red Bull Ring - Grand Prix"
+      },
+      {
+        "week": 5,
+        "track": "Daytona International Speedway - Road Course"
+      },
+      {
+        "week": 6,
+        "track": "MotorLand Aragon - Motorcycle Grand Prix"
+      },
+      {
+        "week": 7,
+        "track": "Watkins Glen International - Boot"
+      },
+      {
+        "week": 8,
+        "track": "Circuito de Jerez - Angel Nieto - Moto"
+      },
+      {
+        "week": 9,
+        "track": "Road America - Full Course"
+      },
+      {
+        "week": 10,
+        "track": "Autodromo Jose Carlos Pace - Grand Prix"
+      },
+      {
+        "week": 11,
+        "track": "Autodromo Nazionale Monza - Grand Prix"
+      },
+      {
+        "week": 12,
+        "track": "Miami International Autodrome - Grand Prix"
+      }
+    ]
+  },
+  {
+    "Series": "IMSA iRacing Series - Fixed",
+    "Cars": [
+      "BMW M4 GT3 EVO",
+      "Lamborghini Huracan GT3 EVO",
+      "Mercedes-AMG GT3 2020",
+      "Porsche 911 GT3 R (992)",
+      "Ferrari 296 GT3",
+      "Chevrolet Corvette Z06 GT3.R",
+      "Ford Mustang GT3",
+      "McLaren 720S GT3 EVO",
+      "Acura NSX GT3 EVO 22",
+      "Aston Martin Vantage GT3 EVO",
+      "BMW M Hybrid V8",
+      "Cadillac V-Series.R GTP",
+      "Acura ARX-06 GTP",
+      "Porsche 963 GTP",
+      "Ferrari 499P",
+      "Dallara P217"
+    ],
+    "Class": "Class A",
+    "Discipline": "Sports Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Autodromo Hermanos Rodriguez - Grand Prix"
+      },
+      {
+        "week": 2,
+        "track": "Sebring International Raceway - International"
+      },
+      {
+        "week": 3,
+        "track": "Circuit des 24 Heures du Mans - 24 Heures du"
+      },
+      {
+        "week": 4,
+        "track": "Red Bull Ring - Grand Prix"
+      },
+      {
+        "week": 5,
+        "track": "Daytona International Speedway - Road Course"
+      },
+      {
+        "week": 6,
+        "track": "MotorLand Aragon - Motorcycle Grand Prix"
+      },
+      {
+        "week": 7,
+        "track": "Watkins Glen International - Boot"
+      },
+      {
+        "week": 8,
+        "track": "Circuito de Jerez - Angel Nieto - Moto"
+      },
+      {
+        "week": 9,
+        "track": "Road America - Full Course"
+      },
+      {
+        "week": 10,
+        "track": "Autodromo Jose Carlos Pace - Grand Prix"
+      },
+      {
+        "week": 11,
+        "track": "Autodromo Nazionale Monza - Grand Prix"
+      },
+      {
+        "week": 12,
+        "track": "Miami International Autodrome - Grand Prix"
+      }
+    ]
+  },
+  {
+    "Series": "Formula 1600 Rookie Series",
+    "Cars": ["Ray FF1600"],
+    "Class": "Rookie",
+    "Discipline": "Formula Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Summit Point Raceway - Jefferson Circuit"
+      },
+      {
+        "week": 2,
+        "track": "Rudskogen Motorsenter"
+      },
+      {
+        "week": 3,
+        "track": "Winton Motor Raceway - National Circuit"
+      },
+      {
+        "week": 4,
+        "track": "Lime Rock Park - Grand Prix"
+      },
+      {
+        "week": 5,
+        "track": "Motorsport Arena Oschersleben - Grand Prix"
+      },
+      {
+        "week": 6,
+        "track": "Oran Park Raceway - Grand Prix"
+      },
+      {
+        "week": 7,
+        "track": "Summit Point Raceway - Summit Point Raceway"
+      },
+      {
+        "week": 8,
+        "track": "Virginia International Raceway - North Course"
+      },
+      {
+        "week": 9,
+        "track": "Circuit de Ledenon"
+      },
+      {
+        "week": 10,
+        "track": "Oulton Park Circuit - International"
+      },
+      {
+        "week": 11,
+        "track": "Okayama International Circuit - Full Course"
+      },
+      {
+        "week": 12,
+        "track": "Circuito de Navarra - Speed Circuit - Medium"
+      }
+    ]
+  },
+  {
+    "Series": "Formula Vee Series by trophi.ai",
+    "Cars": ["Formula Vee"],
+    "Class": "Rookie",
+    "Discipline": "Formula Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Summit Point Raceway - Jefferson Circuit"
+      },
+      {
+        "week": 2,
+        "track": "Rudskogen Motorsenter"
+      },
+      {
+        "week": 3,
+        "track": "Winton Motor Raceway - National Circuit"
+      },
+      {
+        "week": 4,
+        "track": "Lime Rock Park - Grand Prix"
+      },
+      {
+        "week": 5,
+        "track": "Motorsport Arena Oschersleben - Grand Prix"
+      },
+      {
+        "week": 6,
+        "track": "Oran Park Raceway - Grand Prix"
+      },
+      {
+        "week": 7,
+        "track": "Summit Point Raceway - Summit Point Raceway"
+      },
+      {
+        "week": 8,
+        "track": "Virginia International Raceway - North Course"
+      },
+      {
+        "week": 9,
+        "track": "Circuit de Ledenon"
+      },
+      {
+        "week": 10,
+        "track": "Oulton Park Circuit - International"
+      },
+      {
+        "week": 11,
+        "track": "Okayama International Circuit - Full Course"
+      },
+      {
+        "week": 12,
+        "track": "Circuito de Navarra - Speed Circuit - Medium"
+      }
+    ]
+  },
+  {
+    "Series": "FIA F4 Esports Regional Tour - America",
+    "Cars": ["FIA F4"],
+    "Class": "Class D",
+    "Discipline": "Formula Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Virginia International Raceway - Full Course"
+      },
+      {
+        "week": 2,
+        "track": "Miami International Autodrome - Grand Prix"
+      },
+      {
+        "week": 3,
+        "track": "Road Atlanta - Full Course"
+      },
+      {
+        "week": 4,
+        "track": "Summit Point Raceway - Summit Point Raceway"
+      },
+      {
+        "week": 5,
+        "track": "WeatherTech Raceway at Laguna Seca - Full"
+      },
+      {
+        "week": 6,
+        "track": "Autodromo Hermanos Rodriguez - Grand Prix"
+      },
+      {
+        "week": 7,
+        "track": "Lime Rock Park - Grand Prix"
+      },
+      {
+        "week": 8,
+        "track": "Willow Springs International Raceway - Big"
+      },
+      {
+        "week": 9,
+        "track": "Virginia International Raceway - North Course"
+      },
+      {
+        "week": 10,
+        "track": "Long Beach Street Circuit"
+      },
+      {
+        "week": 11,
+        "track": "Road America - Full Course"
+      },
+      {
+        "week": 12,
+        "track": "Sonoma Raceway - Cup Long"
+      }
+    ]
+  },
+  {
+    "Series": "FIA F4 Esports Regional Tour - Asia Pacific",
+    "Cars": ["FIA F4"],
+    "Class": "Class D",
+    "Discipline": "Formula Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Tsukuba Circuit - 2000 Full"
+      },
+      {
+        "week": 2,
+        "track": "Adelaide Street Circuit"
+      },
+      {
+        "week": 3,
+        "track": "Suzuka International Racing Course - Grand Prix"
+      },
+      {
+        "week": 4,
+        "track": "Oran Park Raceway - Grand Prix"
+      },
+      {
+        "week": 5,
+        "track": "Shell V-Power Motorsport Park at The Bend -"
+      },
+      {
+        "week": 6,
+        "track": "Fuji International Speedway - Grand Prix"
+      },
+      {
+        "week": 7,
+        "track": "Winton Motor Raceway - National Circuit"
+      },
+      {
+        "week": 8,
+        "track": "Sandown International Motor Raceway"
+      },
+      {
+        "week": 9,
+        "track": "Okayama International Circuit - Full Course"
+      },
+      {
+        "week": 10,
+        "track": "Mount Panorama Circuit"
+      },
+      {
+        "week": 11,
+        "track": "Phillip Island Circuit"
+      },
+      {
+        "week": 12,
+        "track": "Mobility Resort Motegi - Grand Prix"
+      }
+    ]
+  },
+  {
+    "Series": "FIA F4 Esports Regional Tour - Europe",
+    "Cars": ["FIA F4"],
+    "Class": "Class D",
+    "Discipline": "Formula Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Motorsport Arena Oschersleben - Grand Prix"
+      },
+      {
+        "week": 2,
+        "track": "Hungaroring"
+      },
+      {
+        "week": 3,
+        "track": "Autodromo Nazionale Monza - Grand Prix"
+      },
+      {
+        "week": 4,
+        "track": "Circuit de Ledenon"
+      },
+      {
+        "week": 5,
+        "track": "Circuit Zolder - Grand Prix"
+      },
+      {
+        "week": 6,
+        "track": "Circuit de Barcelona Catalunya - Grand Prix"
+      },
+      {
+        "week": 7,
+        "track": "Rudskogen Motorsenter"
+      },
+      {
+        "week": 8,
+        "track": "Misano World Circuit Marco Simoncelli - Grand"
+      },
+      {
+        "week": 9,
+        "track": "Snetterton Circuit - 300"
+      },
+      {
+        "week": 10,
+        "track": "Hockenheimring Baden-Wurttemberg - Grand"
+      },
+      {
+        "week": 11,
+        "track": "Circuit Zandvoort - Grand Prix"
+      },
+      {
+        "week": 12,
+        "track": "Circuit de Nevers Magny-Cours - Grand Prix"
+      }
+    ]
+  },
+  {
+    "Series": "FIA Formula 4 Challenge - Fixed",
+    "Cars": ["FIA F4"],
+    "Class": "Class D",
+    "Discipline": "Formula Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Circuito de Navarra - Speed Circuit"
+      },
+      {
+        "week": 2,
+        "track": "Circuit of the Americas - Grand Prix"
+      },
+      {
+        "week": 3,
+        "track": "Silverstone Circuit - Grand Prix"
+      },
+      {
+        "week": 4,
+        "track": "Winton Motor Raceway - National Circuit"
+      },
+      {
+        "week": 5,
+        "track": "Algarve International Circuit - Grand Prix"
+      },
+      {
+        "week": 6,
+        "track": "Miami International Autodrome - Grand Prix"
+      },
+      {
+        "week": 7,
+        "track": "Oulton Park Circuit - International"
+      },
+      {
+        "week": 8,
+        "track": "MotorLand Aragon - Grand Prix"
+      },
+      {
+        "week": 9,
+        "track": "Summit Point Raceway - Summit Point Raceway"
+      },
+      {
+        "week": 10,
+        "track": "Suzuka International Racing Course - East"
+      },
+      {
+        "week": 11,
+        "track": "Autodromo Internazionale del Mugello - Grand"
+      },
+      {
+        "week": 12,
+        "track": "Adelaide Street Circuit"
+      }
+    ]
+  },
+  {
+    "Series": "Motorsport UK FF 1600 Trophy by Thrustmaster",
+    "Cars": ["Ray FF1600"],
+    "Class": "Class D",
+    "Discipline": "Formula Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Snetterton Circuit - 300"
+      },
+      {
+        "week": 2,
+        "track": "Portland International Raceway - Full Circuit"
+      },
+      {
+        "week": 3,
+        "track": "Nurburgring Combined - Gesamtstrecke Long"
+      },
+      {
+        "week": 4,
+        "track": "WeatherTech Raceway at Laguna Seca - Full"
+      },
+      {
+        "week": 5,
+        "track": "Sebring International Raceway - Club"
+      },
+      {
+        "week": 6,
+        "track": "Tsukuba Circuit - 2000 Full"
+      },
+      {
+        "week": 7,
+        "track": "Phillip Island Circuit"
+      },
+      {
+        "week": 8,
+        "track": "Winton Motor Raceway - National Circuit"
+      },
+      {
+        "week": 9,
+        "track": "Autodromo Jose Carlos Pace - Grand Prix"
+      },
+      {
+        "week": 10,
+        "track": "Circuito de Navarra - Speed Circuit - Medium"
+      },
+      {
+        "week": 11,
+        "track": "Silverstone Circuit - International"
+      },
+      {
+        "week": 12,
+        "track": "Lime Rock Park - West Bend Chicane"
+      }
+    ]
+  },
+  {
+    "Series": "Skip Barber Race Series",
+    "Cars": ["Skip Barber Formula 2000"],
+    "Class": "Class D",
+    "Discipline": "Formula Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Nurburgring Combined - Gesamtstrecke Long"
+      },
+      {
+        "week": 2,
+        "track": "Portland International Raceway - Full Circuit"
+      },
+      {
+        "week": 3,
+        "track": "Summit Point Raceway - Short"
+      },
+      {
+        "week": 4,
+        "track": "Circuit de Ledenon"
+      },
+      {
+        "week": 5,
+        "track": "Sebring International Raceway - International"
+      },
+      {
+        "week": 6,
+        "track": "Virginia International Raceway - Full Course"
+      },
+      {
+        "week": 7,
+        "track": "Phillip Island Circuit"
+      },
+      {
+        "week": 8,
+        "track": "Motorsport Arena Oschersleben - Grand Prix"
+      },
+      {
+        "week": 9,
+        "track": "Suzuka International Racing Course - East"
+      },
+      {
+        "week": 10,
+        "track": "Snetterton Circuit - 300"
+      },
+      {
+        "week": 11,
+        "track": "Watkins Glen International - Classic"
+      },
+      {
+        "week": 12,
+        "track": "Circuito de Navarra - Speed Circuit"
+      }
+    ]
+  },
+  {
+    "Series": "US Open Wheel D - USF 2000 Series",
+    "Cars": ["USF 2000"],
+    "Class": "Class D",
+    "Discipline": "Formula Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Summit Point Raceway - Summit Point Raceway"
+      },
+      {
+        "week": 2,
+        "track": "Virginia International Raceway - Full Course"
+      },
+      {
+        "week": 3,
+        "track": "Phoenix Raceway - Oval"
+      },
+      {
+        "week": 4,
+        "track": "Miami International Autodrome - Grand Prix"
+      },
+      {
+        "week": 5,
+        "track": "Adelaide Street Circuit"
+      },
+      {
+        "week": 6,
+        "track": "Circuit de Barcelona Catalunya - National"
+      },
+      {
+        "week": 7,
+        "track": "Autodromo Hermanos Rodriguez - Oval"
+      },
+      {
+        "week": 8,
+        "track": "Okayama International Circuit - Full Course"
+      },
+      {
+        "week": 9,
+        "track": "Rudskogen Motorsenter"
+      },
+      {
+        "week": 10,
+        "track": "Autodromo Hermanos Rodriguez - Oval Stadium"
+      },
+      {
+        "week": 11,
+        "track": "[Legacy] Phoenix Raceway - 2008 - Road"
+      },
+      {
+        "week": 12,
+        "track": "Circuito de Navarra - Speed Circuit"
+      }
+    ]
+  },
+  {
+    "Series": "Dallara Formula iR",
+    "Cars": ["Dallara iR-01"],
+    "Class": "Class C",
+    "Discipline": "Formula Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Okayama International Circuit - Full Course"
+      },
+      {
+        "week": 2,
+        "track": "Nurburgring Combined - Gesamtstrecke Short"
+      },
+      {
+        "week": 3,
+        "track": "iRacing Superspeedway"
+      },
+      {
+        "week": 4,
+        "track": "Brands Hatch Circuit - Indy"
+      },
+      {
+        "week": 5,
+        "track": "Daytona International Speedway - Road Course"
+      },
+      {
+        "week": 6,
+        "track": "Watkins Glen International - Classic Boot"
+      },
+      {
+        "week": 7,
+        "track": "Charlotte Motor Speedway  - Oval"
+      },
+      {
+        "week": 8,
+        "track": "Circuit de Spa-Francorchamps - Classic Pits"
+      },
+      {
+        "week": 9,
+        "track": "Phoenix Raceway - Oval w/open dogleg"
+      },
+      {
+        "week": 10,
+        "track": "Autodromo Nazionale Monza - Junior"
+      },
+      {
+        "week": 11,
+        "track": "Mount Panorama Circuit"
+      },
+      {
+        "week": 12,
+        "track": "Homestead Miami Speedway - Oval"
+      }
+    ]
+  },
+  {
+    "Series": "Formula C -  Dallara F3 Series",
+    "Cars": ["Dallara F3"],
+    "Class": "Class C",
+    "Discipline": "Formula Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Virginia International Raceway - Full Course"
+      },
+      {
+        "week": 2,
+        "track": "Nurburgring Combined - Gesamtstrecke VLN"
+      },
+      {
+        "week": 3,
+        "track": "Hockenheimring Baden-Wurttemberg - Grand"
+      },
+      {
+        "week": 4,
+        "track": "Daytona International Speedway - Road Course"
+      },
+      {
+        "week": 5,
+        "track": "Shell V-Power Motorsport Park at The Bend -"
+      },
+      {
+        "week": 6,
+        "track": "Suzuka International Racing Course - Grand Prix"
+      },
+      {
+        "week": 7,
+        "track": "Circuit de Barcelona Catalunya - Historic"
+      },
+      {
+        "week": 8,
+        "track": "Miami International Autodrome - Grand Prix"
+      },
+      {
+        "week": 9,
+        "track": "Mount Panorama Circuit"
+      },
+      {
+        "week": 10,
+        "track": "Autodromo Hermanos Rodriguez - Grand Prix"
+      },
+      {
+        "week": 11,
+        "track": "[Legacy] Silverstone Circuit - 2008 - Grand Prix"
+      },
+      {
+        "week": 12,
+        "track": "Phillip Island Circuit"
+      }
+    ]
+  },
+  {
+    "Series": "Formula C - Dallara F3 Series",
+    "Cars": ["Dallara F3"],
+    "Class": "Class C",
+    "Discipline": "Formula Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Virginia International Raceway - Full Course"
+      },
+      {
+        "week": 2,
+        "track": "Nurburgring Combined - Gesamtstrecke VLN"
+      },
+      {
+        "week": 3,
+        "track": "Hockenheimring Baden-Wurttemberg - Grand"
+      },
+      {
+        "week": 4,
+        "track": "Daytona International Speedway - Road Course"
+      },
+      {
+        "week": 5,
+        "track": "Shell V-Power Motorsport Park at The Bend -"
+      },
+      {
+        "week": 6,
+        "track": "Suzuka International Racing Course - Grand Prix"
+      },
+      {
+        "week": 7,
+        "track": "Circuit de Barcelona Catalunya - Historic"
+      },
+      {
+        "week": 8,
+        "track": "Miami International Autodrome - Grand Prix"
+      },
+      {
+        "week": 9,
+        "track": "Mount Panorama Circuit"
+      },
+      {
+        "week": 10,
+        "track": "Autodromo Hermanos Rodriguez - Grand Prix"
+      },
+      {
+        "week": 11,
+        "track": "[Legacy] Silverstone Circuit - 2008 - Grand Prix"
+      },
+      {
+        "week": 12,
+        "track": "Phillip Island Circuit"
+      }
+    ]
+  },
+  {
+    "Series": "Formula C - Super Formula Lights - Fixed by RSS",
+    "Cars": ["Super Formula Lights"],
+    "Class": "Class C",
+    "Discipline": "Formula Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Circuit de Spa-Francorchamps - Bike"
+      },
+      {
+        "week": 2,
+        "track": "Indianapolis Motor Speedway - Road Course"
+      },
+      {
+        "week": 3,
+        "track": "Silverstone Circuit - Grand Prix"
+      },
+      {
+        "week": 4,
+        "track": "Sebring International Raceway - International"
+      },
+      {
+        "week": 5,
+        "track": "Road America - Full Course"
+      },
+      {
+        "week": 6,
+        "track": "Canadian Tire Motorsports Park"
+      },
+      {
+        "week": 7,
+        "track": "Autodromo Nazionale Monza - Grand Prix"
+      },
+      {
+        "week": 8,
+        "track": "Donington Park Racing Circuit - Grand Prix"
+      },
+      {
+        "week": 9,
+        "track": "WeatherTech Raceway at Laguna Seca - Full"
+      },
+      {
+        "week": 10,
+        "track": "Miami International Autodrome - Grand Prix"
+      },
+      {
+        "week": 11,
+        "track": "Circuit Zandvoort - Grand Prix"
+      },
+      {
+        "week": 12,
+        "track": "Circuit de Barcelona Catalunya - Historic"
+      }
+    ]
+  },
+  {
+    "Series": "Formula C - Super Formula Lights by RSS",
+    "Cars": ["Super Formula Lights"],
+    "Class": "Class C",
+    "Discipline": "Formula Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Circuit de Spa-Francorchamps - Bike"
+      },
+      {
+        "week": 2,
+        "track": "Indianapolis Motor Speedway - Road Course"
+      },
+      {
+        "week": 3,
+        "track": "Silverstone Circuit - Grand Prix"
+      },
+      {
+        "week": 4,
+        "track": "Sebring International Raceway - International"
+      },
+      {
+        "week": 5,
+        "track": "Road America - Full Course"
+      },
+      {
+        "week": 6,
+        "track": "Canadian Tire Motorsports Park"
+      },
+      {
+        "week": 7,
+        "track": "Autodromo Nazionale Monza - Grand Prix"
+      },
+      {
+        "week": 8,
+        "track": "Donington Park Racing Circuit - Grand Prix"
+      },
+      {
+        "week": 9,
+        "track": "WeatherTech Raceway at Laguna Seca - Full"
+      },
+      {
+        "week": 10,
+        "track": "Miami International Autodrome - Grand Prix"
+      },
+      {
+        "week": 11,
+        "track": "Circuit Zandvoort - Grand Prix"
+      },
+      {
+        "week": 12,
+        "track": "Circuit de Barcelona Catalunya - Historic"
+      }
+    ]
+  },
+  {
+    "Series": "Indy NXT Road Series - Fixed",
+    "Cars": ["Dallara IL-15"],
+    "Class": "Class C",
+    "Discipline": "Formula Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Road America - Full Course"
+      },
+      {
+        "week": 2,
+        "track": "Okayama International Circuit - Full Course"
+      },
+      {
+        "week": 3,
+        "track": "Miami International Autodrome - Grand Prix"
+      },
+      {
+        "week": 4,
+        "track": "Circuit de Barcelona Catalunya - Historic"
+      },
+      {
+        "week": 5,
+        "track": "Watkins Glen International - Classic Boot"
+      },
+      {
+        "week": 6,
+        "track": "Circuit Zandvoort - Grand Prix"
+      },
+      {
+        "week": 7,
+        "track": "Autodromo Jose Carlos Pace - Grand Prix"
+      },
+      {
+        "week": 8,
+        "track": "Autodromo Internazionale Enzo e Dino Ferrari -"
+      },
+      {
+        "week": 9,
+        "track": "Road Atlanta - Full Course"
+      },
+      {
+        "week": 10,
+        "track": "Fuji International Speedway - No Chicane"
+      },
+      {
+        "week": 11,
+        "track": "Autodromo Hermanos Rodriguez - Grand Prix"
+      },
+      {
+        "week": 12,
+        "track": "Adelaide Street Circuit"
+      }
+    ]
+  },
+  {
+    "Series": "iRacing Lotus 79 Grand Prix Series",
+    "Cars": ["Lotus 79"],
+    "Class": "Class C",
+    "Discipline": "Formula Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "WeatherTech Raceway at Laguna Seca - Full"
+      },
+      {
+        "week": 2,
+        "track": "Donington Park Racing Circuit - Grand Prix"
+      },
+      {
+        "week": 3,
+        "track": "Road America - Full Course"
+      },
+      {
+        "week": 4,
+        "track": "Circuit de Spa-Francorchamps - Grand Prix Pits"
+      },
+      {
+        "week": 5,
+        "track": "Sebring International Raceway - International"
+      },
+      {
+        "week": 6,
+        "track": "Circuit des 24 Heures du Mans - Historic"
+      },
+      {
+        "week": 7,
+        "track": "Hockenheimring Baden-Wurttemberg - Outer"
+      },
+      {
+        "week": 8,
+        "track": "Suzuka International Racing Course - Grand Prix"
+      },
+      {
+        "week": 9,
+        "track": "Circuit Zandvoort - Grand Prix"
+      },
+      {
+        "week": 10,
+        "track": "Nurburgring Nordschleife - Industriefahrten"
+      },
+      {
+        "week": 11,
+        "track": "Phillip Island Circuit"
+      },
+      {
+        "week": 12,
+        "track": "Autodromo Hermanos Rodriguez - Grand Prix"
+      }
+    ]
+  },
+  {
+    "Series": "Lotus 49 Grand Prix Legends",
+    "Cars": ["Lotus 49"],
+    "Class": "Class C",
+    "Discipline": "Formula Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Willow Springs International Raceway - Big"
+      },
+      {
+        "week": 2,
+        "track": "Sandown International Motor Raceway"
+      },
+      {
+        "week": 3,
+        "track": "Brands Hatch Circuit - Grand Prix"
+      },
+      {
+        "week": 4,
+        "track": "Snetterton Circuit - 300"
+      },
+      {
+        "week": 5,
+        "track": "Tsukuba Circuit - 2000 Full"
+      },
+      {
+        "week": 6,
+        "track": "Mobility Resort Motegi - Oval"
+      },
+      {
+        "week": 7,
+        "track": "Long Beach Street Circuit"
+      },
+      {
+        "week": 8,
+        "track": "Autodromo Hermanos Rodriguez - National"
+      },
+      {
+        "week": 9,
+        "track": "Donington Park Racing Circuit - National"
+      },
+      {
+        "week": 10,
+        "track": "Motorsport Arena Oschersleben - Grand Prix"
+      },
+      {
+        "week": 11,
+        "track": "Autodromo Jose Carlos Pace - Grand Prix"
+      },
+      {
+        "week": 12,
+        "track": "Autodromo Nazionale Monza - GP without first"
+      }
+    ]
+  },
+  {
+    "Series": "Formula B - Super Formula Series - Fixed",
+    "Cars": ["Super Formula SF23 - Toyota", "Super Formula SF23 - Honda"],
+    "Class": "Class B",
+    "Discipline": "Formula Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Silverstone Circuit - Grand Prix"
+      },
+      {
+        "week": 2,
+        "track": "Autodromo Internazionale del Mugello - Grand"
+      },
+      {
+        "week": 3,
+        "track": "Road America - Full Course"
+      },
+      {
+        "week": 4,
+        "track": "Adelaide Street Circuit"
+      },
+      {
+        "week": 5,
+        "track": "Miami International Autodrome - Grand Prix"
+      },
+      {
+        "week": 6,
+        "track": "Autodromo Jose Carlos Pace - Grand Prix"
+      },
+      {
+        "week": 7,
+        "track": "Road Atlanta - Full Course"
+      },
+      {
+        "week": 8,
+        "track": "Nurburgring Grand-Prix-Strecke - Grand Prix"
+      },
+      {
+        "week": 9,
+        "track": "Autodromo Nazionale Monza - Grand Prix"
+      },
+      {
+        "week": 10,
+        "track": "Circuit de Barcelona Catalunya - Historic"
+      },
+      {
+        "week": 11,
+        "track": "Circuit of the Americas - Grand Prix"
+      },
+      {
+        "week": 12,
+        "track": "Circuit de Spa-Francorchamps - Grand Prix Pits"
+      }
+    ]
+  },
+  {
+    "Series": "INDYCAR Series",
+    "Cars": ["Dallara IR18"],
+    "Class": "Class B",
+    "Discipline": "Formula Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Road America - Full Course"
+      },
+      {
+        "week": 2,
+        "track": "Michigan International Speedway"
+      },
+      {
+        "week": 3,
+        "track": "Circuit de Spa-Francorchamps - Grand Prix Pits"
+      },
+      {
+        "week": 4,
+        "track": "Kentucky Speedway - Oval"
+      },
+      {
+        "week": 5,
+        "track": "Autodromo Hermanos Rodriguez - Grand Prix"
+      },
+      {
+        "week": 6,
+        "track": "Pocono Raceway"
+      },
+      {
+        "week": 7,
+        "track": "Watkins Glen International - Boot"
+      },
+      {
+        "week": 8,
+        "track": "Mid-Ohio Sports Car Course - Full Course"
+      },
+      {
+        "week": 9,
+        "track": "Iowa Speedway - Oval"
+      },
+      {
+        "week": 10,
+        "track": "Circuit Zandvoort - Grand Prix"
+      },
+      {
+        "week": 11,
+        "track": "Sebring International Raceway - International"
+      },
+      {
+        "week": 12,
+        "track": "Phoenix Raceway - Oval"
+      }
+    ]
+  },
+  {
+    "Series": "INDYCAR Series - Fixed",
+    "Cars": ["Dallara IR18"],
+    "Class": "Class B",
+    "Discipline": "Formula Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Road America - Full Course"
+      },
+      {
+        "week": 2,
+        "track": "Michigan International Speedway"
+      },
+      {
+        "week": 3,
+        "track": "Circuit de Spa-Francorchamps - Grand Prix Pits"
+      },
+      {
+        "week": 4,
+        "track": "Kentucky Speedway - Oval"
+      },
+      {
+        "week": 5,
+        "track": "Autodromo Hermanos Rodriguez - Grand Prix"
+      },
+      {
+        "week": 6,
+        "track": "Pocono Raceway"
+      },
+      {
+        "week": 7,
+        "track": "Watkins Glen International - Boot"
+      },
+      {
+        "week": 8,
+        "track": "Mid-Ohio Sports Car Course - Full Course"
+      },
+      {
+        "week": 9,
+        "track": "Iowa Speedway - Oval"
+      },
+      {
+        "week": 10,
+        "track": "Circuit Zandvoort - Grand Prix"
+      },
+      {
+        "week": 11,
+        "track": "Sebring International Raceway - International"
+      },
+      {
+        "week": 12,
+        "track": "Phoenix Raceway - Oval"
+      }
+    ]
+  },
+  {
+    "Series": "Formula A - Cosworth Cup Grand Prix",
+    "Cars": ["Mercedes-AMG W13 E Performance"],
+    "Class": "Class A",
+    "Discipline": "Formula Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Circuit de Spa-Francorchamps - Grand Prix Pits"
+      },
+      {
+        "week": 2,
+        "track": "Autodromo Internazionale del Mugello - Grand"
+      },
+      {
+        "week": 3,
+        "track": "Autodromo Nazionale Monza - Grand Prix"
+      },
+      {
+        "week": 4,
+        "track": "Circuit Zandvoort - Grand Prix"
+      },
+      {
+        "week": 5,
+        "track": "Suzuka International Racing Course - Grand Prix"
+      },
+      {
+        "week": 6,
+        "track": "Miami International Autodrome - Grand Prix"
+      },
+      {
+        "week": 7,
+        "track": "Red Bull Ring - Grand Prix"
+      },
+      {
+        "week": 8,
+        "track": "Autodromo Jose Carlos Pace - Grand Prix"
+      },
+      {
+        "week": 9,
+        "track": "Autodromo Internazionale Enzo e Dino Ferrari -"
+      },
+      {
+        "week": 10,
+        "track": "Autodromo Hermanos Rodriguez - Grand Prix"
+      },
+      {
+        "week": 11,
+        "track": "Silverstone Circuit - Grand Prix"
+      },
+      {
+        "week": 12,
+        "track": "Phillip Island Circuit"
+      }
+    ]
+  },
+  {
+    "Series": "Formula A - Cosworth Cup Grand Prix - Fixed",
+    "Cars": ["Mercedes-AMG W13 E Performance"],
+    "Class": "Class A",
+    "Discipline": "Formula Car",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Circuit de Spa-Francorchamps - Grand Prix Pits"
+      },
+      {
+        "week": 2,
+        "track": "Autodromo Internazionale del Mugello - Grand"
+      },
+      {
+        "week": 3,
+        "track": "Autodromo Nazionale Monza - Grand Prix"
+      },
+      {
+        "week": 4,
+        "track": "Circuit Zandvoort - Grand Prix"
+      },
+      {
+        "week": 5,
+        "track": "Suzuka International Racing Course - Grand Prix"
+      },
+      {
+        "week": 6,
+        "track": "Miami International Autodrome - Grand Prix"
+      },
+      {
+        "week": 7,
+        "track": "Red Bull Ring - Grand Prix"
+      },
+      {
+        "week": 8,
+        "track": "Autodromo Jose Carlos Pace - Grand Prix"
+      },
+      {
+        "week": 9,
+        "track": "Autodromo Internazionale Enzo e Dino Ferrari -"
+      },
+      {
+        "week": 10,
+        "track": "Autodromo Hermanos Rodriguez - Grand Prix"
+      },
+      {
+        "week": 11,
+        "track": "Silverstone Circuit - Grand Prix"
+      },
+      {
+        "week": 12,
+        "track": "Phillip Island Circuit"
+      }
+    ]
+  },
+  {
+    "Series": "Dirt Mini Stock Rookie Series",
+    "Cars": ["Dirt Mini Stock"],
+    "Class": "Rookie",
+    "Discipline": "Dirt Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "USA International Speedway - Dirt"
+      },
+      {
+        "week": 2,
+        "track": "Lanier National Speedway - Dirt"
+      },
+      {
+        "week": 3,
+        "track": "Limaland Motorsports Park"
+      },
+      {
+        "week": 4,
+        "track": "USA International Speedway - Dirt"
+      },
+      {
+        "week": 5,
+        "track": "Lanier National Speedway - Dirt"
+      },
+      {
+        "week": 6,
+        "track": "Limaland Motorsports Park"
+      },
+      {
+        "week": 7,
+        "track": "USA International Speedway - Dirt"
+      },
+      {
+        "week": 8,
+        "track": "Lanier National Speedway - Dirt"
+      },
+      {
+        "week": 9,
+        "track": "Limaland Motorsports Park"
+      },
+      {
+        "week": 10,
+        "track": "USA International Speedway - Dirt"
+      },
+      {
+        "week": 11,
+        "track": "Lanier National Speedway - Dirt"
+      },
+      {
+        "week": 12,
+        "track": "Limaland Motorsports Park"
+      }
+    ]
+  },
+  {
+    "Series": "Micro Non Wing Sprint Car Rookie Series",
+    "Cars": ["Dirt Micro Sprint Car - Non-Winged"],
+    "Class": "Rookie",
+    "Discipline": "Dirt Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Limaland Motorsports Park"
+      },
+      {
+        "week": 2,
+        "track": "Lanier National Speedway - Dirt"
+      },
+      {
+        "week": 3,
+        "track": "Limaland Motorsports Park"
+      },
+      {
+        "week": 4,
+        "track": "Lanier National Speedway - Dirt"
+      },
+      {
+        "week": 5,
+        "track": "Limaland Motorsports Park"
+      },
+      {
+        "week": 6,
+        "track": "Lanier National Speedway - Dirt"
+      },
+      {
+        "week": 7,
+        "track": "Limaland Motorsports Park"
+      },
+      {
+        "week": 8,
+        "track": "Lanier National Speedway - Dirt"
+      },
+      {
+        "week": 9,
+        "track": "Limaland Motorsports Park"
+      },
+      {
+        "week": 10,
+        "track": "Lanier National Speedway - Dirt"
+      },
+      {
+        "week": 11,
+        "track": "Limaland Motorsports Park"
+      },
+      {
+        "week": 12,
+        "track": "Lanier National Speedway - Dirt"
+      }
+    ]
+  },
+  {
+    "Series": "Dirt Legends Cup",
+    "Cars": ["Dirt Legends Ford '34 Coupe"],
+    "Class": "Class D",
+    "Discipline": "Dirt Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "USA International Speedway - Dirt"
+      },
+      {
+        "week": 2,
+        "track": "Limaland Motorsports Park"
+      },
+      {
+        "week": 3,
+        "track": "Kevin Harvick's Kern Raceway - Dirt Track"
+      },
+      {
+        "week": 4,
+        "track": "Lanier National Speedway - Dirt"
+      },
+      {
+        "week": 5,
+        "track": "Lernerville Speedway"
+      },
+      {
+        "week": 6,
+        "track": "USA International Speedway - Dirt"
+      },
+      {
+        "week": 7,
+        "track": "The Dirt Track at Charlotte"
+      },
+      {
+        "week": 8,
+        "track": "Limaland Motorsports Park"
+      },
+      {
+        "week": 9,
+        "track": "Chili Bowl"
+      },
+      {
+        "week": 10,
+        "track": "Lanier National Speedway - Dirt"
+      },
+      {
+        "week": 11,
+        "track": "Kokomo Speedway - Tires out"
+      },
+      {
+        "week": 12,
+        "track": "Eldora Speedway"
+      }
+    ]
+  },
+  {
+    "Series": "DIRTcar 305 Sprint Car Series by Fanatec",
+    "Cars": ["Dirt Sprint Car - 305"],
+    "Class": "Class D",
+    "Discipline": "Dirt Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Limaland Motorsports Park"
+      },
+      {
+        "week": 2,
+        "track": "The Dirt Track at Charlotte"
+      },
+      {
+        "week": 3,
+        "track": "Williams Grove Speedway"
+      },
+      {
+        "week": 4,
+        "track": "USA International Speedway - Dirt"
+      },
+      {
+        "week": 5,
+        "track": "Lucas Oil Speedway - Dirt Oval"
+      },
+      {
+        "week": 6,
+        "track": "Eldora Speedway"
+      },
+      {
+        "week": 7,
+        "track": "Lanier National Speedway - Dirt"
+      },
+      {
+        "week": 8,
+        "track": "Huset's Speedway"
+      },
+      {
+        "week": 9,
+        "track": "Port Royal Speedway"
+      },
+      {
+        "week": 10,
+        "track": "Lernerville Speedway"
+      },
+      {
+        "week": 11,
+        "track": "Bristol Motor Speedway - Dirt"
+      },
+      {
+        "week": 12,
+        "track": "Knoxville Raceway"
+      }
+    ]
+  },
+  {
+    "Series": "DIRTcar Limited Late Model Series",
+    "Cars": ["Dirt Late Model - Limited"],
+    "Class": "Class D",
+    "Discipline": "Dirt Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Eldora Speedway"
+      },
+      {
+        "week": 2,
+        "track": "Federated Auto Parts Raceway at I-55"
+      },
+      {
+        "week": 3,
+        "track": "Lanier National Speedway - Dirt"
+      },
+      {
+        "week": 4,
+        "track": "Volusia Speedway Park"
+      },
+      {
+        "week": 5,
+        "track": "Limaland Motorsports Park"
+      },
+      {
+        "week": 6,
+        "track": "Huset's Speedway"
+      },
+      {
+        "week": 7,
+        "track": "The Dirt Track at Charlotte"
+      },
+      {
+        "week": 8,
+        "track": "Port Royal Speedway"
+      },
+      {
+        "week": 9,
+        "track": "Cedar Lake Speedway"
+      },
+      {
+        "week": 10,
+        "track": "Kokomo Speedway - Tires in"
+      },
+      {
+        "week": 11,
+        "track": "Knoxville Raceway"
+      },
+      {
+        "week": 12,
+        "track": "USA International Speedway - Dirt"
+      }
+    ]
+  },
+  {
+    "Series": "Big Block Modified Series",
+    "Cars": ["Dirt Big Block Modified"],
+    "Class": "Class C",
+    "Discipline": "Dirt Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "The Dirt Track at Charlotte"
+      },
+      {
+        "week": 2,
+        "track": "Lucas Oil Speedway - Dirt Oval"
+      },
+      {
+        "week": 3,
+        "track": "Cedar Lake Speedway"
+      },
+      {
+        "week": 4,
+        "track": "Port Royal Speedway"
+      },
+      {
+        "week": 5,
+        "track": "Lanier National Speedway - Dirt"
+      },
+      {
+        "week": 6,
+        "track": "Bristol Motor Speedway - Dirt"
+      },
+      {
+        "week": 7,
+        "track": "Knoxville Raceway"
+      },
+      {
+        "week": 8,
+        "track": "Eldora Speedway"
+      },
+      {
+        "week": 9,
+        "track": "Volusia Speedway Park"
+      },
+      {
+        "week": 10,
+        "track": "USA International Speedway - Dirt"
+      },
+      {
+        "week": 11,
+        "track": "Federated Auto Parts Raceway at I-55"
+      },
+      {
+        "week": 12,
+        "track": "Lernerville Speedway"
+      }
+    ]
+  },
+  {
+    "Series": "Big Block Modified Series - Fixed",
+    "Cars": ["Dirt Big Block Modified"],
+    "Class": "Class C",
+    "Discipline": "Dirt Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "The Dirt Track at Charlotte"
+      },
+      {
+        "week": 2,
+        "track": "Lucas Oil Speedway - Dirt Oval"
+      },
+      {
+        "week": 3,
+        "track": "Cedar Lake Speedway"
+      },
+      {
+        "week": 4,
+        "track": "Port Royal Speedway"
+      },
+      {
+        "week": 5,
+        "track": "Lanier National Speedway - Dirt"
+      },
+      {
+        "week": 6,
+        "track": "Bristol Motor Speedway - Dirt"
+      },
+      {
+        "week": 7,
+        "track": "Knoxville Raceway"
+      },
+      {
+        "week": 8,
+        "track": "Eldora Speedway"
+      },
+      {
+        "week": 9,
+        "track": "Volusia Speedway Park"
+      },
+      {
+        "week": 10,
+        "track": "USA International Speedway - Dirt"
+      },
+      {
+        "week": 11,
+        "track": "Federated Auto Parts Raceway at I-55"
+      },
+      {
+        "week": 12,
+        "track": "Lernerville Speedway"
+      }
+    ]
+  },
+  {
+    "Series": "Dirt Midget Cup",
+    "Cars": ["Dirt Midget"],
+    "Class": "Class C",
+    "Discipline": "Dirt Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Fairbury Speedway"
+      },
+      {
+        "week": 2,
+        "track": "Lanier National Speedway - Dirt"
+      },
+      {
+        "week": 3,
+        "track": "Lucas Oil Speedway - Dirt Oval"
+      },
+      {
+        "week": 4,
+        "track": "Kokomo Speedway - Tires out"
+      },
+      {
+        "week": 5,
+        "track": "Chili Bowl"
+      },
+      {
+        "week": 6,
+        "track": "Kevin Harvick's Kern Raceway - Dirt Track"
+      },
+      {
+        "week": 7,
+        "track": "Knoxville Raceway"
+      },
+      {
+        "week": 8,
+        "track": "Limaland Motorsports Park"
+      },
+      {
+        "week": 9,
+        "track": "Cedar Lake Speedway"
+      },
+      {
+        "week": 10,
+        "track": "Federated Auto Parts Raceway at I-55"
+      },
+      {
+        "week": 11,
+        "track": "Lernerville Speedway"
+      },
+      {
+        "week": 12,
+        "track": "Eldora Speedway"
+      }
+    ]
+  },
+  {
+    "Series": "Dirt Midget Cup - Fixed",
+    "Cars": ["Dirt Midget"],
+    "Class": "Class C",
+    "Discipline": "Dirt Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Fairbury Speedway"
+      },
+      {
+        "week": 2,
+        "track": "Lanier National Speedway - Dirt"
+      },
+      {
+        "week": 3,
+        "track": "Lucas Oil Speedway - Dirt Oval"
+      },
+      {
+        "week": 4,
+        "track": "Kokomo Speedway - Tires out"
+      },
+      {
+        "week": 5,
+        "track": "Chili Bowl"
+      },
+      {
+        "week": 6,
+        "track": "Kevin Harvick's Kern Raceway - Dirt Track"
+      },
+      {
+        "week": 7,
+        "track": "Knoxville Raceway"
+      },
+      {
+        "week": 8,
+        "track": "Limaland Motorsports Park"
+      },
+      {
+        "week": 9,
+        "track": "Cedar Lake Speedway"
+      },
+      {
+        "week": 10,
+        "track": "Federated Auto Parts Raceway at I-55"
+      },
+      {
+        "week": 11,
+        "track": "Lernerville Speedway"
+      },
+      {
+        "week": 12,
+        "track": "Eldora Speedway"
+      }
+    ]
+  },
+  {
+    "Series": "DIRTcar 360 Sprint Car Series",
+    "Cars": ["Dirt Sprint Car - 360"],
+    "Class": "Class C",
+    "Discipline": "Dirt Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "USA International Speedway - Dirt"
+      },
+      {
+        "week": 2,
+        "track": "Port Royal Speedway"
+      },
+      {
+        "week": 3,
+        "track": "Knoxville Raceway"
+      },
+      {
+        "week": 4,
+        "track": "Lucas Oil Speedway - Dirt Oval"
+      },
+      {
+        "week": 5,
+        "track": "The Dirt Track at Charlotte"
+      },
+      {
+        "week": 6,
+        "track": "Huset's Speedway"
+      },
+      {
+        "week": 7,
+        "track": "Volusia Speedway Park"
+      },
+      {
+        "week": 8,
+        "track": "Lanier National Speedway - Dirt"
+      },
+      {
+        "week": 9,
+        "track": "Kevin Harvick's Kern Raceway - Dirt Track"
+      },
+      {
+        "week": 10,
+        "track": "Eldora Speedway"
+      },
+      {
+        "week": 11,
+        "track": "Williams Grove Speedway"
+      },
+      {
+        "week": 12,
+        "track": "Lernerville Speedway"
+      }
+    ]
+  },
+  {
+    "Series": "DIRTcar Class C Dirt Street Stock Series",
+    "Cars": ["Dirt Street Stock"],
+    "Class": "Class C",
+    "Discipline": "Dirt Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Cedar Lake Speedway"
+      },
+      {
+        "week": 2,
+        "track": "Volusia Speedway Park"
+      },
+      {
+        "week": 3,
+        "track": "Port Royal Speedway"
+      },
+      {
+        "week": 4,
+        "track": "Lernerville Speedway"
+      },
+      {
+        "week": 5,
+        "track": "Bristol Motor Speedway - Dirt"
+      },
+      {
+        "week": 6,
+        "track": "Knoxville Raceway"
+      },
+      {
+        "week": 7,
+        "track": "Fairbury Speedway"
+      },
+      {
+        "week": 8,
+        "track": "Lanier National Speedway - Dirt"
+      },
+      {
+        "week": 9,
+        "track": "Kevin Harvick's Kern Raceway - Dirt Track"
+      },
+      {
+        "week": 10,
+        "track": "Eldora Speedway"
+      },
+      {
+        "week": 11,
+        "track": "Limaland Motorsports Park"
+      },
+      {
+        "week": 12,
+        "track": "The Dirt Track at Charlotte"
+      }
+    ]
+  },
+  {
+    "Series": "DIRTcar Pro Late Model Series",
+    "Cars": ["Dirt Late Model - Pro"],
+    "Class": "Class C",
+    "Discipline": "Dirt Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Lernerville Speedway"
+      },
+      {
+        "week": 2,
+        "track": "Limaland Motorsports Park"
+      },
+      {
+        "week": 3,
+        "track": "Eldora Speedway"
+      },
+      {
+        "week": 4,
+        "track": "Huset's Speedway"
+      },
+      {
+        "week": 5,
+        "track": "Knoxville Raceway"
+      },
+      {
+        "week": 6,
+        "track": "Cedar Lake Speedway"
+      },
+      {
+        "week": 7,
+        "track": "Lanier National Speedway - Dirt"
+      },
+      {
+        "week": 8,
+        "track": "Kokomo Speedway - Tires in"
+      },
+      {
+        "week": 9,
+        "track": "The Dirt Track at Charlotte"
+      },
+      {
+        "week": 10,
+        "track": "Kevin Harvick's Kern Raceway - Dirt Track"
+      },
+      {
+        "week": 11,
+        "track": "Lucas Oil Speedway - Dirt Oval"
+      },
+      {
+        "week": 12,
+        "track": "Volusia Speedway Park"
+      }
+    ]
+  },
+  {
+    "Series": "DIRTcar Pro Late Model Series - Fixed",
+    "Cars": ["Dirt Late Model - Pro"],
+    "Class": "Class C",
+    "Discipline": "Dirt Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Lernerville Speedway"
+      },
+      {
+        "week": 2,
+        "track": "Limaland Motorsports Park"
+      },
+      {
+        "week": 3,
+        "track": "Eldora Speedway"
+      },
+      {
+        "week": 4,
+        "track": "Huset's Speedway"
+      },
+      {
+        "week": 5,
+        "track": "Knoxville Raceway"
+      },
+      {
+        "week": 6,
+        "track": "Cedar Lake Speedway"
+      },
+      {
+        "week": 7,
+        "track": "Lanier National Speedway - Dirt"
+      },
+      {
+        "week": 8,
+        "track": "Kokomo Speedway - Tires in"
+      },
+      {
+        "week": 9,
+        "track": "The Dirt Track at Charlotte"
+      },
+      {
+        "week": 10,
+        "track": "Kevin Harvick's Kern Raceway - Dirt Track"
+      },
+      {
+        "week": 11,
+        "track": "Lucas Oil Speedway - Dirt Oval"
+      },
+      {
+        "week": 12,
+        "track": "Volusia Speedway Park"
+      }
+    ]
+  },
+  {
+    "Series": "DIRTcar UMP Modified Series - Fixed",
+    "Cars": ["Dirt UMP Modified"],
+    "Class": "Class C",
+    "Discipline": "Dirt Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Cedar Lake Speedway"
+      },
+      {
+        "week": 2,
+        "track": "Volusia Speedway Park"
+      },
+      {
+        "week": 3,
+        "track": "Port Royal Speedway"
+      },
+      {
+        "week": 4,
+        "track": "Lernerville Speedway"
+      },
+      {
+        "week": 5,
+        "track": "Bristol Motor Speedway - Dirt"
+      },
+      {
+        "week": 6,
+        "track": "Knoxville Raceway"
+      },
+      {
+        "week": 7,
+        "track": "Fairbury Speedway"
+      },
+      {
+        "week": 8,
+        "track": "Lanier National Speedway - Dirt"
+      },
+      {
+        "week": 9,
+        "track": "Kevin Harvick's Kern Raceway - Dirt Track"
+      },
+      {
+        "week": 10,
+        "track": "Eldora Speedway"
+      },
+      {
+        "week": 11,
+        "track": "Limaland Motorsports Park"
+      },
+      {
+        "week": 12,
+        "track": "The Dirt Track at Charlotte"
+      }
+    ]
+  },
+  {
+    "Series": "Outlaw Micro Showdown",
+    "Cars": ["See race week for cars in use that week."],
+    "Class": "Class C",
+    "Discipline": "Dirt Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Kokomo Speedway - Tires out"
+      },
+      {
+        "week": 2,
+        "track": "Kokomo Speedway - Tires out"
+      },
+      {
+        "week": 3,
+        "track": "Millbridge Speedway"
+      },
+      {
+        "week": 4,
+        "track": "Millbridge Speedway"
+      },
+      {
+        "week": 5,
+        "track": "Kevin Harvick's Kern Raceway - Dirt Mini Oval"
+      },
+      {
+        "week": 6,
+        "track": "Kevin Harvick's Kern Raceway - Dirt Mini Oval"
+      },
+      {
+        "week": 7,
+        "track": "Chili Bowl"
+      },
+      {
+        "week": 8,
+        "track": "Chili Bowl"
+      },
+      {
+        "week": 9,
+        "track": "Millbridge Speedway"
+      },
+      {
+        "week": 10,
+        "track": "Millbridge Speedway"
+      },
+      {
+        "week": 11,
+        "track": "Limaland Motorsports Park"
+      },
+      {
+        "week": 12,
+        "track": "Limaland Motorsports Park"
+      }
+    ]
+  },
+  {
+    "Series": "USAC 360 Sprint Car Series",
+    "Cars": ["Dirt Sprint Car - 360 Non-Winged"],
+    "Class": "Class C",
+    "Discipline": "Dirt Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Limaland Motorsports Park"
+      },
+      {
+        "week": 2,
+        "track": "Fairbury Speedway"
+      },
+      {
+        "week": 3,
+        "track": "The Dirt Track at Charlotte"
+      },
+      {
+        "week": 4,
+        "track": "Eldora Speedway"
+      },
+      {
+        "week": 5,
+        "track": "Lernerville Speedway"
+      },
+      {
+        "week": 6,
+        "track": "Federated Auto Parts Raceway at I-55"
+      },
+      {
+        "week": 7,
+        "track": "Knoxville Raceway"
+      },
+      {
+        "week": 8,
+        "track": "Lanier National Speedway - Dirt"
+      },
+      {
+        "week": 9,
+        "track": "Volusia Speedway Park"
+      },
+      {
+        "week": 10,
+        "track": "Kokomo Speedway - Tires in"
+      },
+      {
+        "week": 11,
+        "track": "Kevin Harvick's Kern Raceway - Dirt Track"
+      },
+      {
+        "week": 12,
+        "track": "Lucas Oil Speedway - Dirt Oval"
+      }
+    ]
+  },
+  {
+    "Series": "DIRTcar UMP Modified Series",
+    "Cars": ["Dirt UMP Modified"],
+    "Class": "Class B",
+    "Discipline": "Dirt Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Cedar Lake Speedway"
+      },
+      {
+        "week": 2,
+        "track": "Volusia Speedway Park"
+      },
+      {
+        "week": 3,
+        "track": "Port Royal Speedway"
+      },
+      {
+        "week": 4,
+        "track": "Lernerville Speedway"
+      },
+      {
+        "week": 5,
+        "track": "Bristol Motor Speedway - Dirt"
+      },
+      {
+        "week": 6,
+        "track": "Knoxville Raceway"
+      },
+      {
+        "week": 7,
+        "track": "Fairbury Speedway"
+      },
+      {
+        "week": 8,
+        "track": "Lanier National Speedway - Dirt"
+      },
+      {
+        "week": 9,
+        "track": "Kevin Harvick's Kern Raceway - Asphalt Track"
+      },
+      {
+        "week": 10,
+        "track": "Eldora Speedway"
+      },
+      {
+        "week": 11,
+        "track": "Limaland Motorsports Park"
+      },
+      {
+        "week": 12,
+        "track": "The Dirt Track at Charlotte"
+      }
+    ]
+  },
+  {
+    "Series": "World of Outlaws Late Model Series",
+    "Cars": ["Dirt Late Model - Super"],
+    "Class": "Class B",
+    "Discipline": "Dirt Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Lucas Oil Speedway - Dirt Oval"
+      },
+      {
+        "week": 2,
+        "track": "Knoxville Raceway"
+      },
+      {
+        "week": 3,
+        "track": "Oswego Speedway - Dirt"
+      },
+      {
+        "week": 4,
+        "track": "Cedar Lake Speedway"
+      },
+      {
+        "week": 5,
+        "track": "Eldora Speedway"
+      },
+      {
+        "week": 6,
+        "track": "Fairbury Speedway"
+      },
+      {
+        "week": 7,
+        "track": "The Dirt Track at Charlotte"
+      },
+      {
+        "week": 8,
+        "track": "USA International Speedway - Dirt"
+      },
+      {
+        "week": 9,
+        "track": "Volusia Speedway Park"
+      },
+      {
+        "week": 10,
+        "track": "Lernerville Speedway"
+      },
+      {
+        "week": 11,
+        "track": "Federated Auto Parts Raceway at I-55"
+      },
+      {
+        "week": 12,
+        "track": "Bristol Motor Speedway - Dirt"
+      }
+    ]
+  },
+  {
+    "Series": "World of Outlaws Sprint Car Series",
+    "Cars": ["Dirt Sprint Car - 410"],
+    "Class": "Class B",
+    "Discipline": "Dirt Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Knoxville Raceway"
+      },
+      {
+        "week": 2,
+        "track": "Federated Auto Parts Raceway at I-55"
+      },
+      {
+        "week": 3,
+        "track": "Limaland Motorsports Park"
+      },
+      {
+        "week": 4,
+        "track": "Lernerville Speedway"
+      },
+      {
+        "week": 5,
+        "track": "USA International Speedway - Dirt"
+      },
+      {
+        "week": 6,
+        "track": "Cedar Lake Speedway"
+      },
+      {
+        "week": 7,
+        "track": "Kokomo Speedway - Tires in"
+      },
+      {
+        "week": 8,
+        "track": "Volusia Speedway Park"
+      },
+      {
+        "week": 9,
+        "track": "Lanier National Speedway - Dirt"
+      },
+      {
+        "week": 10,
+        "track": "Lincoln Speedway"
+      },
+      {
+        "week": 11,
+        "track": "Oswego Speedway - Dirt"
+      },
+      {
+        "week": 12,
+        "track": "Eldora Speedway"
+      }
+    ]
+  },
+  {
+    "Series": "FIA Cross Car Championship",
+    "Cars": ["FIA Cross Car"],
+    "Class": "Rookie",
+    "Discipline": "Dirt Road",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Winton Motor Raceway - Rallycross"
+      },
+      {
+        "week": 2,
+        "track": "Daytona Rallycross and Dirt Road - Rallycross"
+      },
+      {
+        "week": 3,
+        "track": "Charlotte Motor Speedway  - Rallyx"
+      },
+      {
+        "week": 4,
+        "track": "[Legacy] Phoenix Raceway - 2008 - Rallycross"
+      },
+      {
+        "week": 5,
+        "track": "Daytona Rallycross and Dirt Road - Rallycross"
+      },
+      {
+        "week": 6,
+        "track": "Winton Motor Raceway - Rallycross"
+      },
+      {
+        "week": 7,
+        "track": "Charlotte Motor Speedway  - Rallyx"
+      },
+      {
+        "week": 8,
+        "track": "Daytona Rallycross and Dirt Road - Rallycross"
+      },
+      {
+        "week": 9,
+        "track": "[Legacy] Phoenix Raceway - 2008 - Rallycross"
+      },
+      {
+        "week": 10,
+        "track": "Winton Motor Raceway - Rallycross"
+      },
+      {
+        "week": 11,
+        "track": "Daytona Rallycross and Dirt Road - Rallycross"
+      },
+      {
+        "week": 12,
+        "track": "Charlotte Motor Speedway  - Rallyx"
+      }
+    ]
+  },
+  {
+    "Series": "Pro 2 Lite Off-Road Rookie Series by Trak Racer",
+    "Cars": ["Lucas Oil Off Road Pro 2 Lite"],
+    "Class": "Rookie",
+    "Discipline": "Dirt Road",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Wild West Motorsports Park"
+      },
+      {
+        "week": 2,
+        "track": "USA International Speedway - Dirt"
+      },
+      {
+        "week": 3,
+        "track": "Daytona Rallycross and Dirt Road - Rallycross"
+      },
+      {
+        "week": 4,
+        "track": "Wild West Motorsports Park"
+      },
+      {
+        "week": 5,
+        "track": "[Legacy] Phoenix Raceway - 2008 - Rallycross"
+      },
+      {
+        "week": 6,
+        "track": "Wild West Motorsports Park"
+      },
+      {
+        "week": 7,
+        "track": "Daytona Rallycross and Dirt Road - Dirt Road"
+      },
+      {
+        "week": 8,
+        "track": "Wild West Motorsports Park"
+      },
+      {
+        "week": 9,
+        "track": "Lanier National Speedway - Dirt"
+      },
+      {
+        "week": 10,
+        "track": "Wild West Motorsports Park"
+      },
+      {
+        "week": 11,
+        "track": "[Legacy] Phoenix Raceway - 2008 - Dirt Road"
+      },
+      {
+        "week": 12,
+        "track": "Wild West Motorsports Park"
+      }
+    ]
+  },
+  {
+    "Series": "VW Lite iRX Rookie Series by Trak Racer",
+    "Cars": ["VW Beetle - Lite"],
+    "Class": "Rookie",
+    "Discipline": "Dirt Road",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Winton Motor Raceway - Rallycross"
+      },
+      {
+        "week": 2,
+        "track": "Daytona Rallycross and Dirt Road - Rallycross"
+      },
+      {
+        "week": 3,
+        "track": "Charlotte Motor Speedway  - Rallyx"
+      },
+      {
+        "week": 4,
+        "track": "[Legacy] Phoenix Raceway - 2008 - Rallycross"
+      },
+      {
+        "week": 5,
+        "track": "Daytona Rallycross and Dirt Road - Rallycross"
+      },
+      {
+        "week": 6,
+        "track": "Winton Motor Raceway - Rallycross"
+      },
+      {
+        "week": 7,
+        "track": "Charlotte Motor Speedway  - Rallyx"
+      },
+      {
+        "week": 8,
+        "track": "Daytona Rallycross and Dirt Road - Rallycross"
+      },
+      {
+        "week": 9,
+        "track": "[Legacy] Phoenix Raceway - 2008 - Rallycross"
+      },
+      {
+        "week": 10,
+        "track": "Winton Motor Raceway - Rallycross"
+      },
+      {
+        "week": 11,
+        "track": "Daytona Rallycross and Dirt Road - Rallycross"
+      },
+      {
+        "week": 12,
+        "track": "Charlotte Motor Speedway  - Rallyx"
+      }
+    ]
+  },
+  {
+    "Series": "Advanced Pro2 Lite Off Road Series by Trak Racer",
+    "Cars": ["Lucas Oil Off Road Pro 2 Lite"],
+    "Class": "Class D",
+    "Discipline": "Dirt Road",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Lucas Oil Speedway - Dirt Road"
+      },
+      {
+        "week": 2,
+        "track": "Wild West Motorsports Park"
+      },
+      {
+        "week": 3,
+        "track": "Bark River International Raceway"
+      },
+      {
+        "week": 4,
+        "track": "Crandon International Raceway - Full"
+      },
+      {
+        "week": 5,
+        "track": "Lucas Oil Speedway - Dirt Road"
+      },
+      {
+        "week": 6,
+        "track": "Firebird Motorsports Park"
+      },
+      {
+        "week": 7,
+        "track": "Wild West Motorsports Park"
+      },
+      {
+        "week": 8,
+        "track": "Crandon International Raceway - Short"
+      },
+      {
+        "week": 9,
+        "track": "Bark River International Raceway"
+      },
+      {
+        "week": 10,
+        "track": "Lucas Oil Speedway - Dirt Road"
+      },
+      {
+        "week": 11,
+        "track": "Wild West Motorsports Park"
+      },
+      {
+        "week": 12,
+        "track": "Crandon International Raceway - Full"
+      }
+    ]
+  },
+  {
+    "Series": "iRX Volkswagen Beetle Lite Series by Trak Racer",
+    "Cars": ["VW Beetle - Lite"],
+    "Class": "Class D",
+    "Discipline": "Dirt Road",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Winton Motor Raceway - Rallycross"
+      },
+      {
+        "week": 2,
+        "track": "Sonoma Raceway - Rallycross"
+      },
+      {
+        "week": 3,
+        "track": "Daytona Rallycross and Dirt Road - Rallycross"
+      },
+      {
+        "week": 4,
+        "track": "Brands Hatch Circuit - Rallycross"
+      },
+      {
+        "week": 5,
+        "track": "EchoPark Speedway (Atlanta) - Rallycross Long"
+      },
+      {
+        "week": 6,
+        "track": "Daytona Rallycross and Dirt Road - Rallycross"
+      },
+      {
+        "week": 7,
+        "track": "Iowa Speedway - Rallycross - 2017"
+      },
+      {
+        "week": 8,
+        "track": "Charlotte Motor Speedway  - Rallyx"
+      },
+      {
+        "week": 9,
+        "track": "Circuit de Barcelona Catalunya - Rallycross"
+      },
+      {
+        "week": 10,
+        "track": "Knockhill Racing Circuit - Rallycross"
+      },
+      {
+        "week": 11,
+        "track": "Winton Motor Raceway - Rallycross"
+      },
+      {
+        "week": 12,
+        "track": "[Legacy] Phoenix Raceway - 2008 - Rallycross"
+      }
+    ]
+  },
+  {
+    "Series": "Pro 4 Off-Road Series - Fixed by Trak Racer",
+    "Cars": ["Lucas Oil Off Road Pro 4 Truck"],
+    "Class": "Class D",
+    "Discipline": "Dirt Road",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Lucas Oil Speedway - Dirt Road"
+      },
+      {
+        "week": 2,
+        "track": "Crandon International Raceway - Full"
+      },
+      {
+        "week": 3,
+        "track": "Wild West Motorsports Park"
+      },
+      {
+        "week": 4,
+        "track": "Bark River International Raceway"
+      },
+      {
+        "week": 5,
+        "track": "Crandon International Raceway - Full"
+      },
+      {
+        "week": 6,
+        "track": "Lucas Oil Speedway - Dirt Road"
+      },
+      {
+        "week": 7,
+        "track": "Firebird Motorsports Park"
+      },
+      {
+        "week": 8,
+        "track": "Wild West Motorsports Park"
+      },
+      {
+        "week": 9,
+        "track": "Crandon International Raceway - Short"
+      },
+      {
+        "week": 10,
+        "track": "Bark River International Raceway"
+      },
+      {
+        "week": 11,
+        "track": "Lucas Oil Speedway - Dirt Road"
+      },
+      {
+        "week": 12,
+        "track": "Wild West Motorsports Park"
+      }
+    ]
+  },
+  {
+    "Series": "Pro 2 Off-Road Series - Fixed by Trak Racer",
+    "Cars": ["Lucas Oil Off Road Pro 2 Truck"],
+    "Class": "Class C",
+    "Discipline": "Dirt Road",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Lucas Oil Speedway - Dirt Road"
+      },
+      {
+        "week": 2,
+        "track": "Crandon International Raceway - Full"
+      },
+      {
+        "week": 3,
+        "track": "Wild West Motorsports Park"
+      },
+      {
+        "week": 4,
+        "track": "Bark River International Raceway"
+      },
+      {
+        "week": 5,
+        "track": "Crandon International Raceway - Full"
+      },
+      {
+        "week": 6,
+        "track": "Lucas Oil Speedway - Dirt Road"
+      },
+      {
+        "week": 7,
+        "track": "Firebird Motorsports Park"
+      },
+      {
+        "week": 8,
+        "track": "Wild West Motorsports Park"
+      },
+      {
+        "week": 9,
+        "track": "Crandon International Raceway - Short"
+      },
+      {
+        "week": 10,
+        "track": "Bark River International Raceway"
+      },
+      {
+        "week": 11,
+        "track": "Lucas Oil Speedway - Dirt Road"
+      },
+      {
+        "week": 12,
+        "track": "Wild West Motorsports Park"
+      }
+    ]
+  },
+  {
+    "Series": "Rallycross Series - Fixed by Trak Racer",
+    "Cars": ["Ford Fiesta RS WRC", "VW Beetle", "Subaru WRX STI"],
+    "Class": "Class C",
+    "Discipline": "Dirt Road",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Winton Motor Raceway - Rallycross"
+      },
+      {
+        "week": 2,
+        "track": "Iowa Speedway - Rallycross - 2017"
+      },
+      {
+        "week": 3,
+        "track": "[Legacy] Phoenix Raceway - 2008 - Rallycross"
+      },
+      {
+        "week": 4,
+        "track": "EchoPark Speedway (Atlanta) - Rallycross Short"
+      },
+      {
+        "week": 5,
+        "track": "Daytona Rallycross and Dirt Road - Rallycross"
+      },
+      {
+        "week": 6,
+        "track": "Lucas Oil Indianapolis Raceway Park -"
+      },
+      {
+        "week": 7,
+        "track": "Brands Hatch Circuit - Rallycross"
+      },
+      {
+        "week": 8,
+        "track": "Daytona Rallycross and Dirt Road - Rallycross"
+      },
+      {
+        "week": 9,
+        "track": "Lankebanen (Hell RX) - Hell Rallycross"
+      },
+      {
+        "week": 10,
+        "track": "Charlotte Motor Speedway  - Rallyx"
+      },
+      {
+        "week": 11,
+        "track": "Sonoma Raceway - Rallycross"
+      },
+      {
+        "week": 12,
+        "track": "Winton Motor Raceway - Rallycross"
+      }
+    ]
+  },
+  {
+    "Series": "Rallycross Series by Trak Racer",
+    "Cars": ["Ford Fiesta RS WRC", "VW Beetle", "Subaru WRX STI"],
+    "Class": "Class B",
+    "Discipline": "Dirt Road",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Winton Motor Raceway - Rallycross"
+      },
+      {
+        "week": 2,
+        "track": "[Legacy] Phoenix Raceway - 2008 - Rallycross"
+      },
+      {
+        "week": 3,
+        "track": "EchoPark Speedway (Atlanta) - Rallycross Short"
+      },
+      {
+        "week": 4,
+        "track": "Daytona Rallycross and Dirt Road - Rallycross"
+      },
+      {
+        "week": 5,
+        "track": "Lucas Oil Indianapolis Raceway Park -"
+      },
+      {
+        "week": 6,
+        "track": "Brands Hatch Circuit - Rallycross"
+      },
+      {
+        "week": 7,
+        "track": "Daytona Rallycross and Dirt Road - Rallycross"
+      },
+      {
+        "week": 8,
+        "track": "Lankebanen (Hell RX) - Hell Rallycross"
+      },
+      {
+        "week": 9,
+        "track": "Charlotte Motor Speedway  - Rallyx"
+      },
+      {
+        "week": 10,
+        "track": "Sonoma Raceway - Rallycross"
+      },
+      {
+        "week": 11,
+        "track": "Iowa Speedway - Rallycross - 2017"
+      },
+      {
+        "week": 12,
+        "track": "Winton Motor Raceway - Rallycross"
+      }
+    ]
+  },
+  {
+    "Series": "Dallara DW12 Dash",
+    "Cars": ["[Legacy] Dallara DW12"],
+    "Class": "Unranked",
+    "Discipline": "Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Charlotte Motor Speedway  - Oval"
+      },
+      {
+        "week": 2,
+        "track": "Texas Motor Speedway - Oval"
+      },
+      {
+        "week": 3,
+        "track": "Daytona International Speedway - Oval"
+      },
+      {
+        "week": 4,
+        "track": "Pocono Raceway"
+      },
+      {
+        "week": 5,
+        "track": "Michigan International Speedway"
+      },
+      {
+        "week": 6,
+        "track": "New Hampshire Motor Speedway - Oval"
+      },
+      {
+        "week": 7,
+        "track": "Phoenix Raceway - Oval"
+      },
+      {
+        "week": 8,
+        "track": "Talladega Superspeedway"
+      },
+      {
+        "week": 9,
+        "track": "Auto Club Speedway - Oval"
+      },
+      {
+        "week": 10,
+        "track": "Kentucky Speedway - Oval"
+      },
+      {
+        "week": 11,
+        "track": "World Wide Technology Raceway (Gateway) -"
+      },
+      {
+        "week": 12,
+        "track": "iRacing Superspeedway"
+      },
+      {
+        "week": 13,
+        "track": "Homestead Miami Speedway - Oval"
+      }
+    ]
+  },
+  {
+    "Series": "NASCAR Carburetor Cup",
+    "Cars": [
+      "NASCAR Cup Series Next Gen Chevrolet Camaro ZL1",
+      "NASCAR Cup Series Next Gen Ford Mustang",
+      "NASCAR Cup Series Next Gen Toyota Camry"
+    ],
+    "Class": "Unranked",
+    "Discipline": "Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Talladega Superspeedway"
+      },
+      {
+        "week": 2,
+        "track": "Charlotte Motor Speedway  - Oval"
+      },
+      {
+        "week": 3,
+        "track": "EchoPark Speedway (Atlanta) - Oval"
+      },
+      {
+        "week": 4,
+        "track": "Michigan International Speedway"
+      },
+      {
+        "week": 5,
+        "track": "Daytona International Speedway - Oval"
+      },
+      {
+        "week": 6,
+        "track": "Auto Club Speedway - Oval"
+      },
+      {
+        "week": 7,
+        "track": "Talladega Superspeedway"
+      },
+      {
+        "week": 8,
+        "track": "Charlotte Motor Speedway  - Oval"
+      },
+      {
+        "week": 9,
+        "track": "EchoPark Speedway (Atlanta) - Oval"
+      },
+      {
+        "week": 10,
+        "track": "Michigan International Speedway"
+      },
+      {
+        "week": 11,
+        "track": "iRacing Superspeedway"
+      },
+      {
+        "week": 12,
+        "track": "Daytona International Speedway - Oval"
+      },
+      {
+        "week": 13,
+        "track": "Autodromo Nazionale Monza - Oval - Left turning"
+      }
+    ]
+  },
+  {
+    "Series": "NASCAR Pickup Cup",
+    "Cars": ["[Legacy] NASCAR Truck Chevrolet Silverado - 2008"],
+    "Class": "Unranked",
+    "Discipline": "Oval",
+    "Tracks": [
+      {
+        "week": 1,
+        "track": "Daytona International Speedway - Oval - 2008"
+      },
+      {
+        "week": 2,
+        "track": "Charlotte Motor Speedway  - Oval"
+      },
+      {
+        "week": 3,
+        "track": "[Legacy] Phoenix Raceway - 2008 - Oval"
+      },
+      {
+        "week": 4,
+        "track": "Daytona International Speedway - Oval - 2008"
+      },
+      {
+        "week": 5,
+        "track": "[Legacy] Pocono Raceway - 2009 - Oval"
+      },
+      {
+        "week": 6,
+        "track": "[Legacy] Phoenix Raceway - 2008 - Oval"
+      },
+      {
+        "week": 7,
+        "track": "Daytona International Speedway - Oval - 2008"
+      },
+      {
+        "week": 8,
+        "track": "Charlotte Motor Speedway  - Oval"
+      },
+      {
+        "week": 9,
+        "track": "[Legacy] Phoenix Raceway - 2008 - Oval"
+      },
+      {
+        "week": 10,
+        "track": "[Legacy] Pocono Raceway - 2009 - Oval"
+      },
+      {
+        "week": 11,
+        "track": "Charlotte Motor Speedway  - Oval"
+      },
+      {
+        "week": 12,
+        "track": "[Legacy] Phoenix Raceway - 2008 - Oval"
+      },
+      {
+        "week": 13,
+        "track": "Daytona International Speedway - Oval - 2008"
+      }
+    ]
+  }
+]
