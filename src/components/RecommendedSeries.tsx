@@ -138,10 +138,10 @@ export function RecommendedSeries({
               <button
                 key={d}
                 onClick={() => toggleDiscipline(d)}
-                className={`px-2 py-0.5 text-xs rounded border border-gray-600 transition-colors ${
+                className={`px-2 py-0.5 text-xs rounded border border-gray-600 transition-colors cursor-pointer ${
                   selectedDisciplines.has(d)
                     ? "bg-blue-800 text-white"
-                    : "bg-gray-800 text-gray-400"
+                    : "bg-gray-800 text-gray-400 hover:bg-gray-700"
                 }`}
               >
                 {d}
@@ -158,10 +158,10 @@ export function RecommendedSeries({
               <button
                 key={c}
                 onClick={() => toggleClass(c)}
-                className={`px-2 py-0.5 text-xs rounded border border-gray-600 transition-colors ${
+                className={`px-2 py-0.5 text-xs rounded border border-gray-600 transition-colors cursor-pointer ${
                   selectedClasses.has(c)
                     ? "bg-blue-800 text-white"
-                    : "bg-gray-800 text-gray-400"
+                    : "bg-gray-800 text-gray-400 hover:bg-gray-700"
                 }`}
               >
                 {c}
