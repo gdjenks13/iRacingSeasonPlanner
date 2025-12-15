@@ -92,12 +92,23 @@ export function RecommendedSeries({
       // Check if user owns any of the cars for this series
       const ownsCar = s.Cars.some((car) => ownedCars.has(car));
 
+      // Separate tracks into owned and not owned
+      const uniqueTracksList = Array.from(uniqueBaseTracks);
+      const ownedTracksList = uniqueTracksList.filter((track) =>
+        ownedTracks.has(track)
+      );
+      const notOwnedTracksList = uniqueTracksList.filter(
+        (track) => !ownedTracks.has(track)
+      );
+
       return {
         series: s,
         ownedCount,
         totalTracks,
         percentage: totalTracks > 0 ? (ownedCount / totalTracks) * 100 : 0,
         ownsCar,
+        ownedTracksList,
+        notOwnedTracksList,
       };
     });
 
@@ -175,7 +186,15 @@ export function RecommendedSeries({
       <div className="grid grid-cols-3 gap-3">
         {rankedSeries.map(
           (
-            { series: s, ownedCount, totalTracks, percentage, ownsCar },
+            {
+              series: s,
+              ownedCount,
+              totalTracks,
+              percentage,
+              ownsCar,
+              ownedTracksList,
+              notOwnedTracksList,
+            },
             idx
           ) => {
             const headerColor =
@@ -186,7 +205,7 @@ export function RecommendedSeries({
                 key={idx}
                 className={`${headerColor} rounded-lg p-3 border border-gray-600 flex flex-col h-full min-h-35 cursor-pointer transition-all hover:brightness-110`}
               >
-                <div className="flex justify-between items-start flex-1">
+                <div className="flex justify-between items-start">
                   <div className="flex-1 min-w-0 pr-2">
                     <h3 className="font-semibold text-white text-sm leading-tight line-clamp-2">
                       {s.Series}
@@ -194,11 +213,20 @@ export function RecommendedSeries({
                     <p className="text-xs text-gray-300 mt-1">
                       {s.Discipline} • {s.Class}
                     </p>
-                    <p
-                      className="text-xs text-gray-400 mt-1 truncate"
-                      title={s.Cars.join(", ")}
-                    >
-                      {s.Cars.join(", ")}
+                    <p className="text-xs text-gray-400 mt-1 flex flex-wrap gap-1">
+                      {s.Cars.map((car, i) => (
+                        <span
+                          key={i}
+                          className={
+                            ownedCars.has(car)
+                              ? "text-green-400"
+                              : "text-gray-400"
+                          }
+                        >
+                          {car}
+                          {i < s.Cars.length - 1 ? "," : ""}
+                        </span>
+                      ))}
                     </p>
                     <p className="text-xs mt-0.5">
                       {ownsCar ? (
@@ -229,7 +257,7 @@ export function RecommendedSeries({
                 </div>
 
                 {/* Progress bar */}
-                <div className="mt-auto pt-2">
+                <div className="mt-2">
                   <div className="h-1.5 bg-gray-700 rounded-full overflow-hidden">
                     <div
                       className={`h-full transition-all ${
@@ -243,6 +271,42 @@ export function RecommendedSeries({
                       }`}
                       style={{ width: `${percentage}%` }}
                     />
+                  </div>
+                </div>
+
+                {/* Tracks List */}
+                <div className="mt-2 flex gap-2 text-xs flex-1">
+                  <div className="flex-1">
+                    <div className="text-green-400 font-semibold mb-1">
+                      Owned
+                    </div>
+                    <div className="text-gray-300 space-y-0.5">
+                      {ownedTracksList.length > 0 ? (
+                        ownedTracksList.map((track, i) => (
+                          <div key={i} className="truncate" title={track}>
+                            {track}
+                          </div>
+                        ))
+                      ) : (
+                        <div className="text-gray-500 italic">None</div>
+                      )}
+                    </div>
+                  </div>
+                  <div className="flex-1">
+                    <div className="text-yellow-400 font-semibold mb-1">
+                      Need
+                    </div>
+                    <div className="text-gray-300 space-y-0.5">
+                      {notOwnedTracksList.length > 0 ? (
+                        notOwnedTracksList.map((track, i) => (
+                          <div key={i} className="truncate" title={track}>
+                            {track}
+                          </div>
+                        ))
+                      ) : (
+                        <div className="text-gray-500 italic">None</div>
+                      )}
+                    </div>
                   </div>
                 </div>
               </div>
