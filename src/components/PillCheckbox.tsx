@@ -17,7 +17,7 @@ export function PillCheckbox({
     <button
       onClick={onChange}
       disabled={disabled}
-      className={`px-3 py-1.5 rounded-md text-sm transition-all border ${
+      className={`px-2.5 sm:px-3 py-2 sm:py-1.5 rounded-md text-xs sm:text-sm transition-all border active:scale-95 ${
         checked
           ? "bg-blue-600 border-blue-500 text-white hover:brightness-110"
           : "bg-gray-700 border-gray-600 text-gray-300 hover:bg-gray-600 hover:brightness-110"

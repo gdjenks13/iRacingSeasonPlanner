@@ -130,40 +130,40 @@ function App() {
   }
 
   return (
-    <div className="min-h-screen p-2">
-      <h1 className="text-2xl font-bold text-center mb-4 text-gray-100">
+    <div className="min-h-dvh p-3 sm:p-4 max-w-10/12 mx-auto">
+      <h1 className="text-xl sm:text-2xl font-bold text-center mb-3 sm:mb-4 text-gray-100">
         iRacing Season Planner
       </h1>
 
       {/* Tab Navigation */}
-      <div className="flex justify-center mb-6">
-        <div className="flex bg-gray-800 rounded-lg p-1">
+      <div className="flex justify-center mb-4 sm:mb-6">
+        <div className="flex bg-gray-800 rounded-lg p-1 w-full sm:w-auto">
           <button
             onClick={() => setActiveTab("schedule")}
-            className={`px-4 py-2 text-sm font-medium rounded-md transition-colors cursor-pointer ${
+            className={`flex-1 sm:flex-none px-3 sm:px-4 py-2.5 sm:py-2 text-sm font-medium rounded-md transition-colors cursor-pointer ${
               activeTab === "schedule"
                 ? "bg-blue-600 text-white"
-                : "text-gray-400 hover:text-white"
+                : "text-gray-400 hover:text-white active:bg-gray-700"
             }`}
           >
             Schedule
           </button>
           <button
             onClick={() => setActiveTab("myContent")}
-            className={`px-4 py-2 text-sm font-medium rounded-md transition-colors cursor-pointer ${
+            className={`flex-1 sm:flex-none px-3 sm:px-4 py-2.5 sm:py-2 text-sm font-medium rounded-md transition-colors cursor-pointer ${
               activeTab === "myContent"
                 ? "bg-blue-600 text-white"
-                : "text-gray-400 hover:text-white"
+                : "text-gray-400 hover:text-white active:bg-gray-700"
             }`}
           >
             My Content
           </button>
           <button
             onClick={() => setActiveTab("recommended")}
-            className={`px-4 py-2 text-sm font-medium rounded-md transition-colors cursor-pointer ${
+            className={`flex-1 sm:flex-none px-3 sm:px-4 py-2.5 sm:py-2 text-sm font-medium rounded-md transition-colors cursor-pointer ${
               activeTab === "recommended"
                 ? "bg-blue-600 text-white"
-                : "text-gray-400 hover:text-white"
+                : "text-gray-400 hover:text-white active:bg-gray-700"
             }`}
           >
             Recommended
@@ -175,21 +175,21 @@ function App() {
       {activeTab === "schedule" && (
         <>
           {/* Filters */}
-          <div className="mb-4 flex flex-wrap gap-4 justify-center">
+          <div className="mb-4 flex flex-col sm:flex-row flex-wrap gap-3 sm:gap-4 sm:justify-center">
             {/* Discipline Filter */}
-            <div className="flex flex-col gap-1">
+            <div className="flex flex-col gap-1.5">
               <span className="text-xs font-semibold text-gray-400">
                 Discipline
               </span>
-              <div className="flex flex-wrap gap-1">
+              <div className="flex flex-wrap gap-1.5">
                 {disciplines.map((d) => (
                   <button
                     key={d}
                     onClick={() => toggleDiscipline(d)}
-                    className={`px-2 py-0.5 text-xs rounded border border-gray-600 transition-colors cursor-pointer ${
+                    className={`px-3 py-1.5 text-xs rounded border border-gray-600 transition-colors cursor-pointer active:scale-95 ${
                       selectedDisciplines.has(d)
                         ? "bg-blue-800 text-white"
-                        : "bg-gray-800 text-gray-400 hover:bg-gray-700"
+                        : "bg-gray-800 text-gray-400 hover:bg-gray-700 active:bg-gray-600"
                     }`}
                   >
                     {d}
@@ -199,17 +199,17 @@ function App() {
             </div>
 
             {/* Class Filter */}
-            <div className="flex flex-col gap-1">
+            <div className="flex flex-col gap-1.5">
               <span className="text-xs font-semibold text-gray-400">Class</span>
-              <div className="flex flex-wrap gap-1">
+              <div className="flex flex-wrap gap-1.5">
                 {classes.map((c) => (
                   <button
                     key={c}
                     onClick={() => toggleClass(c)}
-                    className={`px-2 py-0.5 text-xs rounded border border-gray-600 transition-colors cursor-pointer ${
+                    className={`px-3 py-1.5 text-xs rounded border border-gray-600 transition-colors cursor-pointer active:scale-95 ${
                       selectedClasses.has(c)
                         ? "bg-blue-800 text-white"
-                        : "bg-gray-800 text-gray-400 hover:bg-gray-700"
+                        : "bg-gray-800 text-gray-400 hover:bg-gray-700 active:bg-gray-600"
                     }`}
                   >
                     {c}
@@ -219,12 +219,11 @@ function App() {
             </div>
           </div>
 
-          {/* Schedule - Each series as separate table */}
+          {/* Schedule - Each series as card on mobile, table on desktop */}
           <div className="space-y-3">
             {filteredSeries.map((series, idx) => {
               const headerColor =
                 classColors[series.Class as LicenseClass] || "bg-gray-700";
-              const rowBg = idx % 2 === 0 ? "bg-gray-900" : "bg-slate-900";
               const carsTooltip = series.Cars.join(", ");
 
               // Calculate max weeks for this specific series
@@ -234,56 +233,101 @@ function App() {
               );
 
               return (
-                <div key={idx} className="overflow-x-auto group">
-                  <table className="w-full border-collapse text-xs transition-all hover:brightness-110">
-                    <thead>
-                      <tr className={headerColor}>
-                        <th
-                          className="border border-gray-600 px-2 py-1 text-left sticky left-0 z-10 cursor-help min-w-50"
-                          style={{ backgroundColor: "inherit" }}
-                          title={carsTooltip}
+                <div
+                  key={idx}
+                  className="rounded-lg overflow-hidden border border-gray-700"
+                >
+                  {/* Series Header */}
+                  <div className={`${headerColor} p-2`}>
+                    <div
+                      className="font-semibold text-white text-sm"
+                      title={carsTooltip}
+                    >
+                      {series.Series}
+                    </div>
+                    <div className="text-xs text-gray-300">
+                      {series.Discipline} • {series.Class}
+                    </div>
+                  </div>
+
+                  {/* Mobile: Vertical list */}
+                  <div className="sm:hidden bg-gray-900 divide-y divide-gray-700">
+                    {Array.from({ length: seriesMaxWeeks }, (_, i) => {
+                      const weekNum = i + 1;
+                      const track = series.Tracks.find(
+                        (t) => t.week === weekNum
+                      );
+                      const baseName = track
+                        ? getBaseTrackName(track.track)
+                        : null;
+                      const isOwned = baseName
+                        ? ownedTracks.has(baseName)
+                        : false;
+
+                      return (
+                        <div
+                          key={i}
+                          className="p-2 flex justify-between items-center"
                         >
-                          {series.Series}
-                          <span className="block text-[10px] text-gray-300 font-normal">
-                            {series.Discipline}
+                          <span className="text-xs text-gray-500 w-16 shrink-0">
+                            Week {weekNum}
                           </span>
-                        </th>
-                        {Array.from({ length: seriesMaxWeeks }, (_, i) => (
-                          <th
-                            key={i}
-                            className="border border-gray-600 px-1 py-1 text-center min-w-30 text-[10px] font-medium"
+                          <span
+                            className={`text-xs text-right ${
+                              isOwned ? "text-green-400" : "text-gray-300"
+                            }`}
                           >
-                            Week {i + 1}
-                          </th>
-                        ))}
-                      </tr>
-                    </thead>
-                    <tbody>
-                      <tr className={rowBg}>
-                        <td
-                          className={`border border-gray-600 px-2 py-1 sticky left-0 z-10 ${rowBg}`}
-                        >
-                          <span className="text-gray-400 text-[10px]">
-                            Track
+                            {track ? track.track : "-"}
                           </span>
-                        </td>
-                        {Array.from({ length: seriesMaxWeeks }, (_, i) => {
-                          const weekNum = i + 1;
-                          const track = series.Tracks.find(
-                            (t) => t.week === weekNum
-                          );
-                          return (
-                            <td
+                        </div>
+                      );
+                    })}
+                  </div>
+
+                  {/* Desktop: Horizontal table */}
+                  <div className="hidden sm:block overflow-x-auto hide-scrollbar">
+                    <table className="w-full border-collapse text-xs">
+                      <thead>
+                        <tr className="bg-gray-800">
+                          {Array.from({ length: seriesMaxWeeks }, (_, i) => (
+                            <th
                               key={i}
-                              className={`border border-gray-600 px-1 py-1 text-center ${rowBg}`}
+                              className="border border-gray-600 p-1.5 text-center min-w-20 text-xs font-medium text-gray-400"
                             >
-                              {track ? track.track : "-"}
-                            </td>
-                          );
-                        })}
-                      </tr>
-                    </tbody>
-                  </table>
+                              Week {i + 1}
+                            </th>
+                          ))}
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr className="bg-gray-900">
+                          {Array.from({ length: seriesMaxWeeks }, (_, i) => {
+                            const weekNum = i + 1;
+                            const track = series.Tracks.find(
+                              (t) => t.week === weekNum
+                            );
+                            const baseName = track
+                              ? getBaseTrackName(track.track)
+                              : null;
+                            const isOwned = baseName
+                              ? ownedTracks.has(baseName)
+                              : false;
+
+                            return (
+                              <td
+                                key={i}
+                                className={`border border-gray-600 px-2 py-1.5 text-center ${
+                                  isOwned ? "text-green-400" : "text-gray-300"
+                                }`}
+                              >
+                                {track ? track.track : "-"}
+                              </td>
+                            );
+                          })}
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
                 </div>
               );
             })}
