@@ -7,7 +7,7 @@
     "Tracks": [
       {
         "week": 1,
-        "track": "Charlotte Motor Speedway  - Oval"
+        "track": "Charlotte Motor Speedway - Oval"
       },
       {
         "week": 2,
@@ -43,7 +43,7 @@
       },
       {
         "week": 10,
-        "track": "Charlotte Motor Speedway  - Oval"
+        "track": "Charlotte Motor Speedway - Oval"
       },
       {
         "week": 11,
@@ -123,7 +123,7 @@
     "Tracks": [
       {
         "week": 1,
-        "track": "Charlotte Motor Speedway  - Oval"
+        "track": "Charlotte Motor Speedway - Oval"
       },
       {
         "week": 2,
@@ -159,7 +159,7 @@
       },
       {
         "week": 10,
-        "track": "Charlotte Motor Speedway  - Oval"
+        "track": "Charlotte Motor Speedway - Oval"
       },
       {
         "week": 11,
@@ -195,7 +195,7 @@
       },
       {
         "week": 5,
-        "track": "World Wide Technology Raceway (Gateway) -"
+        "track": "World Wide Technology Raceway (Gateway) - Oval"
       },
       {
         "week": 6,
@@ -223,7 +223,7 @@
       },
       {
         "week": 12,
-        "track": "Charlotte Motor Speedway  - Oval"
+        "track": "Charlotte Motor Speedway - Oval"
       }
     ]
   },
@@ -291,51 +291,51 @@
     "Tracks": [
       {
         "week": 1,
-        "track": "Talladega Superspeedway"
+        "track": "Talladega Superspeedway NASCAR Cup Series Next Gen Chevrolet Camaro ZL1, NASCAR Cup Series Next Gen Ford Mustang, NASCAR Cup Series Next Gen Toyota Camry"
       },
       {
         "week": 2,
-        "track": "Talladega Superspeedway"
+        "track": "Talladega Superspeedway Gen 4 Chevrolet Monte Carlo - 2003, Gen 4 Ford Taurus - 2003"
       },
       {
         "week": 3,
-        "track": "Talladega Superspeedway"
+        "track": "Talladega Superspeedway NASCAR XFINITY Chevrolet Camaro, NASCAR XFINITY Ford Mustang, NASCAR XFINITY Toyota Supra"
       },
       {
         "week": 4,
-        "track": "Talladega Superspeedway"
+        "track": "Talladega Superspeedway [Legacy] NASCAR Cup Chevrolet Impala COT -"
       },
       {
         "week": 5,
-        "track": "Talladega Superspeedway"
+        "track": "Talladega Superspeedway NASCAR Truck Chevrolet Silverado, NASCAR Truck Ford F150, NASCAR Truck Toyota Tundra TRD Pro"
       },
       {
         "week": 6,
-        "track": "Talladega Superspeedway"
+        "track": "Talladega Superspeedway NASCAR Legends Chevrolet Monte Carlo - 1987, NASCAR Legends Ford Thunderbird - 1987, NASCAR Legends Buick LeSabre - 1987, NASCAR Legends Pontiac Grand Prix - 1987"
       },
       {
         "week": 7,
-        "track": "Daytona International Speedway - Oval"
+        "track": "Daytona International Speedway - Oval NASCAR Cup Series Next Gen Chevrolet Camaro ZL1, NASCAR Cup Series Next Gen Ford Mustang, NASCAR Cup Series Next Gen Toyota Camry"
       },
       {
         "week": 8,
-        "track": "Daytona International Speedway - Oval"
+        "track": "Daytona International Speedway - Oval Gen 4 Chevrolet Monte Carlo - 2003, Gen 4 Ford Taurus - 2003"
       },
       {
         "week": 9,
-        "track": "Daytona International Speedway - Oval"
+        "track": "Daytona International Speedway - Oval NASCAR XFINITY Chevrolet Camaro, NASCAR XFINITY Ford Mustang, NASCAR XFINITY Toyota Supra"
       },
       {
         "week": 10,
-        "track": "Daytona International Speedway - Oval"
+        "track": "Daytona International Speedway - Oval [Legacy] NASCAR Cup Chevrolet Impala COT -"
       },
       {
         "week": 11,
-        "track": "Daytona International Speedway - Oval"
+        "track": "Daytona International Speedway - Oval NASCAR Truck Chevrolet Silverado, NASCAR Truck Ford F150, NASCAR Truck Toyota Tundra TRD Pro"
       },
       {
         "week": 12,
-        "track": "Daytona International Speedway - Oval"
+        "track": "Daytona International Speedway - Oval NASCAR Legends Chevrolet Monte Carlo - 1987, NASCAR Legends Ford Thunderbird - 1987, NASCAR Legends Buick LeSabre - 1987, NASCAR Legends Pontiac Grand Prix - 1987"
       }
     ]
   },
@@ -347,7 +347,7 @@
     "Tracks": [
       {
         "week": 1,
-        "track": "Charlotte Motor Speedway  - Oval"
+        "track": "Charlotte Motor Speedway - Oval"
       },
       {
         "week": 2,
@@ -663,7 +663,7 @@
       },
       {
         "week": 10,
-        "track": "World Wide Technology Raceway (Gateway) -"
+        "track": "World Wide Technology Raceway (Gateway) - Oval"
       },
       {
         "week": 11,
@@ -695,7 +695,7 @@
       },
       {
         "week": 4,
-        "track": "WeatherTech Raceway at Laguna Seca - Full"
+        "track": "WeatherTech Raceway at Laguna Seca - Full Course"
       },
       {
         "week": 5,
@@ -811,7 +811,7 @@
       },
       {
         "week": 4,
-        "track": "Daytona International Speedway - NASCAR"
+        "track": "Daytona International Speedway - NASCAR Road"
       },
       {
         "week": 5,
@@ -1127,15 +1127,15 @@
     "Tracks": [
       {
         "week": 1,
-        "track": "World Wide Technology Raceway (Gateway) -"
+        "track": "World Wide Technology Raceway (Gateway) - Oval"
       },
       {
         "week": 2,
-        "track": "Homestead Miami Speedway - Open Wheel"
+        "track": "Homestead Miami Speedway - Open Wheel Oval"
       },
       {
         "week": 3,
-        "track": "Indianapolis Motor Speedway - Open Wheel"
+        "track": "Indianapolis Motor Speedway - Open Wheel Oval"
       },
       {
         "week": 4,
@@ -1159,7 +1159,7 @@
       },
       {
         "week": 9,
-        "track": "Charlotte Motor Speedway  - Oval"
+        "track": "Charlotte Motor Speedway - Oval"
       },
       {
         "week": 10,
@@ -1256,7 +1256,7 @@
       },
       {
         "week": 3,
-        "track": "Charlotte Motor Speedway  - Oval"
+        "track": "Charlotte Motor Speedway - Oval"
       },
       {
         "week": 4,
@@ -1300,7 +1300,7 @@
       },
       {
         "week": 3,
-        "track": "Charlotte Motor Speedway  - Oval"
+        "track": "Charlotte Motor Speedway - Oval"
       },
       {
         "week": 4,
@@ -1376,7 +1376,7 @@
       },
       {
         "week": 8,
-        "track": "World Wide Technology Raceway (Gateway) -"
+        "track": "World Wide Technology Raceway (Gateway) - Oval"
       },
       {
         "week": 9,
@@ -1704,7 +1704,7 @@
       },
       {
         "week": 4,
-        "track": "Autodromo Hermanos Rodriguez - Grand Prix"
+        "track": "Autodromo Hermanos Rodriguez - Grand Prix Historic"
       },
       {
         "week": 5,
@@ -1712,7 +1712,7 @@
       },
       {
         "week": 6,
-        "track": "Autodromo Internazionale Enzo e Dino Ferrari -"
+        "track": "Autodromo Internazionale Enzo e Dino Ferrari - Grand Prix"
       },
       {
         "week": 7,
@@ -1764,7 +1764,7 @@
       },
       {
         "week": 5,
-        "track": "WeatherTech Raceway at Laguna Seca - Full"
+        "track": "WeatherTech Raceway at Laguna Seca - Full Course"
       },
       {
         "week": 6,
@@ -1931,7 +1931,7 @@
       },
       {
         "week": 3,
-        "track": "[Legacy] Phoenix Raceway - 2008 - Road"
+        "track": "[Legacy] Phoenix Raceway - 2008 - Road Course"
       },
       {
         "week": 4,
@@ -2011,7 +2011,7 @@
       },
       {
         "week": 9,
-        "track": "Circuit des 24 Heures du Mans - 24 Heures du"
+        "track": "Circuit des 24 Heures du Mans - 24 Heures du Mans"
       },
       {
         "week": 10,
@@ -2039,7 +2039,7 @@
       },
       {
         "week": 2,
-        "track": "Miami International Autodrome - Extended MIA"
+        "track": "Miami International Autodrome - Extended MIA Loop"
       },
       {
         "week": 3,
@@ -2055,7 +2055,7 @@
       },
       {
         "week": 6,
-        "track": "[Legacy] Phoenix Raceway - 2008 - Road"
+        "track": "[Legacy] Phoenix Raceway - 2008 - Road Course"
       },
       {
         "week": 7,
@@ -2100,7 +2100,7 @@
       },
       {
         "week": 2,
-        "track": "Miami International Autodrome - Extended MIA"
+        "track": "Miami International Autodrome - Extended MIA Loop"
       },
       {
         "week": 3,
@@ -2116,7 +2116,7 @@
       },
       {
         "week": 6,
-        "track": "[Legacy] Phoenix Raceway - 2008 - Road"
+        "track": "[Legacy] Phoenix Raceway - 2008 - Road Course"
       },
       {
         "week": 7,
@@ -2161,7 +2161,7 @@
       },
       {
         "week": 2,
-        "track": "Miami International Autodrome - Extended MIA"
+        "track": "Miami International Autodrome - Extended MIA Loop"
       },
       {
         "week": 3,
@@ -2177,7 +2177,7 @@
       },
       {
         "week": 6,
-        "track": "[Legacy] Phoenix Raceway - 2008 - Road"
+        "track": "[Legacy] Phoenix Raceway - 2008 - Road Course"
       },
       {
         "week": 7,
@@ -2236,7 +2236,7 @@
       },
       {
         "week": 4,
-        "track": "Autodromo Hermanos Rodriguez - Grand Prix"
+        "track": "Autodromo Hermanos Rodriguez - Grand Prix Historic"
       },
       {
         "week": 5,
@@ -2244,7 +2244,7 @@
       },
       {
         "week": 6,
-        "track": "Autodromo Internazionale Enzo e Dino Ferrari -"
+        "track": "Autodromo Internazionale Enzo e Dino Ferrari - Grand Prix"
       },
       {
         "week": 7,
@@ -2292,7 +2292,7 @@
       },
       {
         "week": 4,
-        "track": "[Legacy] Phoenix Raceway - 2008 - Road"
+        "track": "[Legacy] Phoenix Raceway - 2008 - Road Course"
       },
       {
         "week": 5,
@@ -2320,7 +2320,7 @@
       },
       {
         "week": 11,
-        "track": "Autodromo Internazionale Enzo e Dino Ferrari -"
+        "track": "Autodromo Internazionale Enzo e Dino Ferrari - Grand Prix"
       },
       {
         "week": 12,
@@ -2498,7 +2498,7 @@
       },
       {
         "week": 11,
-        "track": "Autodromo Hermanos Rodriguez - National"
+        "track": "Autodromo Hermanos Rodriguez - National Historic"
       },
       {
         "week": 12,
@@ -2526,7 +2526,7 @@
       },
       {
         "week": 4,
-        "track": "WeatherTech Raceway at Laguna Seca - Full"
+        "track": "WeatherTech Raceway at Laguna Seca - Full Course"
       },
       {
         "week": 5,
@@ -2586,7 +2586,7 @@
       },
       {
         "week": 2,
-        "track": "Autodromo Internazionale Enzo e Dino Ferrari -"
+        "track": "Autodromo Internazionale Enzo e Dino Ferrari - Grand Prix"
       },
       {
         "week": 3,
@@ -2606,7 +2606,7 @@
       },
       {
         "week": 7,
-        "track": "Shell V-Power Motorsport Park at The Bend -"
+        "track": "Shell V-Power Motorsport Park at The Bend - International Circuit"
       },
       {
         "week": 8,
@@ -2626,7 +2626,7 @@
       },
       {
         "week": 12,
-        "track": "Misano World Circuit Marco Simoncelli - Grand"
+        "track": "Misano World Circuit Marco Simoncelli - Grand Prix"
       }
     ]
   },
@@ -2729,11 +2729,11 @@
       },
       {
         "week": 3,
-        "track": "Autodromo Hermanos Rodriguez - National"
+        "track": "Autodromo Hermanos Rodriguez - National Historic"
       },
       {
         "week": 4,
-        "track": "Autodromo Nazionale Monza - GP without first"
+        "track": "Autodromo Nazionale Monza - GP without first chicane"
       },
       {
         "week": 5,
@@ -2741,7 +2741,7 @@
       },
       {
         "week": 6,
-        "track": "Circuit des 24 Heures du Mans - 24 Heures du"
+        "track": "Circuit des 24 Heures du Mans - 24 Heures du Mans"
       },
       {
         "week": 7,
@@ -2761,7 +2761,7 @@
       },
       {
         "week": 11,
-        "track": "Autodromo Internazionale Enzo e Dino Ferrari -"
+        "track": "Autodromo Internazionale Enzo e Dino Ferrari - Grand Prix"
       },
       {
         "week": 12,
@@ -2793,7 +2793,7 @@
       },
       {
         "week": 5,
-        "track": "Circuit des 24 Heures du Mans - 24 Heures du"
+        "track": "Circuit des 24 Heures du Mans - 24 Heures du Mans"
       },
       {
         "week": 6,
@@ -2805,7 +2805,7 @@
       },
       {
         "week": 8,
-        "track": "Autodromo Internazionale Enzo e Dino Ferrari -"
+        "track": "Autodromo Internazionale Enzo e Dino Ferrari - Grand Prix"
       },
       {
         "week": 9,
@@ -2817,7 +2817,7 @@
       },
       {
         "week": 11,
-        "track": "Hockenheimring Baden-Wurttemberg - Grand"
+        "track": "Hockenheimring Baden-Wurttemberg - Grand Prix"
       },
       {
         "week": 12,
@@ -2849,7 +2849,7 @@
       },
       {
         "week": 5,
-        "track": "Circuit des 24 Heures du Mans - 24 Heures du"
+        "track": "Circuit des 24 Heures du Mans - 24 Heures du Mans"
       },
       {
         "week": 6,
@@ -2861,7 +2861,7 @@
       },
       {
         "week": 8,
-        "track": "Autodromo Internazionale Enzo e Dino Ferrari -"
+        "track": "Autodromo Internazionale Enzo e Dino Ferrari - Grand Prix"
       },
       {
         "week": 9,
@@ -2873,7 +2873,7 @@
       },
       {
         "week": 11,
-        "track": "Hockenheimring Baden-Wurttemberg - Grand"
+        "track": "Hockenheimring Baden-Wurttemberg - Grand Prix"
       },
       {
         "week": 12,
@@ -3001,51 +3001,51 @@
     "Tracks": [
       {
         "week": 1,
-        "track": "Nurburgring Nordschleife - Industriefahrten"
+        "track": "Nurburgring Nordschleife - Industriefahrten Global Mazda MX-5 Cup"
       },
       {
         "week": 2,
-        "track": "Nurburgring Nordschleife - Industriefahrten"
+        "track": "Nurburgring Nordschleife - Industriefahrten Porsche 718 Cayman GT4 Clubsport MR, McLaren 570S GT4, Aston Martin Vantage GT4, Mercedes-AMG GT4, BMW M4 G82 GT4 Evo, Ford Mustang GT4"
       },
       {
         "week": 3,
-        "track": "Nurburgring Nordschleife - Industriefahrten"
+        "track": "Nurburgring Nordschleife - Industriefahrten Lotus 79"
       },
       {
         "week": 4,
-        "track": "Nurburgring Nordschleife - Industriefahrten"
+        "track": "Nurburgring Nordschleife - Industriefahrten Super Formula Lights"
       },
       {
         "week": 5,
-        "track": "Nurburgring Nordschleife - Industriefahrten"
+        "track": "Nurburgring Nordschleife - Industriefahrten [Legacy] Pro Mazda"
       },
       {
         "week": 6,
-        "track": "Nurburgring Nordschleife - Industriefahrten"
+        "track": "Nurburgring Nordschleife - Industriefahrten Ford Mustang FR500S"
       },
       {
         "week": 7,
-        "track": "Nurburgring Nordschleife - Industriefahrten"
+        "track": "Nurburgring Nordschleife - Industriefahrten Cadillac CTS-V Racecar"
       },
       {
         "week": 8,
-        "track": "Nurburgring Nordschleife - Industriefahrten"
+        "track": "Nurburgring Nordschleife - Industriefahrten Dallara IL-15"
       },
       {
         "week": 9,
-        "track": "Nurburgring Nordschleife - Industriefahrten"
+        "track": "Nurburgring Nordschleife - Industriefahrten Dallara P217"
       },
       {
         "week": 10,
-        "track": "Nurburgring Nordschleife - Industriefahrten"
+        "track": "Nurburgring Nordschleife - Industriefahrten Audi RS 3 LMS TCR, Hyundai Elantra N TCR, Honda Civic Type R TCR, Hyundai Veloster N TCR"
       },
       {
         "week": 11,
-        "track": "Nurburgring Nordschleife - Industriefahrten"
+        "track": "Nurburgring Nordschleife - Industriefahrten BMW M4 GT3 EVO, Lamborghini Huracan GT3 EVO, Mercedes-AMG GT3 2020, Porsche 911 GT3 R (992), Ferrari 296 GT3, Audi R8 LMS EVO II GT3, Chevrolet Corvette Z06 GT3.R, Ford Mustang GT3, McLaren 720S GT3 EVO, Acura NSX GT3 EVO 22, Aston Martin Vantage GT3 EVO"
       },
       {
         "week": 12,
-        "track": "Nurburgring Nordschleife - Industriefahrten"
+        "track": "Nurburgring Nordschleife - Industriefahrten BMW M2 CS Racing"
       }
     ]
   },
@@ -3148,7 +3148,7 @@
       },
       {
         "week": 7,
-        "track": "WeatherTech Raceway at Laguna Seca - Full"
+        "track": "WeatherTech Raceway at Laguna Seca - Full Course"
       },
       {
         "week": 8,
@@ -3187,7 +3187,7 @@
       },
       {
         "week": 2,
-        "track": "Shell V-Power Motorsport Park at The Bend -"
+        "track": "Shell V-Power Motorsport Park at The Bend - International Circuit"
       },
       {
         "week": 3,
@@ -3207,7 +3207,7 @@
       },
       {
         "week": 7,
-        "track": "[Legacy] Silverstone Circuit - 2008 - Historical"
+        "track": "[Legacy] Silverstone Circuit - 2008 - Historical Grand Prix"
       },
       {
         "week": 8,
@@ -3246,7 +3246,7 @@
       },
       {
         "week": 2,
-        "track": "Shell V-Power Motorsport Park at The Bend -"
+        "track": "Shell V-Power Motorsport Park at The Bend - International Circuit"
       },
       {
         "week": 3,
@@ -3266,7 +3266,7 @@
       },
       {
         "week": 7,
-        "track": "[Legacy] Silverstone Circuit - 2008 - Historical"
+        "track": "[Legacy] Silverstone Circuit - 2008 - Historical Grand Prix"
       },
       {
         "week": 8,
@@ -3363,7 +3363,7 @@
       },
       {
         "week": 2,
-        "track": "Autodromo Internazionale Enzo e Dino Ferrari -"
+        "track": "Autodromo Internazionale Enzo e Dino Ferrari - Grand Prix"
       },
       {
         "week": 3,
@@ -3383,7 +3383,7 @@
       },
       {
         "week": 7,
-        "track": "Shell V-Power Motorsport Park at The Bend -"
+        "track": "Shell V-Power Motorsport Park at The Bend - International Circuit"
       },
       {
         "week": 8,
@@ -3403,7 +3403,7 @@
       },
       {
         "week": 12,
-        "track": "Misano World Circuit Marco Simoncelli - Grand"
+        "track": "Misano World Circuit Marco Simoncelli - Grand Prix"
       }
     ]
   },
@@ -3431,7 +3431,7 @@
       },
       {
         "week": 2,
-        "track": "Autodromo Internazionale Enzo e Dino Ferrari -"
+        "track": "Autodromo Internazionale Enzo e Dino Ferrari - Grand Prix"
       },
       {
         "week": 3,
@@ -3451,7 +3451,7 @@
       },
       {
         "week": 7,
-        "track": "Shell V-Power Motorsport Park at The Bend -"
+        "track": "Shell V-Power Motorsport Park at The Bend - International Circuit"
       },
       {
         "week": 8,
@@ -3471,7 +3471,7 @@
       },
       {
         "week": 12,
-        "track": "Misano World Circuit Marco Simoncelli - Grand"
+        "track": "Misano World Circuit Marco Simoncelli - Grand Prix"
       }
     ]
   },
@@ -3521,7 +3521,7 @@
       },
       {
         "week": 9,
-        "track": "Circuit des 24 Heures du Mans - 24 Heures du"
+        "track": "Circuit des 24 Heures du Mans - 24 Heures du Mans"
       },
       {
         "week": 10,
@@ -3529,7 +3529,7 @@
       },
       {
         "week": 11,
-        "track": "Autodromo Internazionale del Mugello - Grand"
+        "track": "Autodromo Internazionale del Mugello - Grand Prix"
       },
       {
         "week": 12,
@@ -3566,7 +3566,7 @@
       },
       {
         "week": 2,
-        "track": "Circuit des 24 Heures du Mans - 24 Heures du"
+        "track": "Circuit des 24 Heures du Mans - 24 Heures du Mans"
       },
       {
         "week": 3,
@@ -3650,7 +3650,7 @@
       },
       {
         "week": 12,
-        "track": "WeatherTech Raceway at Laguna Seca - Full"
+        "track": "WeatherTech Raceway at Laguna Seca - Full Course"
       }
     ]
   },
@@ -3682,7 +3682,7 @@
       },
       {
         "week": 3,
-        "track": "Shell V-Power Motorsport Park at The Bend -"
+        "track": "Shell V-Power Motorsport Park at The Bend - International Circuit"
       },
       {
         "week": 4,
@@ -3806,7 +3806,7 @@
       },
       {
         "week": 3,
-        "track": "Circuit des 24 Heures du Mans - 24 Heures du"
+        "track": "Circuit des 24 Heures du Mans - 24 Heures du Mans"
       },
       {
         "week": 4,
@@ -3868,7 +3868,7 @@
       },
       {
         "week": 3,
-        "track": "Circuit des 24 Heures du Mans - 24 Heures du"
+        "track": "Circuit des 24 Heures du Mans - 24 Heures du Mans"
       },
       {
         "week": 4,
@@ -3941,7 +3941,7 @@
       },
       {
         "week": 3,
-        "track": "Circuit des 24 Heures du Mans - 24 Heures du"
+        "track": "Circuit des 24 Heures du Mans - 24 Heures du Mans"
       },
       {
         "week": 4,
@@ -4014,7 +4014,7 @@
       },
       {
         "week": 3,
-        "track": "Circuit des 24 Heures du Mans - 24 Heures du"
+        "track": "Circuit des 24 Heures du Mans - 24 Heures du Mans"
       },
       {
         "week": 4,
@@ -4190,7 +4190,7 @@
       },
       {
         "week": 5,
-        "track": "WeatherTech Raceway at Laguna Seca - Full"
+        "track": "WeatherTech Raceway at Laguna Seca - Full Course"
       },
       {
         "week": 6,
@@ -4202,7 +4202,7 @@
       },
       {
         "week": 8,
-        "track": "Willow Springs International Raceway - Big"
+        "track": "Willow Springs International Raceway - Big Willow"
       },
       {
         "week": 9,
@@ -4246,7 +4246,7 @@
       },
       {
         "week": 5,
-        "track": "Shell V-Power Motorsport Park at The Bend -"
+        "track": "Shell V-Power Motorsport Park at The Bend - International Circuit"
       },
       {
         "week": 6,
@@ -4314,7 +4314,7 @@
       },
       {
         "week": 8,
-        "track": "Misano World Circuit Marco Simoncelli - Grand"
+        "track": "Misano World Circuit Marco Simoncelli - Grand Prix"
       },
       {
         "week": 9,
@@ -4322,7 +4322,7 @@
       },
       {
         "week": 10,
-        "track": "Hockenheimring Baden-Wurttemberg - Grand"
+        "track": "Hockenheimring Baden-Wurttemberg - Grand Prix"
       },
       {
         "week": 11,
@@ -4382,7 +4382,7 @@
       },
       {
         "week": 11,
-        "track": "Autodromo Internazionale del Mugello - Grand"
+        "track": "Autodromo Internazionale del Mugello - Grand Prix"
       },
       {
         "week": 12,
@@ -4410,7 +4410,7 @@
       },
       {
         "week": 4,
-        "track": "WeatherTech Raceway at Laguna Seca - Full"
+        "track": "WeatherTech Raceway at Laguna Seca - Full Course"
       },
       {
         "week": 5,
@@ -4550,7 +4550,7 @@
       },
       {
         "week": 11,
-        "track": "[Legacy] Phoenix Raceway - 2008 - Road"
+        "track": "[Legacy] Phoenix Raceway - 2008 - Road Course"
       },
       {
         "week": 12,
@@ -4570,7 +4570,7 @@
       },
       {
         "week": 2,
-        "track": "Nurburgring Combined - Gesamtstrecke Short"
+        "track": "Nurburgring Combined - Gesamtstrecke Short w/out Arena"
       },
       {
         "week": 3,
@@ -4590,7 +4590,7 @@
       },
       {
         "week": 7,
-        "track": "Charlotte Motor Speedway  - Oval"
+        "track": "Charlotte Motor Speedway - Oval"
       },
       {
         "week": 8,
@@ -4630,7 +4630,7 @@
       },
       {
         "week": 3,
-        "track": "Hockenheimring Baden-Wurttemberg - Grand"
+        "track": "Hockenheimring Baden-Wurttemberg - Grand Prix"
       },
       {
         "week": 4,
@@ -4638,7 +4638,7 @@
       },
       {
         "week": 5,
-        "track": "Shell V-Power Motorsport Park at The Bend -"
+        "track": "Shell V-Power Motorsport Park at The Bend - West Circuit"
       },
       {
         "week": 6,
@@ -4658,7 +4658,7 @@
       },
       {
         "week": 10,
-        "track": "Autodromo Hermanos Rodriguez - Grand Prix"
+        "track": "Autodromo Hermanos Rodriguez - Grand Prix Historic"
       },
       {
         "week": 11,
@@ -4686,7 +4686,7 @@
       },
       {
         "week": 3,
-        "track": "Hockenheimring Baden-Wurttemberg - Grand"
+        "track": "Hockenheimring Baden-Wurttemberg - Grand Prix"
       },
       {
         "week": 4,
@@ -4694,7 +4694,7 @@
       },
       {
         "week": 5,
-        "track": "Shell V-Power Motorsport Park at The Bend -"
+        "track": "Shell V-Power Motorsport Park at The Bend - West Circuit"
       },
       {
         "week": 6,
@@ -4714,7 +4714,7 @@
       },
       {
         "week": 10,
-        "track": "Autodromo Hermanos Rodriguez - Grand Prix"
+        "track": "Autodromo Hermanos Rodriguez - Grand Prix Historic"
       },
       {
         "week": 11,
@@ -4766,7 +4766,7 @@
       },
       {
         "week": 9,
-        "track": "WeatherTech Raceway at Laguna Seca - Full"
+        "track": "WeatherTech Raceway at Laguna Seca - Full Course"
       },
       {
         "week": 10,
@@ -4822,7 +4822,7 @@
       },
       {
         "week": 9,
-        "track": "WeatherTech Raceway at Laguna Seca - Full"
+        "track": "WeatherTech Raceway at Laguna Seca - Full Course"
       },
       {
         "week": 10,
@@ -4874,7 +4874,7 @@
       },
       {
         "week": 8,
-        "track": "Autodromo Internazionale Enzo e Dino Ferrari -"
+        "track": "Autodromo Internazionale Enzo e Dino Ferrari - Grand Prix"
       },
       {
         "week": 9,
@@ -4902,7 +4902,7 @@
     "Tracks": [
       {
         "week": 1,
-        "track": "WeatherTech Raceway at Laguna Seca - Full"
+        "track": "WeatherTech Raceway at Laguna Seca - Full Course"
       },
       {
         "week": 2,
@@ -4946,7 +4946,7 @@
       },
       {
         "week": 12,
-        "track": "Autodromo Hermanos Rodriguez - Grand Prix"
+        "track": "Autodromo Hermanos Rodriguez - Grand Prix Historic"
       }
     ]
   },
@@ -4958,7 +4958,7 @@
     "Tracks": [
       {
         "week": 1,
-        "track": "Willow Springs International Raceway - Big"
+        "track": "Willow Springs International Raceway - Big Willow"
       },
       {
         "week": 2,
@@ -4986,7 +4986,7 @@
       },
       {
         "week": 8,
-        "track": "Autodromo Hermanos Rodriguez - National"
+        "track": "Autodromo Hermanos Rodriguez - National Historic"
       },
       {
         "week": 9,
@@ -5002,7 +5002,7 @@
       },
       {
         "week": 12,
-        "track": "Autodromo Nazionale Monza - GP without first"
+        "track": "Autodromo Nazionale Monza - GP without first chicane"
       }
     ]
   },
@@ -5018,7 +5018,7 @@
       },
       {
         "week": 2,
-        "track": "Autodromo Internazionale del Mugello - Grand"
+        "track": "Autodromo Internazionale del Mugello - Grand Prix"
       },
       {
         "week": 3,
@@ -5186,7 +5186,7 @@
       },
       {
         "week": 2,
-        "track": "Autodromo Internazionale del Mugello - Grand"
+        "track": "Autodromo Internazionale del Mugello - Grand Prix"
       },
       {
         "week": 3,
@@ -5214,7 +5214,7 @@
       },
       {
         "week": 9,
-        "track": "Autodromo Internazionale Enzo e Dino Ferrari -"
+        "track": "Autodromo Internazionale Enzo e Dino Ferrari - Grand Prix"
       },
       {
         "week": 10,
@@ -5242,7 +5242,7 @@
       },
       {
         "week": 2,
-        "track": "Autodromo Internazionale del Mugello - Grand"
+        "track": "Autodromo Internazionale del Mugello - Grand Prix"
       },
       {
         "week": 3,
@@ -5270,7 +5270,7 @@
       },
       {
         "week": 9,
-        "track": "Autodromo Internazionale Enzo e Dino Ferrari -"
+        "track": "Autodromo Internazionale Enzo e Dino Ferrari - Grand Prix"
       },
       {
         "week": 10,
@@ -6078,51 +6078,51 @@
     "Tracks": [
       {
         "week": 1,
-        "track": "Kokomo Speedway - Tires out"
+        "track": "Kokomo Speedway - Tires out Dirt Outlaw Micro Sprint Car - Winged"
       },
       {
         "week": 2,
-        "track": "Kokomo Speedway - Tires out"
+        "track": "Kokomo Speedway - Tires out Dirt Outlaw Micro Sprint Car - Non-Winged"
       },
       {
         "week": 3,
-        "track": "Millbridge Speedway"
+        "track": "Millbridge Speedway Dirt Outlaw Micro Sprint Car - Winged"
       },
       {
         "week": 4,
-        "track": "Millbridge Speedway"
+        "track": "Millbridge Speedway Dirt Outlaw Micro Sprint Car - Non-Winged"
       },
       {
         "week": 5,
-        "track": "Kevin Harvick's Kern Raceway - Dirt Mini Oval"
+        "track": "Kevin Harvick's Kern Raceway - Dirt Mini Oval Dirt Outlaw Micro Sprint Car - Winged"
       },
       {
         "week": 6,
-        "track": "Kevin Harvick's Kern Raceway - Dirt Mini Oval"
+        "track": "Kevin Harvick's Kern Raceway - Dirt Mini Oval Dirt Outlaw Micro Sprint Car - Non-Winged"
       },
       {
         "week": 7,
-        "track": "Chili Bowl"
+        "track": "Chili Bowl Dirt Outlaw Micro Sprint Car - Winged"
       },
       {
         "week": 8,
-        "track": "Chili Bowl"
+        "track": "Chili Bowl Dirt Outlaw Micro Sprint Car - Non-Winged"
       },
       {
         "week": 9,
-        "track": "Millbridge Speedway"
+        "track": "Millbridge Speedway Dirt Outlaw Micro Sprint Car - Winged"
       },
       {
         "week": 10,
-        "track": "Millbridge Speedway"
+        "track": "Millbridge Speedway Dirt Outlaw Micro Sprint Car - Non-Winged"
       },
       {
         "week": 11,
-        "track": "Limaland Motorsports Park"
+        "track": "Limaland Motorsports Park Dirt Outlaw Micro Sprint Car - Winged"
       },
       {
         "week": 12,
-        "track": "Limaland Motorsports Park"
+        "track": "Limaland Motorsports Park Dirt Outlaw Micro Sprint Car - Non-Winged"
       }
     ]
   },
@@ -6362,7 +6362,7 @@
       },
       {
         "week": 2,
-        "track": "Daytona Rallycross and Dirt Road - Rallycross"
+        "track": "Daytona Rallycross and Dirt Road - Rallycross Long"
       },
       {
         "week": 3,
@@ -6374,7 +6374,7 @@
       },
       {
         "week": 5,
-        "track": "Daytona Rallycross and Dirt Road - Rallycross"
+        "track": "Daytona Rallycross and Dirt Road - Rallycross Short"
       },
       {
         "week": 6,
@@ -6386,7 +6386,7 @@
       },
       {
         "week": 8,
-        "track": "Daytona Rallycross and Dirt Road - Rallycross"
+        "track": "Daytona Rallycross and Dirt Road - Rallycross Long"
       },
       {
         "week": 9,
@@ -6398,7 +6398,7 @@
       },
       {
         "week": 11,
-        "track": "Daytona Rallycross and Dirt Road - Rallycross"
+        "track": "Daytona Rallycross and Dirt Road - Rallycross Short"
       },
       {
         "week": 12,
@@ -6422,7 +6422,7 @@
       },
       {
         "week": 3,
-        "track": "Daytona Rallycross and Dirt Road - Rallycross"
+        "track": "Daytona Rallycross and Dirt Road - Rallycross Long"
       },
       {
         "week": 4,
@@ -6438,7 +6438,7 @@
       },
       {
         "week": 7,
-        "track": "Daytona Rallycross and Dirt Road - Dirt Road"
+        "track": "Daytona Rallycross and Dirt Road - Dirt Road Short"
       },
       {
         "week": 8,
@@ -6474,7 +6474,7 @@
       },
       {
         "week": 2,
-        "track": "Daytona Rallycross and Dirt Road - Rallycross"
+        "track": "Daytona Rallycross and Dirt Road - Rallycross Long"
       },
       {
         "week": 3,
@@ -6486,7 +6486,7 @@
       },
       {
         "week": 5,
-        "track": "Daytona Rallycross and Dirt Road - Rallycross"
+        "track": "Daytona Rallycross and Dirt Road - Rallycross Short"
       },
       {
         "week": 6,
@@ -6498,7 +6498,7 @@
       },
       {
         "week": 8,
-        "track": "Daytona Rallycross and Dirt Road - Rallycross"
+        "track": "Daytona Rallycross and Dirt Road - Rallycross Long"
       },
       {
         "week": 9,
@@ -6510,7 +6510,7 @@
       },
       {
         "week": 11,
-        "track": "Daytona Rallycross and Dirt Road - Rallycross"
+        "track": "Daytona Rallycross and Dirt Road - Rallycross Short"
       },
       {
         "week": 12,
@@ -6590,7 +6590,7 @@
       },
       {
         "week": 3,
-        "track": "Daytona Rallycross and Dirt Road - Rallycross"
+        "track": "Daytona Rallycross and Dirt Road - Rallycross Long"
       },
       {
         "week": 4,
@@ -6602,7 +6602,7 @@
       },
       {
         "week": 6,
-        "track": "Daytona Rallycross and Dirt Road - Rallycross"
+        "track": "Daytona Rallycross and Dirt Road - Rallycross Short"
       },
       {
         "week": 7,
@@ -6766,11 +6766,11 @@
       },
       {
         "week": 5,
-        "track": "Daytona Rallycross and Dirt Road - Rallycross"
+        "track": "Daytona Rallycross and Dirt Road - Rallycross Long"
       },
       {
         "week": 6,
-        "track": "Lucas Oil Indianapolis Raceway Park -"
+        "track": "Lucas Oil Indianapolis Raceway Park - Rallycross"
       },
       {
         "week": 7,
@@ -6778,7 +6778,7 @@
       },
       {
         "week": 8,
-        "track": "Daytona Rallycross and Dirt Road - Rallycross"
+        "track": "Daytona Rallycross and Dirt Road - Rallycross Short"
       },
       {
         "week": 9,
@@ -6818,11 +6818,11 @@
       },
       {
         "week": 4,
-        "track": "Daytona Rallycross and Dirt Road - Rallycross"
+        "track": "Daytona Rallycross and Dirt Road - Rallycross Long"
       },
       {
         "week": 5,
-        "track": "Lucas Oil Indianapolis Raceway Park -"
+        "track": "Lucas Oil Indianapolis Raceway Park - Rallycross"
       },
       {
         "week": 6,
@@ -6830,7 +6830,7 @@
       },
       {
         "week": 7,
-        "track": "Daytona Rallycross and Dirt Road - Rallycross"
+        "track": "Daytona Rallycross and Dirt Road - Rallycross Short"
       },
       {
         "week": 8,
@@ -6858,11 +6858,11 @@
     "Series": "Dallara DW12 Dash",
     "Cars": ["[Legacy] Dallara DW12"],
     "Class": "Unranked",
-    "Discipline": "Oval",
+    "Discipline": "Dirt Road",
     "Tracks": [
       {
         "week": 1,
-        "track": "Charlotte Motor Speedway  - Oval"
+        "track": "Charlotte Motor Speedway - Oval"
       },
       {
         "week": 2,
@@ -6902,7 +6902,7 @@
       },
       {
         "week": 11,
-        "track": "World Wide Technology Raceway (Gateway) -"
+        "track": "World Wide Technology Raceway (Gateway) - Oval"
       },
       {
         "week": 12,
@@ -6930,7 +6930,7 @@
       },
       {
         "week": 2,
-        "track": "Charlotte Motor Speedway  - Oval"
+        "track": "Charlotte Motor Speedway - Oval"
       },
       {
         "week": 3,
@@ -6954,7 +6954,7 @@
       },
       {
         "week": 8,
-        "track": "Charlotte Motor Speedway  - Oval"
+        "track": "Charlotte Motor Speedway - Oval"
       },
       {
         "week": 9,
@@ -6990,7 +6990,7 @@
       },
       {
         "week": 2,
-        "track": "Charlotte Motor Speedway  - Oval"
+        "track": "Charlotte Motor Speedway - Oval"
       },
       {
         "week": 3,
@@ -7014,7 +7014,7 @@
       },
       {
         "week": 8,
-        "track": "Charlotte Motor Speedway  - Oval"
+        "track": "Charlotte Motor Speedway - Oval"
       },
       {
         "week": 9,
@@ -7026,7 +7026,7 @@
       },
       {
         "week": 11,
-        "track": "Charlotte Motor Speedway  - Oval"
+        "track": "Charlotte Motor Speedway - Oval"
       },
       {
         "week": 12,

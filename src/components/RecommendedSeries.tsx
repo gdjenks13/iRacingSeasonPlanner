@@ -10,28 +10,13 @@ const classColors: Record<LicenseClass, string> = {
   "Class A": "bg-blue-900",
 };
 
-const disciplines: Discipline[] = [
-  "Oval",
-  "Dirt Oval",
-  "Dirt Road",
-  "Sports Car",
-  "Formula Car",
-];
-
-const classes: LicenseClass[] = [
-  "Unranked",
-  "Rookie",
-  "Class D",
-  "Class C",
-  "Class B",
-  "Class A",
-];
-
 interface RecommendedSeriesProps {
   series: Series[];
   ownedTracks: Set<string>;
   ownedCars: Set<string>;
   getBaseTrackName: (track: string) => string;
+  selectedDisciplines: Set<Discipline>;
+  selectedClasses: Set<LicenseClass>;
 }
 
 export function RecommendedSeries({
@@ -39,39 +24,11 @@ export function RecommendedSeries({
   ownedTracks,
   ownedCars,
   getBaseTrackName,
+  selectedDisciplines,
+  selectedClasses,
 }: RecommendedSeriesProps) {
-  const [selectedDisciplines, setSelectedDisciplines] = useState<
-    Set<Discipline>
-  >(new Set(disciplines));
-  const [selectedClasses, setSelectedClasses] = useState<Set<LicenseClass>>(
-    new Set(classes)
-  );
   const [onlyOwnedCars, setOnlyOwnedCars] = useState(false);
   const [expandedCards, setExpandedCards] = useState<Set<number>>(new Set());
-
-  const toggleDiscipline = (discipline: Discipline) => {
-    setSelectedDisciplines((prev) => {
-      const next = new Set(prev);
-      if (next.has(discipline)) {
-        next.delete(discipline);
-      } else {
-        next.add(discipline);
-      }
-      return next;
-    });
-  };
-
-  const toggleClass = (cls: LicenseClass) => {
-    setSelectedClasses((prev) => {
-      const next = new Set(prev);
-      if (next.has(cls)) {
-        next.delete(cls);
-      } else {
-        next.add(cls);
-      }
-      return next;
-    });
-  };
 
   const toggleCardExpanded = (idx: number) => {
     setExpandedCards((prev) => {
@@ -156,77 +113,29 @@ export function RecommendedSeries({
         </p>
       </div>
 
-      {/* Filters */}
-      <div className="mb-4 flex flex-col gap-3 sm:flex-row sm:flex-wrap sm:gap-4 sm:justify-center">
-        {/* Discipline Filter */}
-        <div className="flex flex-col gap-1.5">
-          <span className="text-xs font-semibold text-gray-400">
-            Discipline
-          </span>
-          <div className="flex flex-wrap gap-1.5">
-            {disciplines.map((d) => (
-              <button
-                key={d}
-                onClick={() => toggleDiscipline(d)}
-                className={`px-3 py-1.5 text-xs rounded border border-gray-600 transition-colors cursor-pointer active:scale-95 ${
-                  selectedDisciplines.has(d)
-                    ? "bg-blue-800 text-white"
-                    : "bg-gray-800 text-gray-400 hover:bg-gray-700 active:bg-gray-600"
-                }`}
-              >
-                {d}
-              </button>
-            ))}
-          </div>
-        </div>
-
-        {/* Class Filter */}
-        <div className="flex flex-col gap-1.5">
-          <span className="text-xs font-semibold text-gray-400">Class</span>
-          <div className="flex flex-wrap gap-1.5">
-            {classes.map((c) => (
-              <button
-                key={c}
-                onClick={() => toggleClass(c)}
-                className={`px-3 py-1.5 text-xs rounded border border-gray-600 transition-colors cursor-pointer active:scale-95 ${
-                  selectedClasses.has(c)
-                    ? "bg-blue-800 text-white"
-                    : "bg-gray-800 text-gray-400 hover:bg-gray-700 active:bg-gray-600"
-                }`}
-              >
-                {c}
-              </button>
-            ))}
-          </div>
-        </div>
-
-        {/* Own Car Toggle */}
-        <div className="flex flex-col gap-1.5">
-          <span className="text-xs font-semibold text-gray-400">
-            Car Filter
-          </span>
-          <button
-            onClick={() => setOnlyOwnedCars(!onlyOwnedCars)}
-            className={`px-3 py-1.5 text-xs rounded border transition-colors cursor-pointer active:scale-95 flex items-center gap-2 ${
-              onlyOwnedCars
-                ? "bg-green-700 border-green-600 text-white"
-                : "bg-gray-800 border-gray-600 text-gray-400 hover:bg-gray-700 active:bg-gray-600"
+      {/* Car Filter Toggle */}
+      <div className="mb-4 flex justify-center">
+        <button
+          onClick={() => setOnlyOwnedCars(!onlyOwnedCars)}
+          className={`px-3 py-1.5 text-xs rounded-lg border transition-colors cursor-pointer active:scale-95 flex items-center gap-2 ${
+            onlyOwnedCars
+              ? "bg-green-700 border-green-600 text-white"
+              : "bg-gray-800 border-gray-600 text-gray-400 hover:bg-gray-700 active:bg-gray-600"
+          }`}
+        >
+          <span
+            className={`w-4 h-4 rounded flex items-center justify-center text-xs ${
+              onlyOwnedCars ? "bg-green-500" : "bg-gray-600"
             }`}
           >
-            <span
-              className={`w-4 h-4 rounded flex items-center justify-center text-xs ${
-                onlyOwnedCars ? "bg-green-500" : "bg-gray-600"
-              }`}
-            >
-              {onlyOwnedCars ? "✓" : ""}
-            </span>
-            Only show series I own a car for
-          </button>
-        </div>
+            {onlyOwnedCars ? "✓" : ""}
+          </span>
+          Only show series I own a car for
+        </button>
       </div>
 
-      {/* Series List */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+      {/* Series Grid - Each card is independent */}
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 items-start">
         {rankedSeries.map(
           (
             {
@@ -248,7 +157,7 @@ export function RecommendedSeries({
               <div
                 key={idx}
                 onClick={() => toggleCardExpanded(idx)}
-                className={`${headerColor} rounded-lg p-3 border border-gray-600 flex flex-col cursor-pointer transition-all hover:brightness-110 active:scale-[0.98]`}
+                className={`${headerColor} rounded-lg p-3 border border-gray-600 cursor-pointer transition-all hover:brightness-110 active:scale-[0.98]`}
               >
                 {/* Header Section */}
                 <div className="flex justify-between items-start gap-2">
@@ -335,17 +244,22 @@ export function RecommendedSeries({
                   </div>
                 )}
 
-                {/* Expandable: Tracks List */}
+                {/* Expandable: Tracks List - Adaptive columns */}
                 {isExpanded && (
-                  <div className="mt-3 grid grid-cols-2 gap-3 text-xs">
-                    <div>
+                  <div className="mt-3 flex gap-3 text-xs">
+                    {/* Owned column */}
+                    <div className="flex-1 min-w-0">
                       <div className="text-green-400 font-semibold mb-1.5 flex items-center gap-1">
                         <span>✓</span> Owned ({ownedTracksList.length})
                       </div>
                       <div className="text-gray-300 space-y-1">
                         {ownedTracksList.length > 0 ? (
                           ownedTracksList.map((track, i) => (
-                            <div key={i} className="truncate" title={track}>
+                            <div
+                              key={i}
+                              className="wrap-break-word"
+                              title={track}
+                            >
                               {track}
                             </div>
                           ))
@@ -354,14 +268,19 @@ export function RecommendedSeries({
                         )}
                       </div>
                     </div>
-                    <div>
+                    {/* Need column */}
+                    <div className="flex-1 min-w-0">
                       <div className="text-yellow-400 font-semibold mb-1.5 flex items-center gap-1">
                         <span>✗</span> Need ({notOwnedTracksList.length})
                       </div>
                       <div className="text-gray-300 space-y-1">
                         {notOwnedTracksList.length > 0 ? (
                           notOwnedTracksList.map((track, i) => (
-                            <div key={i} className="truncate" title={track}>
+                            <div
+                              key={i}
+                              className="wrap-break-word"
+                              title={track}
+                            >
                               {track}
                             </div>
                           ))

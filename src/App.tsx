@@ -4,6 +4,7 @@ import type { Series, LicenseClass, Discipline } from "./types";
 import { useOwnedContent } from "./hooks/useOwnedContent";
 import { MyContent } from "./components/MyContent";
 import { RecommendedSeries } from "./components/RecommendedSeries";
+import { SideNav } from "./components/SideNav";
 
 const classColors: Record<LicenseClass, string> = {
   Unranked: "bg-black-900",
@@ -43,6 +44,7 @@ function getBaseTrackName(trackName: string): string {
 
 function App() {
   const [activeTab, setActiveTab] = useState<Tab>("schedule");
+  const [sideNavOpen, setSideNavOpen] = useState(false);
   const [selectedDisciplines, setSelectedDisciplines] = useState<
     Set<Discipline>
   >(new Set(disciplines));
@@ -129,239 +131,226 @@ function App() {
     );
   }
 
+  const showSideNav = activeTab === "schedule" || activeTab === "recommended";
+
   return (
-    <div className="min-h-dvh p-3 sm:p-4 max-w-10/12 mx-auto">
-      <h1 className="text-xl sm:text-2xl font-bold text-center mb-3 sm:mb-4 text-gray-100">
-        iRacing Season Planner
-      </h1>
-
-      {/* Tab Navigation */}
-      <div className="flex justify-center mb-4 sm:mb-6">
-        <div className="flex bg-gray-800 rounded-lg p-1 w-full sm:w-auto">
-          <button
-            onClick={() => setActiveTab("schedule")}
-            className={`flex-1 sm:flex-none px-3 sm:px-4 py-2.5 sm:py-2 text-sm font-medium rounded-md transition-colors cursor-pointer ${
-              activeTab === "schedule"
-                ? "bg-blue-600 text-white"
-                : "text-gray-400 hover:text-white active:bg-gray-700"
-            }`}
-          >
-            Schedule
-          </button>
-          <button
-            onClick={() => setActiveTab("myContent")}
-            className={`flex-1 sm:flex-none px-3 sm:px-4 py-2.5 sm:py-2 text-sm font-medium rounded-md transition-colors cursor-pointer ${
-              activeTab === "myContent"
-                ? "bg-blue-600 text-white"
-                : "text-gray-400 hover:text-white active:bg-gray-700"
-            }`}
-          >
-            My Content
-          </button>
-          <button
-            onClick={() => setActiveTab("recommended")}
-            className={`flex-1 sm:flex-none px-3 sm:px-4 py-2.5 sm:py-2 text-sm font-medium rounded-md transition-colors cursor-pointer ${
-              activeTab === "recommended"
-                ? "bg-blue-600 text-white"
-                : "text-gray-400 hover:text-white active:bg-gray-700"
-            }`}
-          >
-            Recommended
-          </button>
-        </div>
-      </div>
-
-      {/* Tab Content */}
-      {activeTab === "schedule" && (
-        <>
-          {/* Filters */}
-          <div className="mb-4 flex flex-col sm:flex-row flex-wrap gap-3 sm:gap-4 sm:justify-center">
-            {/* Discipline Filter */}
-            <div className="flex flex-col gap-1.5">
-              <span className="text-xs font-semibold text-gray-400">
-                Discipline
-              </span>
-              <div className="flex flex-wrap gap-1.5">
-                {disciplines.map((d) => (
-                  <button
-                    key={d}
-                    onClick={() => toggleDiscipline(d)}
-                    className={`px-3 py-1.5 text-xs rounded border border-gray-600 transition-colors cursor-pointer active:scale-95 ${
-                      selectedDisciplines.has(d)
-                        ? "bg-blue-800 text-white"
-                        : "bg-gray-800 text-gray-400 hover:bg-gray-700 active:bg-gray-600"
-                    }`}
-                  >
-                    {d}
-                  </button>
-                ))}
+    <div className="min-h-dvh flex flex-col">
+      {/* AirBnB-style Header */}
+      <header className="sticky top-0 z-30 bg-gray-900/95 backdrop-blur border-b border-gray-700">
+        <div className="max-w-7xl mx-auto px-4 py-3">
+          <div className="flex items-center justify-between">
+            {/* Logo/Title - Left */}
+            <div className="flex items-center gap-3">
+              <img
+                src="/schedule.png"
+                alt="Logo"
+                className="w-8 h-8 sm:w-10 sm:h-10"
+              />
+              <div className="hidden sm:block">
+                <h1 className="text-base font-semibold text-white leading-tight">
+                  iRacing Season Planner
+                </h1>
+                <p className="text-xs text-gray-400">
+                  Plan your path to the podium
+                </p>
               </div>
             </div>
 
-            {/* Class Filter */}
-            <div className="flex flex-col gap-1.5">
-              <span className="text-xs font-semibold text-gray-400">Class</span>
-              <div className="flex flex-wrap gap-1.5">
-                {classes.map((c) => (
-                  <button
-                    key={c}
-                    onClick={() => toggleClass(c)}
-                    className={`px-3 py-1.5 text-xs rounded border border-gray-600 transition-colors cursor-pointer active:scale-95 ${
-                      selectedClasses.has(c)
-                        ? "bg-blue-800 text-white"
-                        : "bg-gray-800 text-gray-400 hover:bg-gray-700 active:bg-gray-600"
-                    }`}
-                  >
-                    {c}
-                  </button>
-                ))}
-              </div>
+            {/* Tab Navigation - Center */}
+            <nav className="flex items-center gap-1 sm:gap-6">
+              <button
+                onClick={() => setActiveTab("schedule")}
+                className={`flex flex-col items-center px-3 sm:px-4 py-2 cursor-pointer transition-all ${
+                  activeTab === "schedule"
+                    ? "text-white"
+                    : "text-gray-400 hover:text-gray-200"
+                }`}
+              >
+                <i
+                  className={`fa-solid fa-calendar-days text-lg sm:text-xl mb-1 ${
+                    activeTab === "schedule" ? "text-blue-400" : ""
+                  }`}
+                ></i>
+                <span className="text-xs font-medium">Schedule</span>
+                {activeTab === "schedule" && (
+                  <div className="absolute bottom-0 left-0 right-0 h-0.5 bg-white" />
+                )}
+              </button>
+
+              <button
+                onClick={() => setActiveTab("myContent")}
+                className={`flex flex-col items-center px-3 sm:px-4 py-2 cursor-pointer transition-all ${
+                  activeTab === "myContent"
+                    ? "text-white"
+                    : "text-gray-400 hover:text-gray-200"
+                }`}
+              >
+                <i
+                  className={`fa-solid fa-box-open text-lg sm:text-xl mb-1 ${
+                    activeTab === "myContent" ? "text-blue-400" : ""
+                  }`}
+                ></i>
+                <span className="text-xs font-medium">Content</span>
+              </button>
+
+              <button
+                onClick={() => setActiveTab("recommended")}
+                className={`flex flex-col items-center px-3 sm:px-4 py-2 cursor-pointer transition-all relative ${
+                  activeTab === "recommended"
+                    ? "text-white"
+                    : "text-gray-400 hover:text-gray-200"
+                }`}
+              >
+                <i
+                  className={`fa-solid fa-star text-lg sm:text-xl mb-1 ${
+                    activeTab === "recommended" ? "text-blue-400" : ""
+                  }`}
+                ></i>
+                <span className="text-xs font-medium">Recommended</span>
+              </button>
+            </nav>
+
+            {/* Filter button for mobile - Right */}
+            <div className="flex items-center">
+              {showSideNav && (
+                <button
+                  onClick={() => setSideNavOpen(true)}
+                  className="lg:hidden p-2 text-gray-400 hover:text-white cursor-pointer"
+                >
+                  <i className="fa-solid fa-sliders text-lg"></i>
+                </button>
+              )}
             </div>
           </div>
+        </div>
+      </header>
 
-          {/* Schedule - Each series as card on mobile, table on desktop */}
-          <div className="space-y-3">
-            {filteredSeries.map((series, idx) => {
-              const headerColor =
-                classColors[series.Class as LicenseClass] || "bg-gray-700";
-              const carsTooltip = series.Cars.join(", ");
+      {/* Main Content Area */}
+      <div className="flex-1 flex">
+        {/* Side Navigation */}
+        {showSideNav && (
+          <SideNav
+            selectedDisciplines={selectedDisciplines}
+            selectedClasses={selectedClasses}
+            toggleDiscipline={toggleDiscipline}
+            toggleClass={toggleClass}
+            isOpen={sideNavOpen}
+            onClose={() => setSideNavOpen(false)}
+          />
+        )}
 
-              // Calculate max weeks for this specific series
-              const seriesMaxWeeks = Math.max(
-                ...series.Tracks.map((t) => t.week),
-                0
-              );
+        {/* Main Content */}
+        <main
+          className={`flex-1 p-3 sm:p-4 ${
+            showSideNav ? "lg:pl-4" : ""
+          } max-w-7xl mx-auto w-full`}
+        >
+          {/* Tab Content */}
+          {activeTab === "schedule" && (
+            <>
+              {/* Schedule - 4 series per row grid */}
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3 items-start">
+                {filteredSeries.map((series, idx) => {
+                  const headerColor =
+                    classColors[series.Class as LicenseClass] || "bg-gray-700";
+                  const carsTooltip = series.Cars.join(", ");
 
-              return (
-                <div
-                  key={idx}
-                  className="rounded-lg overflow-hidden border border-gray-700"
-                >
-                  {/* Series Header */}
-                  <div className={`${headerColor} p-2`}>
+                  // Calculate max weeks for this specific series
+                  const seriesMaxWeeks = Math.max(
+                    ...series.Tracks.map((t) => t.week),
+                    0
+                  );
+
+                  return (
                     <div
-                      className="font-semibold text-white text-sm"
-                      title={carsTooltip}
+                      key={idx}
+                      className="rounded-lg overflow-hidden border border-gray-700"
                     >
-                      {series.Series}
-                    </div>
-                    <div className="text-xs text-gray-300">
-                      {series.Discipline} • {series.Class}
-                    </div>
-                  </div>
-
-                  {/* Mobile: Vertical list */}
-                  <div className="sm:hidden bg-gray-900 divide-y divide-gray-700">
-                    {Array.from({ length: seriesMaxWeeks }, (_, i) => {
-                      const weekNum = i + 1;
-                      const track = series.Tracks.find(
-                        (t) => t.week === weekNum
-                      );
-                      const baseName = track
-                        ? getBaseTrackName(track.track)
-                        : null;
-                      const isOwned = baseName
-                        ? ownedTracks.has(baseName)
-                        : false;
-
-                      return (
+                      {/* Series Header */}
+                      <div className={`${headerColor} p-2`}>
                         <div
-                          key={i}
-                          className="p-2 flex justify-between items-center"
+                          className="font-semibold text-white text-sm line-clamp-2"
+                          title={carsTooltip}
                         >
-                          <span className="text-xs text-gray-500 w-16 shrink-0">
-                            Week {weekNum}
-                          </span>
-                          <span
-                            className={`text-xs text-right ${
-                              isOwned ? "text-green-400" : "text-gray-300"
-                            }`}
-                          >
-                            {track ? track.track : "-"}
-                          </span>
+                          {series.Series}
                         </div>
-                      );
-                    })}
-                  </div>
+                        <div className="text-xs text-gray-300">
+                          {series.Discipline} • {series.Class}
+                        </div>
+                      </div>
 
-                  {/* Desktop: Horizontal table */}
-                  <div className="hidden sm:block overflow-x-auto hide-scrollbar">
-                    <table className="w-full border-collapse text-xs">
-                      <thead>
-                        <tr className="bg-gray-800">
-                          {Array.from({ length: seriesMaxWeeks }, (_, i) => (
-                            <th
+                      {/* Tracks list - single column */}
+                      <div className="bg-gray-900 p-2 space-y-1">
+                        {Array.from({ length: seriesMaxWeeks }, (_, i) => {
+                          const weekNum = i + 1;
+                          const track = series.Tracks.find(
+                            (t) => t.week === weekNum
+                          );
+                          const baseName = track
+                            ? getBaseTrackName(track.track)
+                            : null;
+                          const isOwned = baseName
+                            ? ownedTracks.has(baseName)
+                            : false;
+
+                          return (
+                            <div
                               key={i}
-                              className="border border-gray-600 p-1.5 text-center min-w-20 text-xs font-medium text-gray-400"
+                              className="flex items-start gap-2 text-xs"
                             >
-                              Week {i + 1}
-                            </th>
-                          ))}
-                        </tr>
-                      </thead>
-                      <tbody>
-                        <tr className="bg-gray-900">
-                          {Array.from({ length: seriesMaxWeeks }, (_, i) => {
-                            const weekNum = i + 1;
-                            const track = series.Tracks.find(
-                              (t) => t.week === weekNum
-                            );
-                            const baseName = track
-                              ? getBaseTrackName(track.track)
-                              : null;
-                            const isOwned = baseName
-                              ? ownedTracks.has(baseName)
-                              : false;
-
-                            return (
-                              <td
-                                key={i}
-                                className={`border border-gray-600 px-2 py-1.5 text-center ${
+                              <span className="text-gray-500 w-8 shrink-0 font-medium">
+                                {weekNum}
+                              </span>
+                              <span
+                                className={`${
                                   isOwned ? "text-green-400" : "text-gray-300"
-                                }`}
+                                } wrap-break-word`}
+                                title={track?.track}
                               >
                                 {track ? track.track : "-"}
-                              </td>
-                            );
-                          })}
-                        </tr>
-                      </tbody>
-                    </table>
-                  </div>
-                </div>
-              );
-            })}
-          </div>
+                              </span>
+                            </div>
+                          );
+                        })}
+                      </div>
+                    </div>
+                  );
+                })}
+              </div>
 
-          {filteredSeries.length === 0 && (
-            <p className="text-center text-gray-500 mt-8">
-              No series match the current filters.
-            </p>
+              {filteredSeries.length === 0 && (
+                <p className="text-center text-gray-500 mt-8">
+                  No series match the current filters.
+                </p>
+              )}
+            </>
           )}
-        </>
-      )}
 
-      {activeTab === "myContent" && (
-        <MyContent
-          allCars={allCars}
-          allTracks={allTracks}
-          ownedCars={ownedCars}
-          ownedTracks={ownedTracks}
-          freeCars={freeCars}
-          freeTracks={freeTracks}
-          toggleCar={toggleCar}
-          toggleTrack={toggleTrack}
-        />
-      )}
+          {activeTab === "myContent" && (
+            <MyContent
+              allCars={allCars}
+              allTracks={allTracks}
+              ownedCars={ownedCars}
+              ownedTracks={ownedTracks}
+              freeCars={freeCars}
+              freeTracks={freeTracks}
+              toggleCar={toggleCar}
+              toggleTrack={toggleTrack}
+            />
+          )}
 
-      {activeTab === "recommended" && (
-        <RecommendedSeries
-          series={scheduleData as Series[]}
-          ownedTracks={ownedTracks}
-          ownedCars={ownedCars}
-          getBaseTrackName={getBaseTrackName}
-        />
-      )}
+          {activeTab === "recommended" && (
+            <RecommendedSeries
+              series={scheduleData as Series[]}
+              ownedTracks={ownedTracks}
+              ownedCars={ownedCars}
+              getBaseTrackName={getBaseTrackName}
+              selectedDisciplines={selectedDisciplines}
+              selectedClasses={selectedClasses}
+            />
+          )}
+        </main>
+      </div>
     </div>
   );
 }
