@@ -1,0 +1,115 @@
+[
+  {
+    "Car Class": "NASCAR Cup Series Next Gen",
+    "Cars": [
+      "NASCAR Cup Series Next Gen Chevrolet Camaro ZL1",
+      "NASCAR Cup Series Next Gen Ford Mustang",
+      "NASCAR Cup Series Next Gen Toyota Camry"
+    ]
+  },
+  {
+    "Car Class": "NASCAR Gen 4",
+    "Cars": ["Gen 4 Chevrolet Monte Carlo - 2003", "Gen 4 Ford Taurus - 2003"]
+  },
+  {
+    "Car Class": "NASCAR XFINITY Series",
+    "Cars": [
+      "NASCAR XFINITY Chevrolet Camaro",
+      "NASCAR XFINITY Ford Mustang",
+      "NASCAR XFINITY Toyota Supra"
+    ]
+  },
+  {
+    "Car Class": "NASCAR Cup Series COT",
+    "Cars": ["[Legacy] NASCAR Cup Chevrolet Impala COT - 2009"]
+  },
+  {
+    "Car Class": "NASCAR Trucks",
+    "Cars": [
+      "NASCAR Truck Chevrolet Silverado",
+      "NASCAR Truck Ford F150",
+      "NASCAR Truck Toyota Tundra TRD Pro"
+    ]
+  },
+  {
+    "Car Class": "NASCAR Legends 1987",
+    "Cars": [
+      "NASCAR Legends Chevrolet Monte Carlo - 1987",
+      "NASCAR Legends Ford Thunderbird - 1987",
+      "NASCAR Legends Buick LeSabre - 1987",
+      "NASCAR Legends Pontiac Grand Prix - 1987"
+    ]
+  },
+  {
+    "Car Class": "Global Mazda MX-5 Cup",
+    "Cars": ["Global Mazda MX-5 Cup"]
+  },
+  {
+    "Car Class": "GT4",
+    "Cars": [
+      "Porsche 718 Cayman GT4 Clubsport MR",
+      "McLaren 570S GT4",
+      "Aston Martin Vantage GT4",
+      "Mercedes-AMG GT4",
+      "BMW M4 G82 GT4 Evo",
+      "Ford Mustang GT4"
+    ]
+  },
+  {
+    "Car Class": "Lotus 79",
+    "Cars": ["Lotus 79"]
+  },
+  {
+    "Car Class": "Super Formula Lights",
+    "Cars": ["Super Formula Lights"]
+  },
+  {
+    "Car Class": "Legacy Pro Mazda",
+    "Cars": ["[Legacy] Pro Mazda"]
+  },
+  {
+    "Car Class": "Ford Mustang FR500S",
+    "Cars": ["Ford Mustang FR500S"]
+  },
+  {
+    "Car Class": "Cadillac CTS-V Racecar",
+    "Cars": ["Cadillac CTS-V Racecar"]
+  },
+  {
+    "Car Class": "Dallara IL-15",
+    "Cars": ["Dallara IL-15"]
+  },
+  {
+    "Car Class": "Dallara P217",
+    "Cars": ["Dallara P217"]
+  },
+  {
+    "Car Class": "TCR",
+    "Cars": [
+      "Audi RS 3 LMS TCR",
+      "Hyundai Elantra N TCR",
+      "Honda Civic Type R TCR",
+      "Hyundai Veloster N TCR"
+    ]
+  },
+  {
+    "Car Class": "GT3",
+    "Cars": [
+      "BMW M4 GT3 EVO",
+      "Lamborghini Huracan GT3 EVO",
+      "Mercedes-AMG GT3 2020",
+      "Porsche 911 GT3 R (992)",
+      "Ferrari 296 GT3",
+      "Audi R8 LMS EVO II GT3",
+      "Chevrolet Corvette Z06 GT3.R",
+      "Ford Mustang GT3",
+      "McLaren 720S GT3 EVO",
+      "Acura NSX GT3 EVO 22",
+      "Aston Martin Vantage GT3 EVO"
+    ]
+  },
+  {
+    "Car Class": "BMW M2 CS Racing",
+    "Cars": ["BMW M2 CS Racing"]
+  }
+]

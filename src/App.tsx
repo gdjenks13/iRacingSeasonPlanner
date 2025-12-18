@@ -1,5 +1,6 @@
 import { useState, useMemo } from "react";
 import scheduleData from "./data/schedule.json";
+import classesData from "./data/classes.json";
 import type { Series, LicenseClass, Discipline } from "./types";
 import { useOwnedContent } from "./hooks/useOwnedContent";
 import { MyContent } from "./components/MyContent";
@@ -40,6 +41,59 @@ function getBaseTrackName(trackName: string): string {
     return trackName.substring(0, hyphenIndex).trim();
   }
   return trackName.trim();
+}
+
+// Helper to find car class from cars listed in track string
+function findCarClassFromTrack(trackString: string): string | null {
+  for (const carClass of classesData) {
+    // Check if any car from this class appears in the track string
+    const hasMatchingCar = carClass.Cars.some((car) =>
+      trackString.includes(car)
+    );
+    if (hasMatchingCar) {
+      return carClass["Car Class"];
+    }
+  }
+  return null;
+}
+
+// Helper to get cars from track string (for special series)
+function getCarsFromTrackString(trackString: string): string[] {
+  const cars: string[] = [];
+  for (const carClass of classesData) {
+    for (const car of carClass.Cars) {
+      if (trackString.includes(car)) {
+        cars.push(car);
+      }
+    }
+  }
+  return cars;
+}
+
+// Helper to check if user owns at least one car from a list
+function ownsAnyCar(cars: string[], ownedCars: Set<string>): boolean {
+  return cars.some((car) => ownedCars.has(car));
+}
+
+// Helper to get display text for special series (Draft Master Challenge, Ring Meister)
+function getSpecialSeriesTrackDisplay(
+  seriesName: string,
+  trackString: string
+): string | null {
+  if (seriesName === "Draft Master Challenge by Simagic") {
+    const carClass = findCarClassFromTrack(trackString);
+    if (carClass) {
+      // Extract first word of track name (Talladega or Daytona)
+      const firstWord = trackString.split(" ")[0];
+      return `${firstWord} - ${carClass}`;
+    }
+  } else if (seriesName === "Ring Meister") {
+    const carClass = findCarClassFromTrack(trackString);
+    if (carClass) {
+      return `Nurburgring - ${carClass}`;
+    }
+  }
+  return null;
 }
 
 function App() {
@@ -289,9 +343,36 @@ function App() {
                           const baseName = track
                             ? getBaseTrackName(track.track)
                             : null;
-                          const isOwned = baseName
-                            ? ownedTracks.has(baseName)
-                            : false;
+
+                          // Check for special series display
+                          const specialDisplay = track
+                            ? getSpecialSeriesTrackDisplay(
+                                series.Series,
+                                track.track
+                              )
+                            : null;
+
+                          // For special series (Draft Master, Ring Meister), check track AND car ownership
+                          const isSpecialSeries =
+                            series.Series ===
+                              "Draft Master Challenge by Simagic" ||
+                            series.Series === "Ring Meister";
+
+                          let isOwned = false;
+                          if (baseName && ownedTracks.has(baseName)) {
+                            if (isSpecialSeries && track) {
+                              // For special series, also need to own at least one car
+                              const carsForWeek = getCarsFromTrackString(
+                                track.track
+                              );
+                              isOwned = ownsAnyCar(carsForWeek, ownedCars);
+                            } else {
+                              isOwned = true;
+                            }
+                          }
+
+                          const displayText =
+                            specialDisplay || track?.track || "-";
 
                           return (
                             <div
@@ -307,7 +388,7 @@ function App() {
                                 } wrap-break-word`}
                                 title={track?.track}
                               >
-                                {track ? track.track : "-"}
+                                {displayText}
                               </span>
                             </div>
                           );
